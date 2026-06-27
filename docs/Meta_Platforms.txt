@@ -1,0 +1,850 @@
+
+Meta Platforms
+
+
+Meta Platforms, Inc. (doing business as Meta) is an American multinational technology company headquartered in Menlo Park, California. Meta owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, and Threads. The company also operates an advertising network for its
+own sites and third parties; as of 2023, advertising accounted for 97.8 percent of its total revenue.[9] Meta
+has been described as a part of Big Tech, which refers to the largest six tech companies in the United States, Alphabet (Google), Amazon, Apple, Meta (Facebook), Microsoft, and Nvidia, which are also the largest companies   in   the   world   by   market
+capitalization.[10][11][12]
+
+The company was originally established in 2004 as TheFacebook, Inc.,[13] and was renamed Facebook, Inc.  in  2005.[14]  In  2021,  it  rebranded  as  Meta
+Platforms, Inc. to reflect a strategic shift toward developing the metaverse—an interconnected digital ecosystem spanning virtual and augmented reality technologies.[15][16][17][18]
+In 2023, Meta was ranked 31st on the Forbes Global 2000 list of the world's largest public companies.[19] As of 2022, it was the world's third-largest spender on
+research and development, with R&D expenses totaling US$35.3 billion.[20]
+
+Meta Platforms, Inc.
+
+
+History
+
+Facebook filed for an initial public offering (IPO) on January 1, 2012.[21] The preliminary prospectus stated that the company sought to raise $5 billion, had 845
+million monthly active users, and a website accruing
+2.7 billion likes and comments daily.[22] After the IPO, Zuckerberg would retain 22% of the total shares and 57% of the total voting power in Facebook.[23]
+
+Underwriters valued the shares at $38 each, valuing the company at $104 billion, the largest valuation yet for a newly public company.[24] On May 16, one day before the IPO, Facebook announced it would sell 25% more shares than originally planned due to high demand.[25] The IPO raised $16 billion, making it the third-largest in US history (slightly ahead of AT&T Mobility and behind only General Motors and Visa). The stock price left the company with a higher market capitalization than all but a few U.S. corporations—surpassing heavyweights such as Amazon, McDonald's, Disney, and Kraft Foods—and made Zuckerberg's stock worth
+$19 billion.[26][27] The New York Times stated that the offering overcame questions about Facebook's difficulties in attracting advertisers to transform the company into a "must-own stock". Jimmy Lee of JPMorgan Chase described it as "the next great blue-chip".[26] Writers at TechCrunch, on the other hand, expressed skepticism, stating, "That's a big multiple to live up to, and Facebook will likely need to add bold new  revenue  streams  to  justify  the  mammoth
+valuation."[28]
+
+Trading in the stock, which began on May 18, was delayed that day due to technical problems with the Nasdaq exchange.[29] The stock struggled to stay above the IPO price for most of the day, forcing underwriters  to  buy  back  shares  to  support  the
+price.[30] At the closing bell, shares were valued at
+$38.23,[31] only $0.23 above the IPO price and down
+$3.82 from the opening bell value. The opening was widely	described	by	the	financial	press	as	a disappointment.[32] The stock set a new record for trading volume of an IPO.[33] On May 25, 2012, the stock
+ended its first full week of trading at $31.91, a 16.5% decline.[34]
+
+On May 22, 2012, regulators from Wall Street's Financial Industry Regulatory Authority announced that it had begun to investigate whether banks underwriting Facebook had improperly shared information only with select clients rather than the general public. Massachusetts Secretary of State William F. Galvin subpoenaed Morgan Stanley over the same
+issue.[35]  The  allegations  sparked  "fury"  among  some
+investors and led to the immediate filing of several lawsuits, one of them a class action suit claiming more than $2.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Billboard on the Thomson Reuters building welcomes Facebook to Nasdaq in 2012.
+
+billion in losses due to the IPO.[36] Bloomberg estimated that retail investors may have lost approximately $630 million on Facebook stock since its debut.[37] S&P Global Ratings added
+Facebook to its S&P 500 index on December 21, 2013.[38]
+On May 2, 2014, Zuckerberg announced that the company would be changing its internal motto from "Move fast and break things" to "Move fast with stable infrastructure".[39][40]
+The earlier motto had been described as Zuckerberg's "prime directive to his developers and team" in a 2009 interview in Business Insider, in which he also said, "Unless you are breaking stuff, you are not moving fast enough."[41]
+In November 2016, Facebook announced the Microsoft Windows client of gaming service Facebook Gameroom, formerly Facebook Games Arcade, at the Unity Technologies
+developers conference.[42][43] The client allows Facebook
+
+
+
+Early chart of Facebook's stock
+
+
+Facebook corporate logo from 2019 to 2021
+
+users to play "native" games in addition to its web games. The service was closed in June 2021.[44]
+
+2018–2020: Focus on the metaverse
+Lasso was a short-video sharing app from Facebook similar to TikTok that was launched on iOS and Android in 2018 and was aimed at teenagers. On July 2, 2020, Facebook announced that Lasso would be shutting down on July 10.[45][46][47]
+In 2018, the Oculus lead Jason Rubin sent his 50-page vision document titled "The Metaverse" to Facebook's leadership. In the document, Rubin acknowledged that Facebook's virtual reality business had not caught on as expected, despite the hundreds of millions of dollars spent on content for early adopters. He also urged the company to execute fast and invest heavily in the vision, to shut out HTC, Apple, Google and other competitors in the VR space. Regarding other players' participation in the metaverse vision, he called for the company to build the "metaverse" to prevent its competitors from "being in the VR business in a meaningful way at all".[48]
+In May 2019, Facebook founded Libra Networks, reportedly to develop its own stablecoin cryptocurrency.[49] Later, it was reported that Libra was being supported by financial companies such as Visa, Mastercard, PayPal and Uber. The consortium of companies was expected to pool in $10 million each to fund the launch of the cryptocurrency coin named Libra.[50] Depending on when it would receive approval from the Swiss Financial Market Supervisory authority to operate as a payments service, the Libra Association had planned to launch a limited format cryptocurrency in 2021.[51] Libra was renamed
+Diem, before being shut down and sold in January 2022 after backlash from Swiss government regulators and the public.[52][53]
+During the COVID-19 pandemic, the use of online services, including Facebook, grew globally.[54] Zuckerberg predicted this would be a "permanent acceleration" that would continue after the pandemic.
+Facebook hired aggressively, growing from 48,268 employees in March 2020 to more than 87,000 by September 2022.[54]
+
+2021: Rebrand as Meta
+Following a period of intense scrutiny and damaging whistleblower leaks, news started to emerge on October 21, 2021 about Facebook's plan to rebrand the company and change its name.[15][55] In the Q3
+2021 earnings call on October 25, Mark Zuckerberg discussed the ongoing criticism of the company's social services and the way it operates, and pointed to the pivoting efforts to building the metaverse – without mentioning the rebranding and the name change.[56] The metaverse vision and the name change from Facebook, Inc. to Meta Platforms was introduced at Facebook Connect on October 28, 2021.[16] Based on Facebook's PR campaign, the name change reflects the company's shifting long term focus of building the metaverse, a digital extension of the physical world by social media, virtual reality and augmented reality features.[16][57]
+"Meta" had been registered as a trademark in the United States in 2018 (after an initial filing in 2015) for marketing, advertising, and computer services, by a Canadian company that provided big data analysis of scientific literature.[58] This company was acquired in 2017 by the Chan Zuckerberg Initiative (CZI), a foundation established by Zuckerberg and his wife, Priscilla Chan, and became one of their projects.[59] Following the rebranding announcement, CZI announced that it had already decided to deprioritize the
+earlier Meta project, thus it would be transferring its rights to the name to Meta Platforms, and the previous project would end in 2022.[60]
+
+2022: Declining profits and mass layoffs
+Soon after the rebranding, in early February 2022, Meta reported a greater-than-expected decline in profits in the fourth quarter of 2021.[61] It reported no growth in monthly users,[62] and indicated it expected revenue growth to stall.[61] It also expected measures taken by Apple Inc. to protect user privacy
+to cost it some $10 billion in advertisement revenue, an amount equal to roughly 8% of its revenue for 2021.[63] In meeting with Meta staff the day after earnings were reported, Zuckerberg blamed competition for user attention, particularly from video-based apps such as TikTok.[64]
+The 27% reduction in the company's share price which occurred in reaction to the news eliminated some
+$230 billion of value from Meta's market capitalization.[62] Bloomberg described the decline as "an epic rout that, in its sheer scale, is unlike anything Wall Street or Silicon Valley has ever seen".[62] Zuckerberg's net worth fell by as much as $31 billion.[65] Zuckerberg owns 13% of Meta, and the holding makes up the bulk of his wealth.[66][67]
+
+According to published reports by Bloomberg on March 30, 2022, Meta turned over data such as phone numbers, physical addresses, and IP addresses to hackers posing as law enforcement officials using forged documents. The law enforcement requests sometimes included forged signatures of real or fictional officials. When asked about the allegations, a Meta representative said, "We review every data request for legal sufficiency and use advanced systems and processes to validate law enforcement requests and detect abuse."[68] In June 2022, Sheryl Sandberg, the chief operating officer of 14 years, announced she would step down that year. Zuckerberg said that Javier Olivan would replace Sandberg, though in a “more traditional” role.[69]
+In March 2022, Meta (except Meta-owned WhatsApp) and Instagram were banned in Russia and added to the Russian list of terrorist and extremist organizations for alleged Russophobia and hate speech (up to genocidal calls) amid the ongoing Russian invasion of Ukraine.[70] Meta appealed against the ban, but it
+was upheld by a Moscow court in June of the same year.[70]
+
+Also in March 2022, Meta and Italian eyewear giant Luxottica released Ray-Ban Stories, a series of smartglasses which could play music and take pictures. Meta and Luxottica parent company EssilorLuxottica declined to disclose sales on the line of products as of September 2022, though Meta has
+expressed satisfaction with its customer feedback.[71][72][73]
+
+In July 2022, Meta saw its first year-on-year revenue decline when its total revenue slipped by 1% to
+$28.8bn.[74] Analysts and journalists accredited the loss to its advertising business, which has been limited by Apple's app tracking transparency feature and the number of people who have opted not to be
+tracked by Meta apps. Zuckerberg also accredited the decline to increasing competition from TikTok.[75][76][77] On October 27, 2022, Meta's market value dropped to $268 billion, a loss of around
+$700 billion compared to 2021, and its shares fell by 24%. It lost its spot among the top 20 US companies by market cap, despite reaching the top 5 in the previous year.[78]
+
+In November 2022, Meta laid off 11,000 employees, 13% of its workforce. Zuckerberg said the decision to aggressively increase Meta's investments had been a mistake, as he had wrongly predicted that the surge in e-commerce would last beyond the COVID-19 pandemic. He also attributed the decline to
+increased competition, a global economic downturn and "ads signal loss".[79] Plans to lay off a further
+10,000 employees began in April 2023.[80] The layoffs were part of a general downturn in the technology industry, alongside layoffs by companies including Google, Amazon, Tesla, Snap, Twitter and Lyft.[81][82]
+
+Starting from 2022, Meta scrambled to catch up to other tech companies in adopting specialized artificial intelligence hardware and software. It had been using less expensive CPUs instead of GPUs for AI work, but that approach turned out to be less efficient.[83] The company gifted the Inter-university Consortium for Political and Social Research $1.3 million to finance the Social Media Archive's aim to make its data available to social science research.[84]
+
+2023: Threads, AI and all-time high stock value
+In 2023, Ireland's Data Protection Commissioner imposed a record EUR 1.2 billion fine on Meta for transferring data from Europe to the United States without adequate protections for EU citizens.[85]:250
+
+In March 2023, Meta announced a new round of layoffs that would cut 10,000 employees and close 5,000 open positions to make the company more efficient.[86] Meta revenue surpassed analyst expectations for the first quarter of 2023 after announcing that it was increasing its focus on AI.[87] On July 6, Meta launched a new app, Threads, a competitor to Twitter.[88]
+Meta announced its artificial intelligence model Llama 2 in July 2023, available for commercial use via partnerships with major cloud providers like Microsoft. It was the first project to be unveiled out of Meta's generative AI group after it was set up in February. It would not charge access or usage but instead operate with a source-available model to allow Meta to ascertain what improvements need to be made. Prior to this announcement, Meta said it had no plans to release Llama 2 for commercial use. An earlier version of Llama was released to academics.[89][90]
+In August 2023, Meta announced its permanent removal of news content from Facebook and Instagram in Canada due to the Online News Act, which requires Canadian news outlets to be compensated for content shared on its platform. The Online News Act was in effect by year-end, but Meta will not participate in
+the regulatory process.[91] In October 2023, Zuckerberg said that AI would be Meta's biggest investment
+
+area in 2024.[92] Meta finished 2023 as one of the best-performing technology stocks of the year, with its share price up 150 percent.[93] Its stock reached an all-time high in January 2024, bringing Meta within 2% of achieving $1 trillion market capitalization.[94]
+
+In November 2023 Meta Platforms launched an ad-free service in Europe, allowing subscribers to opt-out of personal data being collected for targeted advertising. A group of 28 European organizations, including Max Schrems' advocacy group NOYB, the Irish Council for Civil Liberties, Wikimedia Europe, and the Electronic Privacy Information Center, signed a 2024 letter to the European Data Protection Board (EDPB) expressing concern that this subscriber model would undermine privacy protections, specifically GDPR data protection standards.[95]
+Meta removed the Facebook and Instagram accounts of Iran's Supreme Leader Ali Khamenei in February 2024, citing repeated violations of its Dangerous Organizations & Individuals policy.[96] As of March, Meta was under investigation by the FDA for alleged use of its social media platforms to sell illegal drugs.[97] On 16 May 2024, the European Commission began an investigation into Meta over concerns related to child safety.[98][99][100][101]
+In May 2023, Iraqi social media influencer Esaa Ahmed-Adnan encountered a troubling issue when Instagram removed his posts, citing false copyright violations despite his content being original and free from copyrighted material. He discovered that extortionists were behind these takedowns, offering to restore his content for $3,000 or provide ongoing protection for $1,000 per month. This scam, exploiting Meta’s rights management tools, became widespread in the Middle East, revealing a gap in Meta’s enforcement in developing regions. An Iraqi nonprofit Tech4Peace’s founder, Aws al-Saadi helped Ahmed-Adnan and others, but the restoration process was slow, leading to significant financial losses for many victims, including prominent figures like Ammar al-Hakim. This situation highlighted Meta’s challenges in balancing global growth with effective content moderation and protection.[102]
+
+2024: Developments and controversies
+On 16 September 2024, Meta announced it had banned Russian state media outlets from its platforms worldwide due to concerns about "foreign interference activity." This decision followed allegations that RT and its employees funneled $10 million through shell companies to secretly fund influence campaigns on various social media channels. Meta's actions were part of a broader effort to counter Russian covert
+influence operations, which had intensified since the invasion.[103]
+At its 2024 Connect conference, Meta presented Orion,[104] its first pair of augmented reality glasses. Though Orion was originally intended to be sold to consumers, the manufacturing process turned out to be too complex and expensive.[105] Instead, the company pivoted to producing a small number of the glasses to be used internally.[106]
+
+On 4 October 2024, Meta announced about its new AI model called Movie Gen, capable of generating realistic video and audio clips based on user prompts. Meta stated it would not release Movie Gen for open development, preferring to collaborate directly with content creators and integrate it into its products by the following year. The model was built using a combination of licensed and publicly
+available datasets.[107]
+
+On October 31, 2024, ProPublica published an investigation into deceptive political advertisement scams that sometimes use hundreds of hijacked profiles and facebook pages run by organized networks of scammers. The authors cited spotty enforcement by Meta as a major reason for the extent of the
+issue.[108]
+
+In November 2024, TechCrunch reported that Meta were considering building a $10bn global underwater cable spanning 25,000 miles.[109]
+
+In the same month, Meta closed down 2 million accounts on Facebook and Instagram that were linked to scam centers in Myanmar, Laos, Cambodia, the Philippines, and the United Arab Emirates doing pig butchering scams.[110]
+In December 2024, Meta announced that, beginning February 2025, it would require advertisers to run ads about financial services in Australia to verify information about who are the beneficiary and the payer in a bid to regulate scams.[111]
+On December 4, 2024, Meta announced it will invest US$10 billion for its largest AI data center in northeast Louisiana, powered by natural gas facilities.[112]
+On the 11th of that month, Meta experienced a global outage, impacting accounts on all of its social media and messaging applications. Outage reports from DownDetector reached 70,000+ and 100,000+ within minutes for Instagram and Facebook, respectively.[113]
+
+2025: Policy shifts and AI investments
+In January 2025, Meta announced plans to roll back its diversity, equity, and inclusion (DEI) initiatives, citing shifts in the "legal and policy landscape" in the United States following the 2024 presidential election. The decision followed reports that CEO Mark Zuckerberg sought to align the company more closely with the incoming Trump administration, including changes to content moderation policies and executive leadership.[114] The new content moderation policies continued to bar insults about a person's intellect or mental illness, but made an exception to allow calling LGBTQ people mentally ill because they are gay or transgender.[115] Later that month, Meta agreed to pay $25 million to settle a 2021 lawsuit
+brought by Donald Trump for suspending his social media accounts after the January 6 riots.[116] Changes
+to Meta's moderation policies were controversial among its oversight board, with a significant divide in opinion between the board's US conservatives and its global members.[117]
+
+In June 2025, Meta Platforms Inc. has decided to make a multibillion-dollar investment into artificial intelligence startup Scale AI. The financing could exceed $10 billion in value which would make it one of the largest private company funding events of all time.[118]
+In October 2025, it was announced that Meta would be laying off 600 employees in the artificial intelligence unit to perform better and simpler. It referred to its AI unit as "bloated" and are seeking to trim down the department. This mass layoff is going to impact Meta’s AI infrastructure units,
+Fundamental Artificial Intelligence Research unit (FAIR) and other product-related positions.[119]
+
+In late 2025, Meta said that it would start remove images and videos containing nudity or explicit sexual activity, including when generated by AI for teen users on Instagram.[120]
+
+2026: Investments in AI
+In February 2026, Meta announced a long-term partnership with Nvidia.[121] According to an analysis by Bridgewater Associates, Meta, along with Amazon, Alphabet and Microsoft are expected to collectively invest about $650 billion to scale up AI-related infrastructure in 2026.[122]
+As of March 2026, Meta is currently facing investigations in the United Kingdom and the United States related to its AI-enabled smart glasses. Regulators are examining how images and videos captured by the devices may be used in the development and improvement of artificial intelligence systems.[123]
+In March 2026, Meta agreed to allow AI rivals on WhatsApp for a year, in a bid to prevent a possible temporary order from EU antitrust regulators after complaints from competitors who were blocked from WhatsApp.[124]
+In March 2026, Meta signed an energy pledge at the White House which required it to bear the cost of new electricity generation to power its data centers.[125]
+
+In March 2026, Meta acquired Moltbook a social network for AI bots, where AI agents interact with one another autonomously.[126]
+
+On 11 March 2026, Meta revealed a roadmap of four new chips that it is making in-house. The new chips are part of the company's Meta Training and Inference Accelerator program.[127]
+
+On March 31, 2026, Meta unveiled two new Ray-Ban smart glasses designed for prescription lenses, expanding its lineup of AI-enabled wearable devices.[128]
+
+In 2026, the UK government ramped up scrutiny of social media companies. In a meeting with the executives of companies including Meta, Prime Minister Keir Starmer asked which steps they would take to ensure child online safety.[129]
+In May 2026, major publishers including Macmillan, Hachette, Cengage, Elsevier, and McGraw Hill sued Meta Platforms, alleging that Meta used their books and journal articles, without their permission, to train Llama.[130] Reports stated that Meta was preparing to launch an agentic AI assistant designed to carry out
+personalized tasks across its platforms.[131] The same month, Meta laid off 8,000 workers, or about 10% of its workforce, with a detached-sounding memo that emphasized that “success isn’t a given” in the AI
+race.[132] 7,000 employees were also set to be moved to AI-focused roles.[133]
+
+In May 2026, Meta introduced subscription tiers for Facebook, Instagram, and WhatsApp, providing users with access to additional customization, analytics, and platform features.[134]
+
+In June 2026, Meta introduced an AI-based assistant for creators, designed to provide guidance on content strategy, audience engagement, and account performance through an interactive chat interface.[135] The same month, Meta announced new AI-powered advertising features designed to assist businesses with creating, managing, and optimizing digital advertising campaigns.[136]
+
+Mergers and acquisitions
+Meta has acquired multiple companies (often identified as talent acquisitions).[137] One of its first major acquisitions was in April 2012, when it acquired Instagram for approximately US$1 billion in cash and stock.[138]  In  October  2013,  Facebook,  Inc.  acquired  Onavo,  an  Israeli  mobile  web  analytics
+company.[139][140] In February 2014, Facebook, Inc. announced it would buy mobile messaging company WhatsApp for US$19 billion in cash and stock.[141][142] The acquisition was completed on October 6.[143] Later that year, Facebook bought Oculus VR for $2.3 billion in cash and stock,[144] which released
+its first consumer virtual reality headset in 2016. In late November 2019, Facebook, Inc. announced the acquisition of the game developer Beat Games, responsible for developing one of that year's most popular VR games, Beat Saber.[145] In Late 2022, after Facebook Inc rebranded to Meta Platforms Inc, Oculus was rebranded to Meta Quest.
+In May 2020, Facebook, Inc. announced it had acquired Giphy for a reported cash price of $400 million. It will be integrated with the Instagram team.[146] However, in August 2021, UK's Competition and Markets Authority (CMA) stated that Facebook, Inc. might have to sell Giphy, after an investigation found that the deal between the two companies would harm competition in display advertising market.[147] Facebook, Inc. was fined $70 million by CMA for deliberately failing to report all information regarding the acquisition and the ongoing antitrust investigation.[148] In October 2022, the
+CMA ruled for a second time that Meta be required to divest Giphy, stating that Meta already controls half of the advertising in the UK. Meta agreed to the sale, though it stated that it disagrees with the decision itself.[149] In May 2023, Giphy was divested to Shutterstock for $53 million.[150]
+In November 2020, Facebook, Inc. announced that it planned to purchase the customer-service platform and chatbot specialist startup Kustomer to promote companies to use its platform for business. It has been reported that Kustomer valued at slightly over $1 billion.[151] The deal was closed in February 2022 after
+regulatory approval.[152]
+In September 2022, Meta acquired Lofelt, a Berlin-based haptic tech startup.[153]
+In December 2025, it was announced Meta had acquired the AI-wearables startup, Limitless.[154] In the same month, it also acquired another AI startup, Manus AI, for $2 billion.[155] Manus announced in December that its platform had achieved $100mm in recurring revenue just 8 months after its launch and Meta said it will scale the platform to many other businesses.[156] In January 2026, it was announced Meta proposed acquisition of Manus was undergoing preliminary scrutiny by Chinese regulators. The
+examination concerns the cross-border transfer of artificial intelligence technology developed in China.[157]
+
+Lobbying
+
+In 2020, Facebook, Inc. spent $19.7 million on lobbying, hiring 79 lobbyists. In 2019, it had spent
+$16.7 million on lobbying and had a team of 71 lobbyists, up from $12.6 million and 51 lobbyists in 2018.[158] Facebook was the largest spender of lobbying money among the Big Tech companies in
+
+2020.[159] The lobbying team includes top congressional aide John Branscome, who was hired in September 2021, to help the company fend off threats from Democratic lawmakers and the Biden administration.[160]
+In December 2024, Meta donated $1 million to the inauguration fund for then-President-elect Donald Trump.[161]
+
+In 2025, Meta was listed among the donors funding the construction of the White House State Ballroom.[162]
+
+Censorship
+
+In 2016 Meta hired Jordana Cutler, formerly an employee at the Israeli Embassy to the United States, as its policy chief for Israel and the Jewish Diaspora. In this role, Cutler pushed for the censorship of accounts belonging to Students for Justice in Palestine chapters in the United States. Critics have said that Cutler's position gives the Israeli government an undue influence over Meta policy, and that few countries
+have such high levels of contact with Meta policymakers.[163]
+In August 2024, Mark Zuckerberg sent a letter to Jim Jordan indicating that during the COVID-19 pandemic the Biden administration repeatedly asked Meta to limit certain COVID-19 content, including humor and satire, on Facebook and Instagram.[164]
+Following the election of Donald Trump in 2025, various sources noted possible censorship related to the Democratic Party on Instagram and other Meta platforms.[165][166][167] In February 2025, a Meta rep flagged journalist Gil Duran's article and other "critiques of tech industry figures" as spam or sensitive
+content, limiting their reach.[168]
+
+According to a 2025 complaint by whistleblower Sarah Wynn-Williams, Facebook created in 2014 a "China team" to develop a version of its services that would be allowed in China, a project internally code-named "Project Aldrin". The company allegedly created a custom censorship system and agreed to hire 300 content moderators to support it. In an email exchange, an employee of Facebook's privacy team wrote, "In exchange for the ability to establish operations in China, FB will agree to grant the Chinese government access to Chinese users’ data — including Hongkongese users’ data". According to Wynn-Williams, Facebook also restricted the account of Guo Wengui, a Chinese businessman critical of the government, to foster cooperation with China. By 2019, Facebook had abandoned its ambitions in China,
+as trade tensions between the Trump administration and China escalated.[169]
+
+In March 2025, Meta attempted to block Sarah Wynn-Williams from promoting or further distributing her memoir, Careless People, that includes allegations of unaddressed sexual harassment in the workplace by senior executives. The New York Times reports that the arbitration is among Meta's most forcible attempts
+to repudiate a former employee's account of workplace dynamics.[170] Publisher Macmillan reacted to the
+ruling by the Emergency International Arbitral Tribunal by stating that it will ignore its provisions.[171] As of 15 March 2025, hardback and digital versions of Careless People were being offered for sale by major online retailers.
+
+From October 2025, Meta began removing and restricting access for accounts related to LGBTQ, reproductive health and abortion information pages on its platforms. Martha Dimitratou, executive director of Repro Uncensored, called Meta's shadow-banning of these issues "One of the biggest waves of
+censorship we are seeing".[172]
+
+Disinformation concerns
+Since its inception, Meta has been accused of being a host for fake news and misinformation.[173] In the wake of the 2016 United States presidential election, Zuckerberg began to take steps to eliminate the prevalence of fake news, as the platform had been criticized for its potential influence on the outcome of
+the election.[174] The company initially partnered with ABC News, the Associated Press, FactCheck.org,
+Snopes and PolitiFact for its fact-checking initiative;[175] as of 2018, it had over 40 fact-checking partners across the world, including The Weekly Standard.[176]
+
+A May 2017 review by The Guardian found that the platform's fact-checking initiatives of partnering with third-party fact-checkers and publicly flagging fake news were regularly ineffective, and appeared to be having minimal impact in some cases.[177] In 2018, journalists working as fact-checkers for the
+company criticized the partnership, stating that it had produced minimal results and that the company had ignored their concerns.[176]
+
+In 2024 Meta's decision to continue to disseminate a falsified video of US president Joe Biden, even after it had been proven to be fake, attracted criticism and concern.[178][179]
+
+Misinformation and hate speech
+In January 2025, Meta ended its use of third-party fact-checkers in favor of a user-run community notes system similar to the one used on X.[180][181]
+
+While Zuckerberg supported these changes, saying that the amount of censorship on the platform was excessive, the decision received criticism by fact-checking institutions, stating that the changes would make it more difficult for users to identify misinformation.[182] Meta also faced criticism for weakening
+its policies on hate speech that were designed to protect minorities and LGBTQ+ individuals from bullying and discrimination.[183][184][185] While moving its content review teams from California to
+Texas, Meta changed its hateful conduct policy to eliminate restrictions on anti-LGBT and anti-immigrant hate speech, as well as explicitly allowing users to accuse LGBT people of being mentally ill or abnormal based on their sexual orientation or gender identity.[186][187][188][189]
+In January 2025, Meta faced significant criticism for its role in removing LGBTQ+ content from its platforms, amid its broader efforts to address anti-LGBTQ+ hate speech. The removal of LGBTQ+ themes was noted as part of the wider crackdown on content deemed to violate its community guidelines. Meta's content moderation policies, which were designed to combat harmful speech and protect users from discrimination, inadvertently led to the removal or restriction of LGBTQ+ content, particularly posts highlighting LGBTQ+ identities, support, or political issues. According to reports, LGBTQ+ posts, including those that simply celebrated pride or advocated for LGBTQ+ rights, were flagged and removed for reasons that some critics argue were vague or inconsistently applied. Many LGBTQ+ activists and
+
+users on Meta's platforms expressed concern that such actions stifled visibility and expression, potentially isolating LGBTQ+ individuals and communities, especially in spaces that were historically important for outreach and support.[183][185][184]
+In an April 2026 interview with Outlook Business, former Meta executive turned whistleblower Kelly Stonelake claimed that Big Tech platforms such as Meta tended to prioritise scale over user safety in developing countries such as India, often treating them as "scale markets". This, according to Stonelake, amplified prevalent issues such as misinformation, harassment, political manipulation, and communal-violence.[190]
+
+Lawsuits
+
+Numerous lawsuits have been filed against the company, both when it was known as Facebook, Inc., and as Meta Platforms.
+In March 2020, the Office of the Australian Information Commissioner (OAIC) sued Facebook, for significant and persistent infringements of the rule on privacy involving the Cambridge Analytica fiasco. Every violation of the Privacy Act is subject to a theoretical cumulative liability of $1.7 million. The
+OAIC estimated that a total of 311,127 Australians had been exposed.[191]
+On December 8, 2020, the U.S. Federal Trade Commission and 46 states (excluding Alabama, Georgia, South Carolina, and South Dakota), the District of Columbia and the territory of Guam, launched Federal Trade Commission v. Facebook as an antitrust lawsuit against Facebook. The lawsuit concerns Facebook's acquisition of two competitors—Instagram and WhatsApp—and the ensuing monopolistic
+situation. FTC alleges that Facebook holds monopolistic power in the U.S. social networking market and seeks to force the company to divest from Instagram and WhatsApp to break up the conglomerate.[192]
+William Kovacic, a former chairman of the Federal Trade Commission, argued the case will be difficult to win as it would require the government to create a counterfactual argument of an internet where the Facebook-WhatsApp-Instagram entity did not exist, and prove that harmed competition or consumers.[193] In November 2025, it was ruled that Meta did not violate antitrust laws and holds no monopoly in the market.[194]
+On December 24, 2021, a court in Russia fined Meta for $27 million after the company declined to remove unspecified banned content. The fine was reportedly tied to the company's annual revenue in the country.[195]
+In May 2022, a lawsuit was filed in Kenya against Meta and its local outsourcing company Sama. Allegedly, Meta has poor working conditions in Kenya for workers moderating Facebook posts. According to the lawsuit, 260 screeners were declared redundant with confusing reasoning. The lawsuit seeks financial compensation and an order that outsourced moderators be given the same health benefits and pay scale as Meta employees.[196][197]
+In June 2022, 8 lawsuits were filed across the U.S. over the allege that excessive exposure to platforms including Facebook and Instagram has led to attempted or actual suicides, eating disorders and sleeplessness, among other issues. The litigation follows a former Facebook employee's testimony in Congress that the company refused to take responsibility. The company noted that tools have been developed for parents to keep track of their children's activity on Instagram and set time limits, in
+
+addition to Meta's "Take a break" reminders. In addition, the company is providing resources specific to eating disorders as well as developing AI to prevent children under the age of 13 signing up for Facebook or Instagram.[198]
+In June 2022, Meta settled a lawsuit with the US Department of Justice. The lawsuit, which was filed in 2019, alleged that the company enabled housing discrimination through targeted advertising, as it allowed homeowners and landlords to run housing ads excluding people based on sex, race, religion, and other characteristics. The U.S. Department of Justice stated that this was in violation of the Fair Housing Act.
+Meta was handed a penalty of $115,054 and given until December 31, 2022, to shadow the algorithm tool.[199][200][201]
+
+In January 2023, Meta was fined €390 million for violations of the European Union General Data Protection Regulation.[202]
+
+In May 2023, the European Data Protection Board fined Meta a record €1.2 billion for breaching European Union data privacy laws by transferring personal data of Facebook users to servers in the U.S.[203]
+
+In July 2024, Meta agreed to pay the state of Texas US$1.4 billion to settle a lawsuit brought by Texas Attorney General Ken Paxton accusing the company of collecting users' biometric data without consent, setting a record for the largest privacy-related settlement ever obtained by a state attorney general.[204]
+In October 2024, Meta Platforms faced lawsuits in Japan from 30 plaintiffs who claimed they were defrauded by fake investment ads on Facebook and Instagram, featuring false celebrity endorsements. The plaintiffs are seeking approximately $2.8 million in damages.[205]
+In April 2025, the Kenyan High Court ruled that a US$2.4 billion lawsuit in which three plaintiffs claim that Facebook inflamed civil violence in Ethiopia in 2021 could proceed.[206]
+
+In April 2025, Meta was fined €200 million ($230 million) for breaking the Digital Markets Act, by imposing a “consent or pay” system that forces users to either allow their personal data to be used to target advertisements, or pay a subscription fee for advertising-free versions of Facebook and Instagram.[207]
+In late April 2025, a case was filed against Meta in Ghana over the alleged psychological distress experienced by content moderators employed to take down disturbing social media content including depictions of murders, extreme violence and child sexual abuse.[208] Meta moved the moderation service to the Ghanaian capital of Accra after legal issues in the previous location Kenya. The new moderation company is Teleperformance, a multinational corporation with a history of worker's rights violation. Reports suggests the conditions are worse here than in the previous Kenyan location, with many workers afraid of speaking out due to fear of returning to conflict zones. Workers reported developing mental illnesses, attempted suicides, and low pay.[209]
+In December 2023, a New Mexico state court case was filed by New Mexico Attorney General Raúl Torrez based on an undercover investigation alleging that "Meta knowingly exposes children to the twin dangers of sexual exploitation and mental health harm [...] Meta’s motive for doing so is profit."[210][211]
+In March 2026, a New Mexico jury found that Meta had harmed children’s mental health and safety and violated state law in the case. Meta was ordered to pay $375 million in civil penalties.[212] New Mexico
+
+will argue that the company "make specific changes to its platforms and company operations, including enacting effective age verification, removing predators from the platform, and protecting minors from encrypted communications that shield bad actors."[213]
+In March 2026, a Los Angeles jury found Meta and YouTube liable in K.G.M. v. Meta et al., a civil lawsuit alleging that their platforms contributed to a user's mental health harm.[214]
+In March 2026, a New Mexico jury found that Meta violated New Mexico's consumer protection law and ordered Meta to pay US$372 million in civil penalties.[215]
+
+UReputation
+In 2020,[216] UReputation, a communication agency involved in several influence operations,[217] filed a lawsuit against Facebook, accusing it of unlawfully transmitting personal data to third parties. Legal actions were initiated in Tunisia, France, and the United States. In 2025, the United States District court for the Northern District of Georgia approved a discovery procedure, allowing UReputation to access documents and evidence held by Meta.[218][219]
+
+Structure
+
+Management
+Meta's key management consists of:[220][221]
+
+
+& Mark Zuckerberg, chairman and chief executive officer
+& Javier Olivan, chief operating officer
+& Sir Nick Clegg, president, global affairs
+& Susan Li, chief financial officer
+& Andrew Bosworth, chief technology officer
+& David Wehner, chief strategy officer
+& Chris Cox, chief product officer
+& Jennifer Newstead, chief legal officer
+As of October 2022, Meta had 83,553 employees worldwide.
+
+
+
+
+
+
+
+Mark Zuckerberg, co-founder, chairman and CEO of Meta, in 2012
+
+
+Board of directors
+As of June 2024, Meta's board consisted of the following directors;[222]
+
+& Mark Zuckerberg (chairman, co-founder, controlling shareholder, and chief executive officer)
+& Peggy Alford (non-executive director, executive vice president, global sales, PayPal)
+& Marc Andreessen (non-executive director, co-founder and general partner, Andreessen Horowitz)
+& Drew Houston (non-executive director, chairman and chief executive officer, Dropbox)
+& Nancy Killefer (non-executive director, senior partner, McKinsey & Company)
+& Robert M. Kimmitt (non-executive director, senior international counsel, WilmerHale)
+
+& Tracey Travis (non-executive director, executive vice president, chief financial officer, Estée Lauder Companies)
+& Tony Xu (non-executive director, chairman and chief executive officer, DoorDash)
+& Hock Tan (CEO of Broadcom) [223]
+& John D. Arnold (former Enron executive) [223]
+& Dana White (non-executive director, president and CEO of UFC)[224]
+& John Elkann (Stellantis chairman, and Exor CEO)[225]
+& Charlie Songhurst[226]
+
+Ownership
+Meta Platforms is mainly owned by institutional investors, who hold around 80% of all shares.[227] Insiders control the majority of voting shares. The three largest individual investors in 2024 were Mark Zuckerberg, Sheryl Sandberg and Christopher K. Cox.[228]
+The largest shareholders in late 2024/early 2025 were:[227]
+
+& Mark Zuckerberg (13.5%)[228]
+& The Vanguard Group (8.8%)
+& BlackRock (7.66%)
+& Fidelity Investments (6.28%)
+& State Street Corporation (3.97%)
+& JPMorgan Chase (2.38%)
+& Geode Capital Management (2.27%)
+& T. Rowe Price (1.95%)
+& Capital World Investors (1.86%)
+& Capital Research Global Investors (1.7%)
+& Morgan Stanley (1.66%)
+
+Company governance
+Roger McNamee, an early Facebook investor and Zuckerberg's former mentor, said Facebook had "the most centralized decision-making structure I have ever encountered in a large company".[229]
+
+Facebook co-founder Chris Hughes has stated that chief executive officer Mark Zuckerberg has too much power, that the company is now a monopoly, and that, as a result, it should be split into multiple smaller companies. In an op-ed in The New York Times, Hughes said he was concerned that Zuckerberg had surrounded himself with a team that did not challenge him, and that it is the U.S. government's job to
+hold him accountable and curb his "unchecked power".[230] He also said that "Mark's power is
+unprecedented and un-American."[231] Several U.S. politicians agreed with Hughes.[232] European Union Commissioner for Competition Margrethe Vestager stated that splitting Facebook should be done only as "a remedy of the very last resort", and that it would not solve Facebook's underlying problems.[233]
+
+Revenue
+
+
+Facebook ranked No. 34 in the 2020 Fortune 500 list of the largest United States corporations by revenue, with almost $86 billion in revenue[250] most of it coming from advertising.[251][252] One analysis of 2017 data determined that the company earned US$20.21 per user from advertising.[253]
+According to New York, since its rebranding, Meta has reportedly lost
+$500 billion as a result of new privacy measures put in place by companies such as Apple and Google which prevents Meta from gathering users' data.[254][255]
+
+Revenue by market (2024)[256]
+
+Revenue
+(in millions USD)
+
+
+MarketRevenueShareUnited States$59.7 bn.36.3%Europe$38.4 bn.23.3%Asia-Pacific (excl. China)$26.7 bn.16.2%China$18.4 bn.11.2%Rest of the World$17.9 bn.10.9%Canada$3.5 bn.2.1%
+Number of advertisers
+In February 2015, Facebook announced it had reached two million active advertisers, with most of the gain coming from small businesses. An active advertiser was defined as an entity that had advertised on the Facebook platform in the last 28 days.[257] In March 2016, Facebook announced it had reached three million active advertisers with more than 70% from outside the United States.[258] Prices for advertising follow a variable pricing model based on auctioning ad placements, and potential engagement levels of the advertisement itself. Similar to other online advertising platforms like Google and Twitter, targeting of advertisements is one of the chief
+merits of digital advertising compared to traditional media. Marketing on Meta is employed through two methods based on the viewing habits, likes and shares, and purchasing data of the audience, namely targeted audiences and "look alike" audiences.[259]
+
+Scam advertising
+According to internal documents analyzed by Reuters, Meta projected that 10% of its 2024 revenue ($16 billion) would come from ads for scams and prohibited goods. Meta estimated that this represented 15 billion "higher risk" scam ads shown per day and that the company's platforms were involved in a third of all successful scams in the US. Rather than banning suspected scammers, Meta decided to charge them
+
+higher rates to reduce the profitability of scam campaigns. The company estimated that any regulatory fine would be significantly lower than the revenue from such ads, and an internal document states that the team responsible for vetting questionable advertisers wasn't allowed to take actions that would cost more
+than 0.15% of Meta's total revenue.[260]
+
+Tax affairs
+The U.S. IRS challenged the valuation Facebook used when it transferred IP from the U.S. to Facebook Ireland (now Meta Platforms Ireland) in 2010 (which Facebook Ireland then revalued higher before charging out), as it was building its double Irish tax structure.[261][262] The case is ongoing and Meta
+faces a potential fine of $3–5bn.[263]
+The U.S. Tax Cuts and Jobs Act of 2017 changed Facebook's global tax calculations. Meta Platforms Ireland is subject to the U.S. GILTI tax of 10.5% on global intangible profits (i.e. Irish profits). On the basis that Meta Platforms Ireland Limited is paying some tax, the effective minimum US tax for Facebook Ireland will be circa 11%. In contrast, Meta Platforms Inc. would incur a special IP tax rate of 13.125% (the FDII rate) if its Irish business relocated to the U.S. Tax relief in the U.S. (21% vs. Irish at
+the GILTI rate) and accelerated capital expensing, would make this effective U.S. rate around 12%.[264][265][266]
+
+The insignificance of the U.S./Irish tax difference was demonstrated when Facebook moved 1.5bn non-EU accounts to the U.S. to limit exposure to GDPR.[267][268]
+
+Facilities
+
+Offices
+Users outside of the U.S. and Canada contract with Meta's Irish subsidiary, Meta Platforms Ireland Limited (formerly Facebook Ireland Limited), allowing Meta to avoid US taxes for all users in Europe, Asia, Australia, Africa and South America. Meta is making use of the Double Irish arrangement which
+allows it to pay 2–3% corporation tax on all international revenue.[269] In 2010, Facebook opened its
+fourth office, in Hyderabad, India,[270] which houses online advertising and developer support teams and provides support to users and advertisers.[271] In India, Meta is registered as Facebook India Online Services Pvt Ltd.[272] It also has offices or planned sites in Chittagong, Bangladesh; Dublin, Ireland;[273] and Austin, Texas, among other cities.[274][275][276]
+
+Facebook opened its London headquarters in 2017 in Fitzrovia in central London. Facebook opened an office in Cambridge, Massachusetts in 2018. The offices were initially home to the "Connectivity Lab", a group focused on bringing Internet access to those who do not have access to the Internet.[277] In April 2019, Facebook opened its Taiwan headquarters in Taipei.[278]
+In March 2022, Meta opened new regional headquarters in Dubai.[279]
+
+In September 2023, it was reported that Meta had paid £149m to British Land to break the lease on Triton Square London office. Meta reportedly had another 18 years left on its lease on the site.[280]
+
+	
+
+
+Entrance to Meta's headquarters complex in Menlo Park, California
+
+Entrance to Facebook's previous headquarters in the Stanford Research Park, Palo Alto, California
+
+
+
+Facebook headquarters in 2014
+
+Data centers
+As of 2023, Facebook operated 21 data centers.[281] It committed to purchase 100% renewable energy and to reduce its greenhouse gas emissions 75% by 2020.[282] Its data center technologies include Fabric Aggregator, a distributed network system that accommodates larger regions and varied traffic
+patterns.[283]
+
+In June 2026, Meta partnered with Reliance Industries to establish its first AI-enabled data centre in India. The 168 MW facility, to be built in Jamnagar, Gujarat, will be leased by Meta and is expected to support the company's growing AI infrastructure needs.[284]
+
+Reception
+
+US Representative Alexandria Ocasio-Cortez responded in a tweet to Zuckerberg's announcement about Meta, saying: "Meta as in 'we are a cancer to democracy metastasizing into a global surveillance and propaganda machine for boosting authoritarian regimes and destroying civil society ... for profit!' "[285]
+Ex-Facebook employee Frances Haugen and whistleblower behind the Facebook Papers responded to the rebranding efforts by expressing doubts about the company's ability to improve while led by Mark Zuckerberg, and urged the chief executive officer to resign.[286]
+In November 2021, a video published by Inspired by Iceland went viral, in which a Zuckerberg look-alike promoted the Icelandverse, a place of "enhanced actual reality without silly looking headsets".[287]
+
+In a December 2021 interview, SpaceX and Tesla chief executive officer Elon Musk said he could not see a compelling use-case for the VR-driven metaverse, adding: "I don't see someone strapping a frigging screen to their face all day."[288]
+In January 2022, Louise Eccles of The Sunday Times logged into the metaverse with the intention of making a video guide. She wrote:
+
+Initially, my experience with the Oculus went well. I attended work meetings as an avatar and tried an exercise class set in the streets of Paris. The headset enabled me to feel the thrill of carving down mountains on a snowboard and the adrenaline rush of climbing a mountain without ropes. Yet switching to the social apps, where you mingle with strangers also using VR headsets, it was at times predatory and vile.
+
+Eccles described being sexually harassed by another user, as well as "accents from all over the world, American, Indian, English, Australian, using racist, sexist, homophobic and transphobic language". She also encountered users as young as 7 years old on the platform, despite Oculus headsets being intended for users over 13.[289]
+
+See also
+
+& Criticism of Facebook
+& Facebook–Cambridge Analytica data scandal – 2010s social media data misuse
+& 2021 Facebook leak – Internal document leak
+& Meta AI – Artificial intelligence division of Meta Platforms
+& The Social Network – 2010 film by David Fincher
+
+References
+
+1. "Inline XBRL Viewer" (https://www.sec.gov/ixviewer/ix.html?doc=/Archives/edgar/data/13268 01/000132680123000050/meta-20230414.htm#id8aff64984c64035b3e93501af472b14_52).
+Archived (https://web.archive.org/web/20240206215150/https://www.sec.gov/ixviewer/ix.htm l?doc=/Archives/edgar/data/1326801/000132680123000050/meta-20230414.htm#id8aff649 84c64035b3e93501af472b14_52) from the original on February 6, 2024. Retrieved February 6, 2024.
+2. "Chris Cox is returning to Facebook as chief product officer" (https://www.theverge.com/202 0/6/11/21288127/facebook-chief-product-officer-chris-cox-return-ceo). The Verge. June 11, 2020. Archived (https://web.archive.org/web/20211005004244/https://www.theverge.com/20 20/6/11/21288127/facebook-chief-product-officer-chris-cox-return-ceo) from the original on October 5, 2021. Retrieved June 11, 2020.
+3. "Facebook is getting more serious about becoming your go-to for mobile payments" (https:// www.theverge.com/2020/8/11/21363642/facebook-pay-mobile-payments-financial-david-ma rcus-instagram-whatsapp). The Verge. August 11, 2020. Archived (https://web.archive.org/w eb/20211005011040/https://www.theverge.com/2020/8/11/21363642/facebook-pay-mobile-p ayments-financial-david-marcus-instagram-whatsapp) from the original on October 5, 2021. Retrieved August 11, 2020.
+
+4. "Company Info" (https://newsroom.fb.com/company-info/). Facebook. Archived (https://web. archive.org/web/20151115110456/https://newsroom.fb.com/company-info/) from the original on November 15, 2015. Retrieved November 7, 2018.
+5. Shaban, Hamza (January 20, 2019). "Digital advertising to surpass print and TV for the first time, report says" (https://www.washingtonpost.com/technology/2019/02/20/digital-advertisin g-surpass-print-tv-first-time-report-says). The Washington Post. Archived (https://web.archiv e.org/web/20210209195301/https://www.washingtonpost.com/technology/2019/02/20/digital
+
+-advertising-surpass-print-tv-first-time-report-says/) from the original on February 9, 2021. Retrieved June 2, 2019.
+6. "Facebook – Financials" (https://investor.fb.com/financials/default.aspx). investor.fb.com. Archived (https://web.archive.org/web/20211214213657/https://investor.fb.com/financials/de fault.aspx) from the original on December 14, 2021. Retrieved January 30, 2020.
+7. "Meta Platforms, Inc. 2025 Annual Report (Form 10-K)" (https://www.sec.gov/ix?doc=/Archiv es/edgar/data/1326801/000162828026003942/meta-20251231.htm). U.S. Securities and Exchange Commission. January 29, 2026. Retrieved January 30, 2026.
+8. Saul, Derek (February 1, 2024). "Meta Earnings: Zuckerberg's 'Year Of Efficiency' Nets Greatest Profits Ever" (https://www.forbes.com/sites/dereksaul/2024/02/01/meta-earnings-z uckerbergs-year-of-efficiency-nets-greatest-profits-ever/). Forbes. Archived (https://web.arch ive.org/web/20240205020748/https://www.forbes.com/sites/dereksaul/2024/02/01/meta-ear nings-zuckerbergs-year-of-efficiency-nets-greatest-profits-ever/) from the original on February 5, 2024. Retrieved February 5, 2024.
+9. "Meta Reports Fourth Quarter and Full Year 2023 Results; Initiates Quarterly Dividend" (http s://investor.fb.com/investor-news/press-release-details/2024/Meta-Reports-Fourth-Quarter-a nd-Full-Year-2023-Results-Initiates-Quarterly-Dividend/default.aspx). Facebook Investor Relations. February 1, 2024. Archived (https://web.archive.org/web/20240202004957/http s://investor.fb.com/investor-news/press-release-details/2024/Meta-Reports-Fourth-Quarter-a nd-Full-Year-2023-Results-Initiates-Quarterly-Dividend/default.aspx) from the original on February 2, 2024. Retrieved February 2, 2024.
+10. "The Economics of Big Tech" (https://www.ft.com/content/82dff4a4-3283-11e8-ac48-10c6fdc 22f03). Financial Times. March 29, 2018. Retrieved June 6, 2019.
+11. "We're Stuck With the Tech Giants. But They're Stuck With Each Other" (https://www.nytime s.com/interactive/2019/11/13/magazine/internet-platform.html). New York Times. November 13, 2019. Retrieved April 22, 2020.
+12. Birch, Kean; Bronson, Kelly (2022). "Big Tech" (https://doi.org/10.1080%2F09505431.2022.2 036118). Science as Culture. 31 (1): 1–14. doi:10.1080/09505431.2022.2036118 (https://do i.org/10.1080%2F09505431.2022.2036118).
+13. Madrigal, Alexis C. (January 31, 2012). "Facebook's Very First SEC Filing" (https://www.thea tlantic.com/technology/archive/2012/01/facebooks-very-first-sec-filing/252282/). The Atlantic. Archived (https://web.archive.org/web/20211117130121/https://www.theatlantic.co m/technology/archive/2012/01/facebooks-very-first-sec-filing/252282/) from the original on November 17, 2021. Retrieved November 3, 2021.
+14. "Facebook Inc. Certificate of Incorporation" (https://s21.q4cdn.com/399680738/files/doc_do wnloads/governance_documents/FB_CertificateOfIncorporation.pdf) (PDF). September 1, 2020. Archived (https://web.archive.org/web/20210923202624/https://s21.q4cdn.com/39968 0738/files/doc_downloads/governance_documents/FB_CertificateOfIncorporation.pdf)  (PDF) from the original on September 23, 2021. Retrieved October 28, 2021.
+15. Heath, Alex (October 19, 2021). "Facebook is planning to rebrand the company with a new name" (https://www.theverge.com/2021/10/19/22735612/facebook-change-company-name-metaverse). Archived (https://web.archive.org/web/20211020140750/https://www.theverge.c om/2021/10/19/22735612/facebook-change-company-name-metaverse) from the original on October 20, 2021. Retrieved October 20, 2021.
+
+16. "The Facebook Company is Now Meta" (https://about.fb.com/news/2021/10/facebook-comp any-is-now-meta/). October 28, 2021. Archived (https://web.archive.org/web/202112241057 58/https://about.fb.com/news/2021/10/facebook-company-is-now-meta/) from the original on December 24, 2021. Retrieved October 31, 2021.
+17. Dwoskin, Elizabeth (October 28, 2021). "Facebook is changing its name to Meta as it focuses on the virtual world" (https://www.washingtonpost.com/technology/2021/10/28/faceb ook-meta-name-change/). The Washington Post. Archived (https://web.archive.org/web/202 11028182314/https://www.washingtonpost.com/technology/2021/10/28/facebook-meta-nam e-change/) from the original on October 28, 2021. Retrieved October 28, 2021.
+18. "Facebook announces name change to Meta in rebranding effort" (https://www.theguardian. com/technology/2021/oct/28/facebook-name-change-rebrand-meta). The Guardian. October 28, 2021. Archived (https://web.archive.org/web/20211028183343/https://www.theguardian. com/technology/2021/oct/28/facebook-name-change-rebrand-meta) from the original on October 28, 2021. Retrieved October 29, 2021.
+19. "The Global 2000 2023" (https://web.archive.org/web/20240129031905/https://www.forbes.c om/lists/global2000/?sh=4f5ab07e5ac0). Forbes. Archived from the original (https://www.for bes.com/lists/global2000/?sh=51d599675ac0) on January 29, 2024. Retrieved February 7,
+2024.
+20. Irwin-Hunt, Alex (June 19, 2023). "Top 100 global innovation leaders" (https://www.fdiintellig ence.com/content/7d894243-9c09-5a30-960f-7fe3567c3063). fDi Intelligence. Retrieved January 30, 2026.
+21. "Form S-1 Registration Statement Under The Securities Act of 1933" (https://www.sec.gov/A rchives/edgar/data/1326801/000119312512034517/d287954ds1.htm). January 1, 2012. Archived (https://web.archive.org/web/20120612002443/http://www.sec.gov/Archives/edgar/ data/1326801/000119312512034517/d287954ds1.htm) from the original on June 12, 2012. Retrieved May 18, 2012.
+22. Erickson, Christine (January 3, 2012). "Facebook IPO: The Complete Guide" (http://mashabl e.com/2012/02/03/facebook-ipo-complete-guide/). Mashable business. Archived (https://we b.archive.org/web/20120322220745/http://mashable.com/2012/02/03/facebook-ipo-complet e-guide/) from the original on March 22, 2012. Retrieved March 23, 2012.
+23. Helft, Miguel; Hempel, Jessi (March 19, 2012). "Inside Facebook" (https://web.archive.org/w eb/20120305130229/http://tech.fortune.cnn.com/2012/03/01/inside-facebook/). Fortune. 165
+(4): 122. Archived from the original (http://tech.fortune.cnn.com/2012/03/01/inside-faceboo k/) on March 5, 2012. Retrieved April 3, 2012.
+24. Tangel, Andrew; Hamilton, Walter (May 17, 2012). "Stakes are high on Facebook's first day of trading" (https://web.archive.org/web/20120518023059/http://www.latimes.com/business/l a-fi-facebook-pricing-20120518%2C0%2C3426310.story). Los Angeles Times. Archived from the original (https://www.latimes.com/business/la-fi-facebook-pricing-20120518,0,3426 310.story) on May 18, 2012. Retrieved May 17, 2012.
+25. "Facebook boosts number of shares on offer by 25%" (https://www.bbc.co.uk/news/business
+-18086426). BBC News. May 16, 2012. Archived (https://web.archive.org/web/20210209195 314/https://www.bbc.com/news/business-18086426) from the original on February 9, 2021. Retrieved May 17, 2012.
+26. Rusli, Evelyn M.; Eavis, Peter (May 17, 2012). "Facebook Raises $16 Billion in I.P.O." (http s://dealbook.nytimes.com/2012/05/17/facebook-raises-16-billion-in-i-p-o/?hp) The New York Times. Archived (https://web.archive.org/web/20181226015240/https://dealbook.nytimes.co m/2012/05/17/facebook-raises-16-billion-in-i-p-o/?hp%20) from the original on December 26, 2018. Retrieved May 17, 2012.
+
+27. Condon, Bernard (May 17, 2012). "Questions and answers on blockbuster Facebook IPO" (https://www.usnews.com/news/business/articles/2012/05/17/questions-and-answers-on-blo ckbuster-facebook-ipo). U.S. News & World Report. Associated Press. Retrieved May 17, 2012. Alternate Link (https://www.heraldnet.com/business/questions-and-answers-on-blockb uster-facebook-ipo/) Archived (https://web.archive.org/web/20211028214317/https://www.he raldnet.com/business/questions-and-answers-on-blockbuster-facebook-ipo/)
+28. Gross, Doug (March 17, 2012). "Internet greets Facebook's IPO price with glee, skepticism" (http://www.cnn.com/2012/05/17/tech/social-media/facebook-ipo-reactions/index.html).
+CNN. Archived (https://web.archive.org/web/20120517234405/http://www.cnn.com/2012/05/ 17/tech/social-media/facebook-ipo-reactions/index.html) from the original on May 17, 2012. Retrieved May 17, 2012.
+29. Straburg, Jenny; Bunge, Jacob (May 18, 2012). "Trading Problems Persisted After Opening for Facebook's IPO" (https://www.wsj.com/articles/SB1000142405270230344840457741225 1723815184?mod=googlenews_wsj). The Wall Street Journal. Archived (https://web.archiv e.org/web/20170914220621/https://www.wsj.com/articles/SB1000142405270230344840457 7412251723815184?mod=googlenews_wsj) from the original on September 14, 2017. Retrieved May 18, 2012.
+30. Bunge, Jacob; Strasburg, Jenny; Dezember, Ryan (May 18, 2012). "Facebook Falls Back to IPO Price" (https://www.wsj.com/articles/SB10001424052702303448404577411903118364 314?mod=WSJ_hp_LEFTTopStories). The Wall Street Journal. Archived (https://web.archiv e.org/web/20170910002150/https://www.wsj.com/articles/SB1000142405270230344840457 7411903118364314?mod=WSJ_hp_LEFTTopStories) from the original on September 10, 2017. Retrieved May 18, 2012.
+31. Michael J. De La Mercred (May 18, 2012). "Facebook Closes at $38.23, Nearly Flat on Day" (https://dealbook.nytimes.com/2012/05/18/facebook-opens-at-42-05-in-debut-but-falls-quickl y/?hp). The New York Times. Archived (https://web.archive.org/web/20120521045258/http:// dealbook.nytimes.com/2012/05/18/facebook-opens-at-42-05-in-debut-but-falls-quickly/?hp) from the original on May 21, 2012. Retrieved May 18, 2012.
+32. O'Dell, Jolie (May 18, 2012). "Facebook disappoints on its opening day, closing down $4 from where it opened" (https://venturebeat.com/2012/05/18/facebook-disappoints-on-its-ope ning-day-closing-down-4-from-where-it-opened/). Venture Beat. Archived (https://web.archiv e.org/web/20210209195253/https://venturebeat.com/2012/05/18/facebook-disappoints-on-it s-opening-day-closing-down-4-from-where-it-opened/) from the original on February 9, 2021. Retrieved May 18, 2012.
+33. "Facebook Sets Record For IPO Trading Volume" (https://web.archive.org/web/2012052207 3523/http://online.wsj.com/article/BT-CO-20120518-710783.html). The Wall Street Journal. May 18, 2012. Archived from the original (https://www.wsj.com/article/BT-CO-20120518-710 783.html) on May 22, 2012. Retrieved May 18, 2012.
+34. Womack, Brian; Thomson, Amy (May 21, 2012). "Facebook falls below $38 IPO price in second day of trading" (https://web.archive.org/web/20190110061716/https://www.washingt onpost.com/business/facebook-falls-below-38-ipo-price-in-second-day-of-trading/2012/05/2 1/gIQAnKCDgU_story.html). The Washington Post. Bloomberg. Archived from the original (h ttps://www.washingtonpost.com/business/facebook-falls-below-38-ipo-price-in-second-day-o f-trading/2012/05/21/gIQAnKCDgU_story.html) on January 10, 2019. Retrieved May 21,
+2012.
+35. Evelyn M. Rusli and Michael J. De La Merced (May 22, 2012). "Facebook I.P.O. Raises Regulatory Concerns" (https://dealbook.nytimes.com/2012/05/22/facebook-i-p-o-raises-regul atory-concerns/?hp). The New York Times. Archived (https://web.archive.org/web/20120524 003550/http://dealbook.nytimes.com/2012/05/22/facebook-i-p-o-raises-regulatory-concern s/?hp) from the original on May 24, 2012. Retrieved May 22, 2012.
+
+36. Temple, James; Newton, Casey (May 23, 2012). "Litigation over Facebook IPO just starting" (https://www.chron.com/business/article/Litigation-over-Facebook-IPO-just-starting-358149 0.php). San Francisco Chronicle. Archived (https://web.archive.org/web/20210209195328/ht tps://www.chron.com/business/article/Litigation-over-Facebook-IPO-just-starting-3581490.p hp) from the original on February 9, 2021. Retrieved May 24, 2012.
+37. Eichler, Alexander (May 24, 2012). "Wall St. Cashes In On Facebook Stock Plunge While Ordinary Investors Lose Millions" (https://www.huffingtonpost.com/2012/05/24/facebook-ipo-retail-investors_n_1542861.html?ref=business). HuffPost. Archived (https://web.archive.org/ web/20210209195258/https://www.huffpost.com/entry/facebook-ipo-retail-investors_n_1542 861?ref=business) from the original on February 9, 2021. Retrieved January 18, 2020.
+38. "Facebook to join S&P 500" (https://www.reuters.com/article/us-sp500-facebook/facebook-to
+-join-sp-500-idUSBRE9BA1AQ20131211). Reuters. Thomson Reuters. December 11, 2013. Archived (https://web.archive.org/web/20171117014025/https://www.reuters.com/article/us-s p500-facebook/facebook-to-join-sp-500-idUSBRE9BA1AQ20131211) from the original on November 17, 2017. Retrieved December 13, 2017.
+39. Baer, Drake. "Mark Zuckerberg Explains Why Facebook Doesn't 'Move Fast And Break Things' Anymore" (https://www.businessinsider.com/mark-zuckerberg-on-facebooks-new-mo tto-2014-5). Business Insider. Archived (https://web.archive.org/web/20191204154356/http s://www.businessinsider.com/mark-zuckerberg-on-facebooks-new-motto-2014-5) from the original on December 4, 2019. Retrieved December 4, 2019.
+40. "Facebook can't move fast to fix the things it broke" (https://www.engadget.com/2018/04/12/f acebook-has-no-quick-solutions/). Engadget. April 12, 2018. Archived (https://web.archive.or g/web/20191108223744/https://www.engadget.com/2018/04/12/facebook-has-no-quick-solu tions/) from the original on November 8, 2019. Retrieved December 4, 2019.
+41. Blodget, Henry (October 1, 2009). "Mark Zuckerberg On Innovation" (https://www.businessin sider.com/mark-zuckerberg-innovation-2009-10?r=US&IR=T). Business Insider. Archived (ht tps://web.archive.org/web/20210209195313/https://www.businessinsider.com/mark-zuckerb erg-innovation-2009-10?r=US&IR=T) from the original on February 9, 2021. Retrieved September 17, 2019.
+42. Constine, Josh (November 1, 2016). "Facebook officially announces Gameroom, its PC Steam competitor" (https://techcrunch.com/2016/11/01/facebook-gameroom/). TechCrunch. Retrieved November 8, 2025.
+43. Kamen, Matt. "Facebook's Gameroom takes aim at Steam" (https://www.wired.com/story/fac ebook-gameroom-launch/). Wired. ISSN 1059-1028 (https://search.worldcat.org/issn/1059-1 028). Retrieved November 9, 2025.
+44. Sunder, Ariane (July 1, 2020). "Important Changes to Gameroom and Web Games on Facebook" (https://web.archive.org/web/20220418120118/https://www.facebook.com/fbgami nghome/blog/important-changes-to-gameroom-and-web-games-on-facebook). Facebook Gaming Blog. Archived from the original (https://www.facebook.com/fbgaminghome/blog/imp ortant-changes-to-gameroom-and-web-games-on-facebook) on April 18, 2022. Retrieved
+November 8, 2025.
+45. "Facebook Goes After TikTok With the Debut of Lasso" (https://fortune.com/2018/11/10/tikto k-facebook-lasso-video-app/). Fortune. Archived (https://web.archive.org/web/20201108163 958/https://fortune.com/2018/11/10/tiktok-facebook-lasso-video-app/) from the original on November 8, 2020. Retrieved August 4, 2020.
+46. "Facebook is shutting down Lasso, its TikTok clone" (https://techcrunch.com/2020/07/01/las so-facebook-tiktok-shut-down/). TechCrunch. July 2, 2020. Retrieved August 4, 2020.
+47. Leskin, Paige. "Facebook is dumping its failed TikTok clone Lasso to make way for its other TikTok clone on Instagram" (https://www.businessinsider.com/facebook-shutting-down-lasso
+-tiktok-clone-instagram-reels-2020-7). Business Insider. Archived (https://web.archive.org/w eb/20230222065047/https://www.businessinsider.com/facebook-shutting-down-lasso-tiktok-clone-instagram-reels-2020-7) from the original on February 22, 2023. Retrieved
+February 22, 2023.
+
+48. Salvador Rodriguez (October 30, 2021). "Facebook's Meta mission was laid out in a 2018 paper on The Metaverse" (https://www.cnbc.com/2021/10/30/facebooks-meta-mission-was-l aid-out-in-a-2018-paper-on-the-metaverse.html). CNBC. Archived (https://web.archive.org/w eb/20211101001041/https://www.cnbc.com/2021/10/30/facebooks-meta-mission-was-laid-o ut-in-a-2018-paper-on-the-metaverse.html) from the original on November 1, 2021. Retrieved November 22, 2021.
+49. "Bitcoin Above $8,000; Facebook Opens Crypto Company in Switzerland" (https://finance.ya hoo.com/news/bitcoin-above-8-000-facebook-002600992.html). Investing.com. May 20, 2019. Archived (https://web.archive.org/web/20190616214840/https://finance.yahoo.com/ne ws/bitcoin-above-8-000-facebook-002600992.html) from the original on June 16, 2019. Retrieved December 4, 2019.
+50. Reiff, Nathan. "Facebook Gathers Companies to Back Cryptocurrency Launch" (https://ww w.investopedia.com/facebook-gathers-companies-to-back-cryptocurrency-launch-4690619). Investopedia. Archived (https://web.archive.org/web/20190618050248/https://www.investop edia.com/facebook-gathers-companies-to-back-cryptocurrency-launch-4690619) from the original on June 18, 2019. Retrieved June 18, 2019.
+51. Murphy, Hannah (November 27, 2020). "Facebook's Libra currency to launch next year in limited format" (https://www.ft.com/content/cfe4ca11-139a-4d4e-8a65-b3be3a0166be).
+Financial Times. Archived (https://web.archive.org/web/20210117233019/https://www.ft.co m/content/cfe4ca11-139a-4d4e-8a65-b3be3a0166be) from the original on January 17, 2021. Retrieved January 16, 2021.
+52. "Facebook Libra: the inside story of how the company's cryptocurrency dream died" (https:// www.ft.com/content/a88fb591-72d5-4b6b-bb5d-223adfb893f3). Financial Times. March 10, 2022. Archived (https://web.archive.org/web/20220310061404/https://www.ft.com/content/a8 8fb591-72d5-4b6b-bb5d-223adfb893f3) from the original on March 10, 2022. Retrieved October 13, 2022.
+53. "Facebook-funded cryptocurrency Diem winds down" (https://www.bbc.com/news/technolog y-60156682). BBC News. February 1, 2022. Archived (https://web.archive.org/web/2022021 5161912/https://www.bbc.com/news/technology-60156682) from the original on February 15, 2022. Retrieved October 13, 2022.
+54. Thorbecke, Catherine (November 10, 2022). "Silicon Valley's greatest minds misread pandemic demand. Now their employees are paying for it" (https://www.cnn.com/2022/11/1 0/tech/tech-layoffs-analysis/index.html). CNN. Archived (https://web.archive.org/web/202211 12135954/https://www.cnn.com/2022/11/10/tech/tech-layoffs-analysis/index.html) from the original on November 12, 2022. Retrieved November 13, 2022.
+55. Beer, Jeff (October 21, 2021). "Facebook's reported name change reinforces its image as the new Big Tobacco" (https://www.fastcompany.com/90688287/facebooks-reported-name-c hange-reinforces-its-image-as-the-new-big-tobacco). Fast Company. Archived (https://web.a rchive.org/web/20220310225521/https://www.fastcompany.com/90688287/facebooks-report ed-name-change-reinforces-its-image-as-the-new-big-tobacco) from the original on March 10, 2022. Retrieved October 31, 2021.
+56. "FB Q3 2021 Earnings Call Transcript" (https://s21.q4cdn.com/399680738/files/doc_financia ls/2021/q3/FB-Q3-2021-Earnings-Call-Transcript.pdf) (PDF). Facebook, Inc. October 25, 2021. Archived (https://web.archive.org/web/20211026081259/https://s21.q4cdn.com/39968 0738/files/doc_financials/2021/q3/FB-Q3-2021-Earnings-Call-Transcript.pdf) (PDF) from the original on October 26, 2021. Retrieved October 31, 2021.
+57. "Mark Zuckerberg on why Facebook is rebranding to Meta" (https://www.theverge.com/2274 9919/mark-zuckerberg-facebook-meta-company-rebrand). October 28, 2021. Archived (http s://web.archive.org/web/20211031002747/https://www.theverge.com/22749919/mark-zucker berg-facebook-meta-company-rebrand) from the original on October 31, 2021. Retrieved October 31, 2021.
+
+58. "Trademark Status & Document Retrieval (serial no. 86852664)" (https://tsdr.uspto.gov/#cas eNumber=86852664&caseType=SERIAL_NO&searchType=statusSearch). United States Patent and Trademark Office. Archived (https://web.archive.org/web/20210713022850/http s://tsdr.uspto.gov/#caseNumber=86852664&caseType=SERIAL_NO&searchType=statusSe arch) from the original on July 13, 2021. Retrieved November 1, 2021.
+59. Constine, Josh (January 23, 2017). "Chan Zuckerberg Initiative acquires and will free up science search engine Meta" (https://techcrunch.com/2017/01/23/chan-zuckerberg-initiative-meta/). TechCrunch. Archived (https://web.archive.org/web/20211101114149/https://techcru nch.com/2017/01/23/chan-zuckerberg-initiative-meta/) from the original on November 1, 2021. Retrieved November 1, 2021.
+60. Gonzalez, Oscar (October 28, 2021). "Chan Zuckerberg Initiative to sunset its Meta project" (https://www.cnet.com/tech/chan-zuckerberg-initiative-to-sunset-its-meta-project/). CNET. Archived (https://web.archive.org/web/20211101135724/https://www.cnet.com/tech/chan-zu ckerberg-initiative-to-sunset-its-meta-project/) from the original on November 1, 2021. Retrieved November 1, 2021.
+61. Seetharaman, Deepa; Rodriguez, Salvador (February 2, 2022). "Facebook's Shares Plunge After Profit Decline" (https://www.wsj.com/articles/meta-platforms-facebook-fb-q4-earnings-r eport-2021-11643762900?mod=hp_lead_pos1). The Wall Street Journal. Archived (https://w eb.archive.org/web/20220202231733/https://www.wsj.com/articles/meta-platforms-facebook
+
+-fb-q4-earnings-report-2021-11643762900?mod=hp_lead_pos1) from the original on February 2, 2022. Retrieved February 2, 2022.
+62. Wagner, Kurt (February 2, 2022). "Meta Faces Historic Stock Rout After Facebook Growth Stalled" (https://www.bloomberg.com/news/articles/2022-02-02/facebook-shares-plunge-as-users-stall-forecast-falls-short?srnd=premium&sref=CIpmV6x8). Bloomberg. Archived (http s://web.archive.org/web/20220202232109/https://www.bloomberg.com/news/articles/2022-0 2-02/facebook-shares-plunge-as-users-stall-forecast-falls-short?srnd=premium&sref=CIpmV 6x8) from the original on February 2, 2022. Retrieved February 3, 2022.
+63. Bobrowsky, Meghan (February 3, 2022). "Facebook Feels $10 Billion Sting From Apple's Privacy Push" (https://www.wsj.com/articles/facebook-feels-10-billion-sting-from-apples-priv acy-push-11643898139?mod=hp_lead_pos2). The Wall Street Journal. Archived (https://we b.archive.org/web/20220203151225/https://www.wsj.com/articles/facebook-feels-10-billion-s ting-from-apples-privacy-push-11643898139?mod=hp_lead_pos2) from the original on February 3, 2022. Retrieved February 3, 2022.
+64. Nix, Naomi (February 3, 2022). "Zuckerberg Tells Staff to Focus on Video Products as Meta's Stock Plunges" (https://www.bloomberg.com/news/articles/2022-02-03/zuckerberg-te lls-staff-to-focus-on-video-as-meta-plunges?srnd=premium&sref=CIpmV6x8). Bloomberg. Archived (https://web.archive.org/web/20220203200733/https://www.bloomberg.com/news/a rticles/2022-02-03/zuckerberg-tells-staff-to-focus-on-video-as-meta-plunges?srnd=premium &sref=CIpmV6x8) from the original on February 3, 2022. Retrieved February 3, 2022.
+65. Carpenter, Scott (February 2, 2022). "Zuckerberg's Wealth Plunges by $31 Billion After Meta Shock" (https://www.bloomberg.com/news/articles/2022-02-02/mark-zuckerberg-risks-24-bill ion-wealth-wipeout-after-meta-miss?sref=CIpmV6x8). Bloomberg. Archived (https://web.arc hive.org/web/20220203174950/https://www.bloomberg.com/news/articles/2022-02-02/mark-zuckerberg-risks-24-billion-wealth-wipeout-after-meta-miss?sref=CIpmV6x8) from the original on February 3, 2022. Retrieved February 3, 2022.
+66. "Bloomberg Billionaires Index: Mark Zuckerberg" (https://www.bloomberg.com/billionaires/pr ofiles/mark-e-zuckerberg/?sref=CIpmV6x8). Bloomberg. Bloomberg. Archived (https://web.a rchive.org/web/20220203175511/https://www.bloomberg.com/billionaires/profiles/mark-e-zu ckerberg/?sref=CIpmV6x8) from the original on February 3, 2022. Retrieved February 3, 2022.
+
+67. Delouya, Samantha. "Here's why Mark Zuckerberg can't be fired as CEO of Meta" (https://w ww.businessinsider.com/why-mark-zuckerberg-cant-be-fired-as-meta-facebook-ceo-2022-1
+1). Archived (https://web.archive.org/web/20230509093454/https://www.businessinsider.co m/why-mark-zuckerberg-cant-be-fired-as-meta-facebook-ceo-2022-11) from the original on May 9, 2023. Retrieved May 9, 2023.
+68. Turton, William (March 30, 2022). "Apple and Meta Gave User Data to Hackers Who Used Forged Legal Requests" (https://ca.finance.yahoo.com/news/apple-meta-gave-user-data-17 5918825.html). Yahoo! Finance. Archived (https://web.archive.org/web/20220530182914/htt ps://ca.finance.yahoo.com/news/apple-meta-gave-user-data-175918825.html) from the original on May 30, 2022. Retrieved March 30, 2022.
+69. Lawler, Richard; Heath, Alex (June 1, 2022). "Meta COO Sheryl Sandberg is stepping down after 14 years" (https://www.theverge.com/2022/6/1/23150601/sheryl-sandberg-stepping-do wn-meta-facebook-coo-14-years). The Verge. Archived (https://web.archive.org/web/202206 16200524/https://www.theverge.com/2022/6/1/23150601/sheryl-sandberg-stepping-down-m eta-facebook-coo-14-years) from the original on June 16, 2022. Retrieved June 2, 2022.
+70. "Russia confirms Meta's designation as extremist" (https://www.bbc.com/news/technology-6 3218095). BBC News. October 11, 2022. Archived (https://web.archive.org/web/202305221 70330/https://www.bbc.com/news/technology-63218095) from the original on May 22, 2023. Retrieved May 22, 2023.
+71. Heath, Alex (March 1, 2023). "This is Meta's AR / VR hardware roadmap for the next four years" (https://www.theverge.com/2023/2/28/23619730/meta-vr-oculus-ar-glasses-smartwat ch-plans). The Verge. Archived (https://web.archive.org/web/20230705094219/https://www.t heverge.com/2023/2/28/23619730/meta-vr-oculus-ar-glasses-smartwatch-plans) from the original on July 5, 2023. Retrieved July 6, 2023.
+72. "Why Meta's Ray-Ban smart glasses haven't caught on a year after launch" (https://qz.com/ why-meta-s-ray-ban-smart-glasses-haven-t-caught-on-a-ye-1849519087). Quartz. September 12, 2022. Archived (https://web.archive.org/web/20230707161622/https://qz.co m/why-meta-s-ray-ban-smart-glasses-haven-t-caught-on-a-ye-1849519087) from the original on July 7, 2023. Retrieved July 6, 2023.
+73. "Ray-Ban Stories Now Globally Available with Meta | EssilorLuxottica" (https://www.essilorlu xottica.com/en/newsroom/stories/ray-ban-and-meta-expand-global-availability-ray-ban-stori es/). Essilor. Archived (https://web.archive.org/web/20230707161633/https://www.essilorlux ottica.com/en/newsroom/stories/ray-ban-and-meta-expand-global-availability-ray-ban-storie s/) from the original on July 7, 2023. Retrieved July 6, 2023.
+74. "Facebook owner Meta in first ever sales fall for" (https://www.bbc.com/news/business-6232 2862). BBC News. July 27, 2022. Archived (https://web.archive.org/web/20220728004140/ht tps://www.bbc.com/news/business-62322862) from the original on July 28, 2022. Retrieved July 28, 2022.
+75. Vanian, Jonathan (July 27, 2022). "Meta reports earnings, revenue miss and forecasts second straight quarter of declining sales" (https://www.cnbc.com/2022/07/27/facebook-pare nt-meta-earnings-q2-2022.html). CNBC. Archived (https://web.archive.org/web/2022072900 0016/https://www.cnbc.com/2022/07/27/facebook-parent-meta-earnings-q2-2022.html) from the original on July 29, 2022. Retrieved July 29, 2022.
+76. Heath, Alex (July 27, 2022). "Facebook reports drop in revenue for the first time" (https://ww w.theverge.com/2022/7/27/23281294/facebook-meta-revenue-declines-for-first-time). The Verge. Archived (https://web.archive.org/web/20220729000428/https://www.theverge.com/2 022/7/27/23281294/facebook-meta-revenue-declines-for-first-time) from the original on July 29, 2022. Retrieved July 29, 2022.
+77. Mathews, Eva (July 28, 2022). "Meta to keep facing Apple privacy pinch, TikTok heat for now" (https://www.reuters.com/technology/apples-privacy-changes-tiktok-competition-inesca pable-meta-now-2022-07-28/). Reuters. Archived (https://web.archive.org/web/2022072902 3707/https://www.reuters.com/technology/apples-privacy-changes-tiktok-competition-inesca pable-meta-now-2022-07-28/) from the original on July 29, 2022. Retrieved July 29, 2022.
+
+78. Levy, Ari (October 27, 2022). "Facebook used to be a Big Tech giant — now Meta isn't even in the top 20 most valuable U.S. companies" (https://www.cnbc.com/2022/10/27/meta-is-no-l onger-one-of-the-20-biggest-us-companies.html). CNBC. Archived (https://web.archive.org/ web/20221028002201/https://www.cnbc.com/2022/10/27/meta-is-no-longer-one-of-the-20-bi ggest-us-companies.html) from the original on October 28, 2022. Retrieved October 28, 2022.
+79. Vanian, Jonathan (November 9, 2022). "Meta laying off more than 11,000 employees: Read Zuckerberg's letter announcing the cuts" (https://www.cnbc.com/2022/11/09/meta-to-lay-off-more-than-11000-thousand-employees.html). CNBC. Archived (https://web.archive.org/web/ 20221110015006/https://www.cnbc.com/2022/11/09/meta-to-lay-off-more-than-11000-thous and-employees.html) from the original on November 10, 2022. Retrieved November 10, 2022.
+80. Goswami, Rohan; Vanian, Jonathan (April 19, 2023). "Meta has started its latest round of layoffs, focusing on technical employees" (https://www.cnbc.com/2023/04/19/meta-started-la test-round-of-layoffs-focusing-on-technical-employees.html). CNBC. Archived (https://web.ar chive.org/web/20230420113910/https://www.cnbc.com/2023/04/19/meta-started-latest-roun d-of-layoffs-focusing-on-technical-employees.html) from the original on April 20, 2023. Retrieved April 20, 2023.
+81. "From Twitter to Meta: Tech Layoffs by the Numbers" (https://www.wsj.com/story/from-twitter
+-to-meta-tech-layoffs-by-the-numbers-0afd8714). The Wall Street Journal. Archived (https:// web.archive.org/web/20221112021124/https://www.wsj.com/story/from-twitter-to-meta-tech-l ayoffs-by-the-numbers-0afd8714) from the original on November 12, 2022. Retrieved November 13, 2022.
+82. Paul, Kari (April 19, 2023). "Thousands of Meta workers hit by new round of layoffs as company cuts costs" (https://www.theguardian.com/technology/2023/apr/19/meta-layoffs-fac ebook-cuts-workers). The Guardian. ISSN 0261-3077 (https://search.worldcat.org/issn/0261
+-3077). Archived (https://web.archive.org/web/20230420113910/https://www.theguardian.co m/technology/2023/apr/19/meta-layoffs-facebook-cuts-workers) from the original on April 20, 2023. Retrieved April 20, 2023.
+83. Paul, Katie; Hu, Krystal; Nellis, Stephen; Tong, Anna (April 25, 2023). "Insight: Inside Meta's scramble to catch up on AI" (https://www.reuters.com/technology/inside-metas-scramble-cat ch-up-ai-2023-04-25/). Reuters.
+84. Meta Content Library and API. (30 June 2025). Meta website (https://transparency.meta.co m/researchtools/meta-content-library/) Retrieved 31 July 2025.
+85. Zhang, Angela Huyue (2024). High Wire: How China Regulates Big Tech and Governs Its Economy. Oxford University Press. doi:10.1093/oso/9780197682258.001.0001 (https://doi.o rg/10.1093%2Foso%2F9780197682258.001.0001). ISBN 9780197682258.
+86. Phillips, Tom (March 14, 2023). "Facebook owner Meta announces further 10,000 job losses" (https://www.eurogamer.net/facebook-owner-meta-announces-further-10000-job-los ses). Eurogamer.net. Archived (https://web.archive.org/web/20240302233449/https://www.e urogamer.net/facebook-owner-meta-announces-further-10000-job-losses) from the original on March 2, 2024. Retrieved March 2, 2024.
+87. Paul, Kari (April 26, 2023). "Meta reports surprisingly strong quarter one earnings after restructuring hiccups" (https://www.theguardian.com/technology/2023/apr/26/meta-q1-earnin gs-report-2023). The Guardian. ISSN 0261-3077 (https://search.worldcat.org/issn/0261-307 7). Archived (https://web.archive.org/web/20230427182656/https://www.theguardian.com/te chnology/2023/apr/26/meta-q1-earnings-report-2023) from the original on April 27, 2023. Retrieved April 27, 2023.
+88. Isaac, Mike (July 4, 2023). "Meta's 'Twitter Killer' App Is Coming" (https://www.nytimes.com/ 2023/07/03/technology/meta-app-twitter.html). The New York Times. ISSN 0362-4331 (http s://search.worldcat.org/issn/0362-4331). Archived (https://web.archive.org/web/2023070400 5605/https://www.nytimes.com/2023/07/03/technology/meta-app-twitter.html) from the original on July 4, 2023. Retrieved July 4, 2023.
+
+89. "Meta Opens AI Chatbot Tech for Commercial Use via Microsoft" (https://finance.yahoo.com/ news/meta-opens-ai-chatbot-tech-155000404.html). Yahoo! Finance. July 18, 2023. Archived (https://web.archive.org/web/20230718165703/https://finance.yahoo.com/news/me ta-opens-ai-chatbot-tech-155000404.html) from the original on July 18, 2023. Retrieved
+July 18, 2023.
+90. Dotan, Tom; Seetharaman, Deepa (July 18, 2023). "Meta, Microsoft Team Up to Offer New AI Software for Businesses" (https://www.wsj.com/articles/meta-and-microsoft-team-up-to-di stribute-new-ai-software-for-commercial-use-c4f7b634). The Wall Street Journal.
+ISSN 0099-9660 (https://search.worldcat.org/issn/0099-9660). Archived (https://web.archive. org/web/20230718190013/https://www.wsj.com/articles/meta-and-microsoft-team-up-to-distr ibute-new-ai-software-for-commercial-use-c4f7b634) from the original on July 18, 2023.
+Retrieved July 18, 2023.
+91. "All news in Canada will be removed from Facebook, Instagram within weeks: Meta" (https:// www.ctvnews.ca/business/article/all-news-in-canada-will-be-removed-from-facebook-instagr am-within-weeks-meta/). ctvnews. The Canadian Press. August 2023. Archived (https://web. archive.org/web/20230801195828/https://www.ctvnews.ca/business/all-news-in-canada-will-be-removed-from-facebook-instagram-within-weeks-meta-1.6502469) from the original on August 1, 2023. Retrieved August 1, 2023.
+92. Vanian, Jonathan (January 18, 2024). "Mark Zuckerberg indicates Meta is spending billions of dollars on Nvidia AI chips" (https://www.cnbc.com/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html). CNBC. Archived (https://web.archive.org/ web/20240119174034/https://www.cnbc.com/2024/01/18/mark-zuckerberg-indicates-meta-is
+
+-spending-billions-on-nvidia-ai-chips.html) from the original on January 19, 2024. Retrieved January 19, 2024.
+93. Prescott, Katie (January 9, 2024). "Mark Zuckerberg in $185m sale as Meta rebounds" (http s://www.thetimes.com/business-money/technology/article/mark-zuckerberg-in-185m-sale-as
+-meta-rebounds-glq558mb7). The Times. ISSN 0140-0460 (https://search.worldcat.org/issn/ 0140-0460). Archived (https://web.archive.org/web/20240109180356/https://www.thetimes.c o.uk/article/mark-zuckerberg-in-185m-sale-as-meta-rebounds-glq558mb7) from the original on January 9, 2024. Retrieved January 9, 2024.
+94. Saul, Derek. "Meta Stock Sets Record High—How It Emerged From 77% Plunge And Metaverse Fiasco" (https://www.forbes.com/sites/dereksaul/2024/01/19/meta-stock-sets-rec ord-high-how-it-emerged-from-77-plunge-and-metaverse-fiasco/). Forbes. Archived (https:// web.archive.org/web/20240129120359/https://www.forbes.com/sites/dereksaul/2024/01/19/ meta-stock-sets-record-high-how-it-emerged-from-77-plunge-and-metaverse-fiasco/) from the original on January 29, 2024. Retrieved January 29, 2024.
+95. "EU privacy watchdogs urged to oppose Meta's paid ad-free service" (https://web.archive.or g/web/20240216191611/https://economictimes.indiatimes.com/tech/technology/eu-privacy-watchdogs-urged-to-oppose-metas-paid-ad-free-service/articleshow/107755590.cms). The Economic Times. February 16, 2024. Archived from the original (https://economictimes.india times.com/tech/technology/eu-privacy-watchdogs-urged-to-oppose-metas-paid-ad-free-servi ce/articleshow/107755590.cms) on February 16, 2024. Retrieved February 16, 2024.
+96. "Meta removes Facebook and Instagram accounts of Iran's Supreme Leader" (https://editio n.cnn.com/2024/02/09/tech/meta-iran-removes-supreme-leader-khamenei/index.html).  CNN. February 9, 2024. Archived (https://web.archive.org/web/20240211020832/https://editi on.cnn.com/2024/02/09/tech/meta-iran-removes-supreme-leader-khamenei/index.html) from the original on February 11, 2024. Retrieved February 11, 2024.
+97. Nerozzi, Timothy (March 16, 2024). "Social media giant Meta under investigation for alleged drug sales on its platforms: WSJ" (https://www.foxbusiness.com/fox-news-tech/social-media
+-giant-meta-investigation-alleged-drug-sales-platforms-wsj). FOXBusiness. Archived (https:// web.archive.org/web/20240317235403/https://www.foxbusiness.com/fox-news-tech/social-media-giant-meta-investigation-alleged-drug-sales-platforms-wsj) from the original on March 17, 2024. Retrieved March 17, 2024.
+
+98. "EU investigates Facebook and Instagram over child safety" (https://www.bbc.com/news/arti cles/cv2d2j8y38lo). BBC. May 16, 2024. Archived (https://web.archive.org/web/2024051612 2856/https://www.bbc.com/news/articles/cv2d2j8y38lo) from the original on May 16, 2024. Retrieved May 16, 2024.
+99. Rankin, Jennifer (May 16, 2024). "EU investigates Facebook owner Meta over child safety and mental health concerns" (https://www.theguardian.com/technology/article/2024/may/16/ eu-investigates-facebook-owner-meta-over-child-safety-and-mental-health-concerns). The Guardian. Archived (https://web.archive.org/web/20240610063733/https://www.theguardian. com/technology/article/2024/may/16/eu-investigates-facebook-owner-meta-over-child-safety
+
+-and-mental-health-concerns) from the original on June 10, 2024. Retrieved May 16, 2024.
+100. "Facebook and Instagram face fresh scrutiny under the European Union's strict digital regulations" (https://apnews.com/article/facebook-instagram-meta-european-union-digital-se rvices-act-61653e20757e75671092fb746e41ed4b). AP News. May 16, 2024. Archived (http s://web.archive.org/web/20240610063736/https://apnews.com/article/facebook-instagram-m eta-european-union-digital-services-act-61653e20757e75671092fb746e41ed4b) from the original on June 10, 2024. Retrieved May 16, 2024.
+101. "EU investigating Meta over addiction and safety concerns for minors" (https://finance.yaho o.com/news/eu-investigating-meta-over-addiction-and-safety-concerns-for-minors-12070992
+
+1.html). Yahoo! Finance. May 16, 2024.
+102. "Scammers Target Middle East Influencers With Meta's Own Tools" (https://www.bloomberg. com/news/articles/2024-07-30/meta-copyright-tool-is-exploited-in-middle-east-by-extortionist
+s). Bloomberg. July 29, 2024. Retrieved July 29, 2024.
+103. "Meta bans Russian state media outlets for social media 'interference' campaigns" (https://w ww.france24.com/en/live-news/20240917-meta-bans-russian-state-media-outlets-for-interfer ence-1). September 17, 2024. Retrieved September 17, 2024.
+104. Vanian, Jonathan (September 27, 2024). "Hands-on with Meta's Orion AR glasses prototype and the possible future of computing" (https://www.cnbc.com/2024/09/27/hands-on-with-met as-orion-augmented-reality-smart-glasses-prototype.html). CNBC. Retrieved September 28, 2024.
+105. Heath, Alex (September 25, 2024). "Hands-on with Orion, Meta's first pair of AR glasses" (ht tps://www.theverge.com/24253908/meta-orion-ar-glasses-demo-mark-zuckerberg-intervie
+w). The Verge. Retrieved September 28, 2024. "They're called Orion, and they're Meta's first pair of augmented reality glasses. The company was supposed to sell them but decided not to because they are too complicated and expensive to manufacture right now."
+106. Roettgers, Janko (September 27, 2024). "Meta's Orion glasses show that consumer AR wearables are almost here" (https://www.fastcompany.com/91198001/meta-orion-snap-spec tacles-ar-wearables-future). Fast Company. Retrieved September 27, 2024. "At this point, Orion would be much too expensive, and too hard to manufacture, to achieve mass-market scale. The company only produced a small number of Orion glasses that will primarily be given out to company executives and employees."
+107. Paul, Katie (October 6, 2024). "Meta, challenging OpenAI, announces new AI model that can generate video with sound" (https://www.reuters.com/technology/artificial-intelligence/m eta-challenging-openai-announces-new-ai-model-that-can-generate-video-with-2024-10-0 4/). Retrieved October 6, 2024.
+108. Silverman, Craig; Bengani, Priyanjana (October 31, 2024). "Exploiting Meta's Weaknesses, Deceptive Political Ads Thrived on Facebook and Instagram in Run-Up to Election" (https:// www.propublica.org/article/facebook-instagram-meta-deceptive-political-ads-election). ProPublica. Retrieved October 31, 2024.
+109. Sheidlower, Noah. "Meta is reportedly building a $10 billion underwater cable that will circle the globe" (https://www.businessinsider.com/meta-underwater-cable-submarine-globe-faceb ook-instagram-india-south-africa-2024-11). Business Insider. Retrieved December 2, 2024.
+
+110. Arntz, Pieter (November 2, 2024). "Meta takes down more than 2 million accounts in fight against pig butchering" (https://www.malwarebytes.com/blog/news/2024/11/meta-takes-dow n-more-than-2-million-accounts-in-fight-against-pig-butchering). Malwarebytes. Retrieved December 3, 2024.
+111. Taylor, Josh (December 1, 2024). "Meta to force financial advertisers to be verified in bid to prevent celebrity scam ads targeting Australians" (https://www.theguardian.com/technology/ 2024/dec/02/meta-to-force-financial-advertisers-to-be-verified-in-bid-to-prevent-celebrity-sca m-ads-targeting-australians). The Guardian. ISSN 0261-3077 (https://search.worldcat.org/is sn/0261-3077). Retrieved December 2, 2024.
+112. Brook, Jack; Sainz, Adrian (December 5, 2024). "Meta to build $10 billion AI data center in Louisiana as Elon Musk expands his Tennessee AI facility" (https://techxplore.com/news/202 4-12-meta-billion-ai-center-louisiana.html). Tech Xplore. Archived (https://web.archive.org/w eb/20241217153255/https://techxplore.com/news/2024-12-meta-billion-ai-center-louisiana.h tml) from the original on December 17, 2024. Retrieved January 15, 2024.
+113. Peters, Jay (December 11, 2024). "Facebook, Instagram, and Threads are down" (https://w ww.theverge.com/2024/12/11/24318908/facebook-instagram-threads-down-outage-meta). The Verge. Retrieved December 11, 2024.
+114. "Meta and Amazon scale back DEI programmes joining corporate rollback" (https://www.bb c.co.uk/news/articles/cgmy7xpw3pyo). BBC News. January 10, 2025. Retrieved February 3,
+2025.
+115. Lavietes, Matt (January 7, 2025). "Meta's new hate speech guidelines permit users to say LGBTQ people are mentally ill" (https://www.nbcnews.com/tech/social-media/meta-new-hate
+-speech-rules-allow-users-call-lgbtq-people-mentally-ill-rcna186700). NBCNews.com. NBC News. Retrieved April 9, 2025.
+116. "Facebook owner Meta to pay $25m to settle Trump lawsuit over ban" (https://www.bbc.co.u k/news/articles/c79d74nppvpo). BBC News. January 30, 2025. Retrieved January 30, 2025.
+117. Murphy, Hannah (February 21, 2025). "Meta's 'free speech' revamp divides oversight board" (https://www.ft.com/content/64f7a0d8-1b9c-456d-890e-f39a2278a95a). Financial Times. Retrieved April 17, 2025.
+118. "Meta in Talks for Scale AI Investment That Could Top $10 Billion" (https://www.bloomberg.c om/news/articles/2025-06-08/meta-in-talks-for-scale-ai-investment-that-could-top-10-billion). June 8, 2025.
+119. Vanian, Jonathan; Capoot, Ashley (October 22, 2025). "Meta lays off 600 from 'bloated' AI unit as Wang cements leadership" (https://www.cnbc.com/2025/10/22/meta-layoffs-ai.html). CNBC. Retrieved October 23, 2025.
+120. "Meta users survey found 19% of young teens on Instagram report seeing unwanted nude images" (https://www.channelnewsasia.com/business/meta-users-survey-found-19-young-te ens-instagram-report-seeing-unwanted-nude-images-5947691). CNA. Retrieved
+February 27, 2026.
+121. "Meta Announces Long-Term Partnership With Nvidia" (https://www.socialmediatoday.com/n ews/meta-announces-long-term-partnership-with-nvidia/812481/). Social Media Today. February 18, 2026. Retrieved February 19, 2026.
+122. "Big Tech to invest about $650 billion in AI in 2026, Bridgewater says" (https://www.channeln ewsasia.com/business/big-tech-invest-about-650-billion-in-ai-in-2026-bridgewater-says-594 7656). CNA. February 24, 2026. Retrieved February 27, 2026.
+123. "Meta faces UK and US investigations over AI smart glasses" (https://www.socialmediatoda y.com/news/meta-faces-uk-and-us-investigations-over-ai-smart-glasses/814009/). Social Media Today. March 5, 2026. Retrieved March 10, 2026.
+124. "Meta to allow AI rivals on WhatsApp in bid to stave off EU action" (https://www.channelnew sasia.com/business/meta-allow-ai-rivals-whatsapp-in-bid-stave-eu-action-5974021). CNA. March 5, 2026. Retrieved March 12, 2026.
+
+125. Renshaw and Kearney, Jarrett and Laila (March 4, 2026). "Tech Giants sign energy pledge at white house ahead of midterms" (https://www.reuters.com/sustainability/climate-energy/tr ump-meet-tech-giants-energy-pledge-ahead-midterms-2026-03-04/). Reuters.
+126. Gold, Hadas (March 10, 2026). "Meta just bought the social network for AI bots everyone's been talking about" (https://www.cnn.com/2026/03/10/tech/meta-moltbook-bots-social-medi a). CNN Business. Retrieved March 12, 2026.
+127. "Meta unveils plans for batch of in-house AI chips" (https://www.channelnewsasia.com/busin ess/meta-unveils-plans-batch-in-house-ai-chips-5987056). CNA. March 11, 2026. Retrieved
+March 12, 2026.
+128. "Meta Unveils Two New Ray-Ban Prescription Smart Glasses" (https://money.usnews.com/i nvesting/news/articles/2026-03-31/meta-unveils-two-new-ray-ban-prescription-smart-glasse
+s). U.S. News. March 31, 2026. Retrieved March 31, 2026.
+129. "UK PM Starmer tells social media firms they must act on online safety" (https://www.channe lnewsasia.com/world/uk-pm-starmer-tells-social-media-firms-they-must-act-online-safety-60 59406). CNA. April 16, 2026. Retrieved April 26, 2026.
+130. "Major publishers sue Meta for copyright infringement over AI training" (https://www.channel newsasia.com/business/major-publishers-sue-meta-copyright-infringement-over-ai-training-6101466). CNA. May 5, 2026. Retrieved May 6, 2026.
+131. Agarwal, Armaan (May 6, 2026). "Meta planning to launch agentic AI assistant for 3 billion users, report says" (https://www.indiatoday.in/technology/news/story/meta-planning-to-launc h-agentic-ai-assistant-for-3-billion-users-report-says-2907356-2026-05-06). India Today. Retrieved May 7, 2026.
+132. "AI job cuts are rising, but experts say layoffs are only part of the story" (https://www.cbsnew s.com/news/ai-layoffs-hiring-entry-level-workers/). CBS News. May 22, 2026. Retrieved May 24, 2026.
+133. Paradis, Tim; Altchek, Ana (May 21, 2026). "Meta's 'Year of Efficiency' CEO takes a softened tone — and gives layoff reassurance to employees" (https://www.businessinsider.com/strate gy-behind-zuckerberg-tone-layoff-reassurance-stability-meta-2026-5). Business Insider. Retrieved May 24, 2026.
+134. Betz, Bradford (May 28, 2026). "Meta rolls out paid subscription plans for Facebook, Instagram and WhatsApp" (https://www.foxbusiness.com/fox-news-tech/meta-paid-subscript ions-facebook-instagram-whatsapp). FOXBusiness. Retrieved May 28, 2026.
+135. "Meta launches creator assistant chatbot | Social Media Today" (https://www.socialmediatod ay.com/news/meta-launches-creator-assistant-chatbot/822077/).
+www.socialmediatoday.com. Retrieved June 12, 2026.
+136. Nwosu, Felicia (June 24, 2026). "Meta unleashes next generation AI tools to transform advertising, creator marketing" (https://marketingedge.com.ng/meta-unleashes-next-generat ion-ai-tools-to-transform-advertising-creator-marketing/). Marketing Edge Magazine. Retrieved June 24, 2026.
+137. Helft, Miguel (May 17, 2011). "For Buyers of Web Start-Ups, Quest to Corral Young Talent" (https://www.nytimes.com/2011/05/18/technology/18talent.html). The New York Times. Archived (https://web.archive.org/web/20191016185217/https://www.nytimes.com/2011/05/1 8/technology/18talent.html) from the original on October 16, 2019. Retrieved November 25, 2019.
+138. "Facebook buys Instagram for $1 billion" (https://web.archive.org/web/20131007025843/htt p://followerking.weebly.com/). weebly. Archived from the original (https://followerking.weebly. com) on October 7, 2013. Retrieved April 4, 2012.
+
+139. Lunden, Ingrid (October 13, 2013). "Facebook Buys Mobile Data Analytics Company Onavo, Reportedly For Up To $200M… And (Finally?) Gets Its Office In Israel" (https://techcrunch.co m/2013/10/13/facebook-buys-mobile-analytics-company-onavo-and-finally-gets-its-office-in-i srael/). TechCrunch. Archived (https://web.archive.org/web/20170707140556/https://techcru nch.com/2013/10/13/facebook-buys-mobile-analytics-company-onavo-and-finally-gets-its-off ice-in-israel/) from the original on July 7, 2017. Retrieved December 4, 2019.
+140. Rosen, Guy (November 7, 2013). "We are joining the Facebook team" (https://web.archive.o rg/web/20131107004328/http://blog.onavo.com/2013/10/joining-facebook). Onavo Blog. Archived from the original (http://blog.onavo.com/2013/10/joining-facebook) on November 7, 2013. Retrieved January 30, 2019.
+141. Covert, Adrian (January 19, 2014). "Facebook buys WhatsApp for $19 billion" (https://web.ar chive.org/web/20210221213656/https://money.cnn.com/2014/02/19/technology/social/faceb ook-whatsapp/index.html). CNNMoney. CNN. Archived from the original (https://money.cnn. com/2014/02/19/technology/social/facebook-whatsapp/index.html) on February 21, 2021.
+Retrieved June 15, 2017.
+142. Stone, Brad (February 20, 2014). "Facebook Buys WhatsApp for $19 Billion" (https://www.bl oomberg.com/news/articles/2014-02-19/facebook-buys-mobile-messenger-whatsapp-for-19-billion). Bloomberg. Archived (https://web.archive.org/web/20171010025439/https://www.blo omberg.com/news/articles/2014-02-19/facebook-buys-mobile-messenger-whatsapp-for-19-b illion) from the original on October 10, 2017. Retrieved June 15, 2017.
+143. Etherington, Darrell (October 6, 2014). "Facebook Closes WhatsApp Acquisition, Jan Koum To Match Zuckerberg's $1 Annual Salary" (https://techcrunch.com/2014/10/06/facebook-clos es-whatsapp-acquisition/). TechCrunch. Retrieved October 8, 2025.
+144. Plunkett, Luke (March 25, 2014). "Facebook Buys Oculus Rift For $2 Billion" (https://kotaku. com/facebook-buys-oculus-rift-for-2-billion-1551487939). Kotaku.com. Archived (https://web. archive.org/web/20140325235354/http://kotaku.com/facebook-buys-oculus-rift-for-2-billion-1 551487939) from the original on March 25, 2014. Retrieved March 25, 2014.
+145. Marshall, Cass (November 26, 2019). "Facebook acquires Beat Saber developer" (https://w ww.polygon.com/2019/11/26/20984478/facebook-acquires-beat-saber-beat-games-vr-moddi ng/). Polygon. Archived (https://web.archive.org/web/20200124155805/https://www.polygon. com/2019/11/26/20984478/facebook-acquires-beat-saber-beat-games-vr-modding) from the original on January 24, 2020. Retrieved January 6, 2020.
+146. Brown, Abram. "Facebook Buys Giphy For $400 Million" (https://www.forbes.com/sites/abra mbrown/2020/05/15/facebook-buys-giphy-for-400-million/). Forbes. Archived (https://web.arc hive.org/web/20210310054831/https://www.forbes.com/sites/abrambrown/2020/05/15/faceb ook-buys-giphy-for-400-million/) from the original on March 10, 2021. Retrieved March 26, 2021.
+147. Aripaka, Pushkala (August 12, 2021). "Facebook may have to sell Giphy on Britain's competition concerns" (https://www.reuters.com/article/us-giphy-m-a-facebook-cma/faceboo k-may-have-to-sell-giphy-on-britains-competition-concerns-idUSKBN2FD0WA?). Reuters. Archived (https://web.archive.org/web/20210812105732/https://www.reuters.com/article/us-giphy-m-a-facebook-cma/facebook-may-have-to-sell-giphy-on-britains-competition-concerns
+-idUSKBN2FD0WA) from the original on August 12, 2021. Retrieved August 13, 2021.
+148. Lomas, Natasha (October 20, 2021). "Facebook fined $70M for flouting Giphy order made by UK watchdog" (https://techcrunch.com/2021/10/20/facebook-fined-70m-for-flouting-giphy-order-made-by-uk-watchdog/). TechCrunch. Archived (https://web.archive.org/web/2021102 0103104/https://techcrunch.com/2021/10/20/facebook-fined-70m-for-flouting-giphy-order-ma de-by-uk-watchdog/) from the original on October 20, 2021. Retrieved October 20, 2021.
+149. "Facebook owner Meta to sell Giphy after UK watchdog confirms ruling" (https://www.thegua rdian.com/technology/2022/oct/18/facebook-meta-sell-giphy-cma). The Guardian. October 18, 2022. Archived (https://web.archive.org/web/20230717163609/https://www.theguardian. com/technology/2022/oct/18/facebook-meta-sell-giphy-cma) from the original on July 17, 2023. Retrieved November 10, 2022.
+
+150. Grantham-Philips, Wyatte (May 23, 2023). "Meta sells Giphy for $53M to Shutterstock after UK blocked GIF platform purchase" (https://apnews.com/article/meta-giphy-shutterstock-fac ebook-antitrust-9ab122cc3702f03a17bcd6ba2cba1711). Associated Press. Archived (https:// web.archive.org/web/20230524052432/https://apnews.com/article/meta-giphy-shutterstock-f acebook-antitrust-9ab122cc3702f03a17bcd6ba2cba1711) from the original on May 24, 2023. Retrieved May 24, 2023.
+151. Cimilluca, Dana; Lombardo, Cara (November 30, 2020). "WSJ News Exclusive | Facebook to Buy customer, Startup Valued at $1 Billion" (https://www.wsj.com/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196). The Wall Street
+Journal. ISSN 0099-9660 (https://search.worldcat.org/issn/0099-9660). Archived (https://we b.archive.org/web/20210221213618/https://www.wsj.com/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196) from the original on February 21, 2021. Retrieved November 30, 2020.
+152. "Meta closes Kustomer deal after regulatory approval" (https://www.reuters.com/technology/ meta-closes-kustomer-deal-after-regulatory-approval-2022-02-15/). Reuters. February 15, 2022. Archived (https://web.archive.org/web/20220217210605/https://www.reuters.com/tech nology/meta-closes-kustomer-deal-after-regulatory-approval-2022-02-15/) from the original on February 17, 2022. Retrieved February 17, 2022.
+153. Salvador Rodriguez (September 2, 2022). "Meta Acquires Berlin Startup to Boost Virtual-Reality Ambitions" (https://www.wsj.com/articles/meta-acquires-berlin-startup-to-boost-virtual
+-reality-ambitions-11662147631). The Wall Street Journal. Archived (https://web.archive.org/ web/20220907101151/https://www.wsj.com/articles/meta-acquires-berlin-startup-to-boost-vir tual-reality-ambitions-11662147631) from the original on September 7, 2022. Retrieved September 8, 2022.
+154. Vanian, Jonathan (December 5, 2025). "AI wearable company Limitless says it has been acquired by Meta" (https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html). CNBC. Retrieved December 5, 2025.
+155. "Meta Buys AI Startup Manus, Adding Millions of Paying Users" (https://www.wsj.com/tech/a i/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8). The Wall Street
+Journal. December 29, 2025.
+156. Clark, Angel Au-Yeung, Raffaele Huang and Kate (December 30, 2025). "Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion" (https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8). The Wall Street Journal. Retrieved December 30, 2025.
+157. Poddar, Diya (January 7, 2026). "China reviews Meta's Manus acquisition amid AI security scrutiny: report" (https://invezz.com/news/2026/01/07/china-reviews-metas-manus-acquisitio n-amid-ai-security-scrutiny-report/). Invezz. Retrieved January 7, 2026.
+158. "Client Profile: Facebook Inc" (https://www.opensecrets.org/federal-lobbying/clients/summar y?cycle=2019&id=D000033563). OpenSecrets. Archived (https://web.archive.org/web/2021 0409215419/https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2019&id
+
+=D000033563) from the original on April 9, 2021.
+159. Lauren Feiner, Facebook spent more on lobbying than any other Big Tech company in 2020 (https://www.cnbc.com/2021/01/22/facebook-spent-more-on-lobbying-than-any-other-big-tec h-company-in-2020.html). Archived (https://web.archive.org/web/20220218042409/https://w ww.cnbc.com/2021/01/22/facebook-spent-more-on-lobbying-than-any-other-big-tech-compa ny-in-2020.html) February 18, 2022, at the Wayback Machine. CNBC.com. January 22, 2021.
+160. "Facebook's lobbying spending surged to a record in 2021" (https://www.politico.com/news/2 022/01/21/facebook-lobbying-spending-2021-527577). Politico, January 21, 2022. January
+21, 2022. Archived (https://web.archive.org/web/20230312010547/https://www.politico.com/ news/2022/01/21/facebook-lobbying-spending-2021-527577) from the original on March 12, 2023. Retrieved March 12, 2023.
+
+161. "Mark Zuckerberg's Meta donates $1m to Trump fund" (https://www.bbc.co.uk/news/articles/ c8j9e1x9z2xo). BBC News. December 12, 2024. Retrieved December 12, 2024.
+162. Maher, Kit; Tapper, Jake; Jaramillo, Alejandra. "White House releases list of donors for Trump's multi-million-dollar ballroom" (https://web.archive.org/web/20251023104311/https:// www.cnn.com/2025/10/23/politics/ballroom-donors-white-house-trump). CNN. Archived from the original (https://www.cnn.com/2025/10/23/politics/ballroom-donors-white-house-trump) on October 23, 2025. Retrieved October 23, 2025.
+163. Biddle, Sam (October 21, 2024). "Meta's Israel Policy Chief Tried to Suppress Pro-Palestinian Instagram Posts" (https://theintercept.com/2024/10/21/instagram-israel-palestine
+
+-censorship-sjp/). The Intercept. Retrieved December 31, 2024.
+164. Mark Zuckerberg has some regrets about how Meta handled COVID misinformation (https:// qz.com/zuckerberg-meta-facebook-instagram-covid-19-biden-admin-1851632442) Rocio Fabbro, Quartz, Aug 27, 2024
+165. Dedezade, Esat. "Meta Faces Backlash As Democrat-Related Terms Disappear From Instagram" (https://www.forbes.com/sites/esatdedezade/2025/01/21/meta-faces-backlash-as
+-democrat-related-terms-disappear-from-instagram/). Forbes.
+166. Haysom, Sam (January 21, 2025). "Is Instagram blocking the #Democrat hashtag?" (https:// mashable.com/article/instagram-blocking-democrat-hashtag). Mashable. Ziff Davis. Retrieved January 22, 2025.
+167. Gerken, Tom (January 21, 2025). "Instagram hides search results for 'Democrats' " (https://w ww.bbc.com/news/articles/c4g32yxpdz0o). BBC. Retrieved January 22, 2025.
+168. Lorenz, Taylor. "Meta rep flagged 'critiques of tech industry figures' as 'sensitive or controversial content' " (https://www.usermag.co/p/meta-rep-flagged-critiques-of-tech-industr y-figures-as-sensitive-or-controversial-content). www.usermag.co. Retrieved March 13, 2025.
+169. "Exclusive | Zuckerberg's Meta considered sharing user data with China, whistleblower alleges" (https://www.washingtonpost.com/technology/2025/03/09/meta-china-censorship-fa cebook-mark-zuckerberg/). The Washington Post. March 9, 2025. Archived (https://web.arch ive.org/web/20250313104458/https://www.washingtonpost.com/technology/2025/03/09/met a-china-censorship-facebook-mark-zuckerberg/) from the original on March 13, 2025. Retrieved March 22, 2026.
+170. Isaac, Mike (March 13, 2025). "Meta Seeks to Block Further Sales of Ex-Employee's Scathing Memoir" (https://www.nytimes.com/2025/03/12/technology/meta-book-sales-blocke d.html). The New York Times. ISSN 0362-4331 (https://search.worldcat.org/issn/0362-433 1). Retrieved March 13, 2025.
+171. Naughton, John (March 15, 2025). "Whistleblower's exposé of the cult of Zuckerberg reveals peril of power-crazy tech bros" (https://www.theguardian.com/commentisfree/2025/ mar/15/whistleblowers-cult-zuckerberg-power-tech-bros). The Guardian. London, United Kingdom. ISSN 0029-7712 (https://search.worldcat.org/issn/0029-7712). Retrieved
+March 15, 2025.
+172. Down, Aisha. "Meta shuts down global accounts linked to abortion advice and queer content" (https://www.theguardian.com/global-development/2025/dec/11/meta-shuts-down-g lobal-accounts-linked-to-abortion-advice-and-queer-content). www.theguardian.com. Retrieved December 13, 2025.
+173. Shahani, Aarti (November 17, 2016). "From Hate Speech To Fake News: The Content Crisis Facing Mark Zuckerberg" (https://www.npr.org/sections/alltechconsidered/2016/11/17/49582 7410/from-hate-speech-to-fake-news-the-content-crisis-facing-mark-zuckerberg). NPR. Archived (https://web.archive.org/web/20220216170229/https://www.npr.org/sections/alltech considered/2016/11/17/495827410/from-hate-speech-to-fake-news-the-content-crisis-facing
+
+-mark-zuckerberg) from the original on February 16, 2022. Retrieved February 16, 2022.
+
+174. Burke, Samuel (November 19, 2016). "Zuckerberg: Facebook will develop tools to fight fake news" (https://web.archive.org/web/20201108115311/https://money.cnn.com/2016/11/19/tec hnology/mark-zuckerberg-facebook-fake-news-election/). CNN Money. Archived from the original (https://money.cnn.com/2016/11/19/technology/mark-zuckerberg-facebook-fake-new s-election/) on November 8, 2020. Retrieved November 22, 2016.
+175. Jamieson, Amber; Solon, Olivia (December 15, 2016). "Facebook to begin flagging fake news in response to mounting criticism" (https://www.theguardian.com/technology/2016/dec/ 15/facebook-flag-fake-news-fact-check). The Guardian. Archived (https://web.archive.org/we b/20220324183004/https://www.theguardian.com/technology/2016/dec/15/facebook-flag-fak e-news-fact-check) from the original on March 24, 2022. Retrieved April 7, 2022.
+176. Levin, Sam (December 13, 2018). " 'They don't care': Facebook factchecking in disarray as journalists push to cut ties" (https://www.theguardian.com/technology/2018/dec/13/they-dont
+-care-facebook-fact-checking-in-disarray-as-journalists-push-to-cut-ties). The Guardian. San Francisco. Archived (https://web.archive.org/web/20220322085301/https://www.theguardian. com/technology/2018/dec/13/they-dont-care-facebook-fact-checking-in-disarray-as-journalis ts-push-to-cut-ties) from the original on March 22, 2022. Retrieved April 7, 2022.
+177. Levin, Sam (May 16, 2017). "Facebook promised to tackle fake news. But the evidence shows it's not working" (https://www.theguardian.com/technology/2017/may/16/facebook-fak e-news-tools-not-working). The Guardian. Archived (https://web.archive.org/web/202203282 00031/https://www.theguardian.com/technology/2017/may/16/facebook-fake-news-tools-not-working) from the original on March 28, 2022. Retrieved April 7, 2022.
+178. "Meta Oversight Board Warns of 'Incoherent' Rules After Fake Biden Video" (https://time.co m/6686574/meta-oversight-board-biden-video/). TIME. February 5, 2024. Archived (https://w eb.archive.org/web/20240208145503/https://time.com/6686574/meta-oversight-board-biden
+
+-video/) from the original on February 8, 2024. Retrieved February 8, 2024.
+179. Nix, Naomi (February 4, 2024). "Oversight Board rebukes Meta's policies after altered Biden video spreads" (https://www.washingtonpost.com/technology/2024/02/05/meta-oversight-bo ard-deepfake-president-biden/). Washington Post. ISSN 0190-8286 (https://search.worldcat. org/issn/0190-8286). Retrieved February 8, 2024.
+180. "Meta is ending its fact-checking program in favor of a 'community notes' system similar to X's" (https://www.nbcnews.com/tech/social-media/meta-ends-fact-checking-program-commu nity-notes-x-rcna186468). NBC News. January 7, 2025. Retrieved January 16, 2025.
+181. Isaac, Mike; Schleifer, Theodore (January 7, 2025). "Meta Says It Will End Its Fact-Checking Program on Social Media Posts" (https://www.nytimes.com/live/2025/01/07/busine ss/meta-fact-checking). The New York Times. ISSN 0362-4331 (https://search.worldcat.org/i ssn/0362-4331). Retrieved January 16, 2025.
+182. "Mark Zuckerberg says ending fact-checks will curb censorship. Fact-checkers say he's wrong. - CBS News" (https://www.cbsnews.com/news/meta-mark-zuckerberg-facebook-fact-checkers-censorship/). www.cbsnews.com. January 8, 2025. Retrieved January 16, 2025.
+183. "NEW: GLAAD RESPONDS TO META'S LATEST ANTI-LGBTQ CHANGES TO CONTENT
+POLICY AND DEI THAT WILL HARM USERS" (https://glaad.org/releases/meta-anti-lgbtq-ha te-speech-dei/). GLAAD. January 10, 2025. Retrieved January 11, 2025.
+184. Factora, James (January 10, 2025). " "Trans People Are Freaks." Meta Leaks Reveal Specific Anti-LGBTQ+ Content the Company Now Allows" (https://www.them.us/story/trans-people-are-freaks-meta-leaks-anti-lgbtq-content). Them. Retrieved January 11, 2025.
+185. Koebler, Jason (January 10, 2025). "Meta Deletes Trans and Nonbinary Messenger Themes" (https://www.404media.co/meta-deletes-trans-and-nonbinary-messenger-themes/). 404 Media. Retrieved January 11, 2025.
+186. Knibbs, Kate. "Meta Now Lets Users Say Gay and Trans People Have 'Mental Illness' " (http s://www.wired.com/story/meta-immigration-gender-policies-change/). Wired. ISSN 1059-1028 (https://search.worldcat.org/issn/1059-1028). Retrieved January 7, 2025.
+
+187. Schleifer, Theodore; Isaac, Mike (January 7, 2025). "Meta to End Fact-Checking on Facebook, Instagram Ahead of Trump Term: Live Updates" (https://www.nytimes.com/live/20 25/01/07/business/meta-fact-checking). The New York Times. ISSN 0362-4331 (https://sear ch.worldcat.org/issn/0362-4331). Retrieved January 7, 2025.
+188. "Inside Meta's dehumanizing new speech policies for trans people" (https://www.platformer.n ews/meta-new-trans-guidelines-hate-speech/?ref=platformer-newsletter). Platformer. January 10, 2025. Retrieved January 10, 2025.
+189. Biddle, Sam (January 10, 2025). "Leaked Meta Rules: Users Are Free to Post "Mexican Immigrants Are Trash!" or "Trans People Are Immoral" " (https://theintercept.com/2025/01/0 9/facebook-instagram-meta-hate-speech-content-moderation/). The Intercept. Retrieved January 10, 2025.
+190. "Exclusive | Meta Whistleblower Kelly Stonelake: Big Tech Treats India as a Scale Market, Safety is Secondary" (https://www.outlookbusiness.com/magazine/exclusive-meta-whistlebl ower-kelly-stonelake-big-tech-treats-india-as-a-scale-market-safety-is-secondary). Outlook Business. April 1, 2026. Retrieved April 4, 2026.
+191. "Facebook suffers blow in Australia legal fight over Cambridge Analytica" (https://www.thegu ardian.com/technology/2020/sep/14/facebook-suffers-blow-in-australia-legal-fight-over-camb ridge-analytica). The Guardian. September 14, 2020. Archived (https://web.archive.org/web/ 20200929112253/https://www.theguardian.com/technology/2020/sep/14/facebook-suffers-bl ow-in-australia-legal-fight-over-cambridge-analytica) from the original on September 29, 2020. Retrieved September 30, 2020.
+192. Feiner, Lauren; Rodriguez, Salvador (December 8, 2020). "FTC and states sue Facebook, could force it to divest Instagram and WhatsApp" (https://www.cnbc.com/2020/12/09/ftc-and-several-states-launch-antitrust-lawsuits-against-facebook.html). CNBC. Archived (https://we b.archive.org/web/20201213090012/https://www.cnbc.com/2020/12/09/ftc-and-several-state s-launch-antitrust-lawsuits-against-facebook.html) from the original on December 13, 2020. Retrieved December 8, 2020.
+193. Fung, Brian. "The legal battle to break up Facebook is underway. Now comes the hard part" (https://www.cnn.com/2020/12/10/tech/facebook-antitrust-lawsuit-analysis/index.html). CNN. Archived (https://web.archive.org/web/20210209195302/https://www.cnn.com/2020/12/10/te ch/facebook-antitrust-lawsuit-analysis/index.html) from the original on February 9, 2021. Retrieved December 10, 2020.
+194. "Meta does not have social media monopoly, judge rules" (https://www.bbc.com/news/article s/crklgrpdke8o). www.bbc.com. November 18, 2025. Retrieved November 27, 2025.
+195. Khurshudyan, Isabelle (December 24, 2021). "Russia fines Google $100 million, and Meta
+$27 million, over 'failure to remove banned content' " (https://www.washingtonpost.com/worl d/2021/12/24/google-russia-fine-banned-content/). The Washington Post. Archived (https://w eb.archive.org/web/20211224182640/https://www.washingtonpost.com/world/2021/12/24/go ogle-russia-fine-banned-content/) from the original on December 24, 2021. Retrieved December 25, 2021.
+196. "Meta sued in Kenya over claims of exploitation and poor working conditions" (https://www.c nn.com/2022/05/10/tech/meta-sued-in-kenya-lgs-intl/index.html). CNN. Reuters. May 10, 2022. Archived (https://web.archive.org/web/20220612215237/https://www.cnn.com/2022/0 5/10/tech/meta-sued-in-kenya-lgs-intl/index.html) from the original on June 12, 2022. Retrieved May 10, 2022.
+197. "A watershed': Meta ordered to offer mental health care to moderators in Kenya" (https://ww w.theguardian.com/global-development/2023/jun/07/a-watershed-meta-ordered-to-offer-men tal-health-care-to-moderators-in-kenya). The Guardian. June 7, 2023. Archived (https://web. archive.org/web/20230608141240/https://www.theguardian.com/global-development/2023/ju n/07/a-watershed-meta-ordered-to-offer-mental-health-care-to-moderators-in-kenya) from the original on June 8, 2023. Retrieved June 8, 2023.
+
+198. "Meta Hit With 8 Suits Claiming Its Algorithms Hook Youth and Ruin Their Lives" (https://ww w.bloomberg.com/news/articles/2022-06-08/meta-hit-with-8-suits-claiming-algorithms-hook-youth-ruin-lives). Bloomberg. June 8, 2022. Retrieved June 9, 2022.
+199. "Meta settles US lawsuit over housing discrimination" (https://news.yahoo.com/meta-housin g-discrimination-settlement-191710885.html). news.yahoo.com. June 21, 2022. Archived (ht tps://web.archive.org/web/20220624090528/https://news.yahoo.com/meta-housing-discrimin ation-settlement-191710885.html) from the original on June 24, 2022. Retrieved June 22, 2022.
+200. "Meta settles lawsuit with Justice Department over ad-serving algorithms" (https://techcrunc h.com/2022/06/21/meta-settles-lawsuit-with-justice-department-over-ad-serving-algorithm s/). TechCrunch. June 21, 2022. Archived (https://web.archive.org/web/20220622174935/htt ps://techcrunch.com/2022/06/21/meta-settles-lawsuit-with-justice-department-over-ad-servin g-algorithms/) from the original on June 22, 2022. Retrieved June 22, 2022.
+201. "Meta Agrees to Alter Ad Technology in Settlement With U.S." (https://www.nytimes.com/202 2/06/21/technology/meta-ad-targeting-settlement.html) The New York Times. June 21, 2022. Archived (https://web.archive.org/web/20220624095814/https://www.nytimes.com/2022/06/2 1/technology/meta-ad-targeting-settlement.html) from the original on June 24, 2022. Retrieved June 23, 2022.
+202. Chan, Kelvin (January 4, 2023). "Meta fined $414m in latest European privacy crackdown" (https://www.bostonglobe.com/2023/01/04/business/meta-fined-414m-latest-european-priva cy-crackdown/). BostonGlobe.com. Associated Press. Archived (https://web.archive.org/we b/20230128213220/https://www.bostonglobe.com/2023/01/04/business/meta-fined-414m-lat est-european-privacy-crackdown/) from the original on January 28, 2023. Retrieved February 12, 2023.
+203. "Meta slapped with record $1.3 billion EU fine over data privacy" (https://www.cnn.com/202 3/05/22/tech/meta-facebook-data-privacy-eu-fine/index.html). CNN. May 22, 2023. Archived (https://web.archive.org/web/20230522102811/https://www.cnn.com/2023/05/22/tech/meta-f acebook-data-privacy-eu-fine/index.html) from the original on May 22, 2023. Retrieved
+May 22, 2023.
+204. Motley, Dante (July 30, 2024). "Meta to pay Texas $1.4 billion for using facial recognition technology without users' permission" (https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/). The Texas Tribune. Archived (https://web.archive.org/ web/20240815002538/https://www.texastribune.org/2024/07/30/texas-meta-facebook-biome tric-data-settlement/) from the original on August 15, 2024. Retrieved September 5, 2024.
+205. "Meta faces lawsuits in Japan over fake Facebook, Instagram ads | NHK WORLD-JAPAN News" (https://web.archive.org/web/20241105233034/https://www3.nhk.or.jp/nhkworld/en/ne ws/20241029_16/). NHK WORLD. Archived from the original (https://www3.nhk.or.jp/nhkwor ld/en/news/20241029_16/) on November 5, 2024. Retrieved November 6, 2024.
+206. Milmo, Dan (April 3, 2025). "Meta faces £1.8bn lawsuit over claims it inflamed violence in Ethiopia" (https://www.theguardian.com/technology/2025/apr/03/meta-faces-18bn-lawsuit-ov er-claims-it-inflamed-violence-in-ethiopia). The Guardian. London, United Kingdom.
+ISSN 0261-3077 (https://search.worldcat.org/issn/0261-3077). Retrieved April 4, 2025.
+207. "EU fines Apple €500M and Meta €200M for breaking Europe's digital rules" (https://www.pol itico.eu/article/eu-fines-apple-meta-breaking-europe-digital-markets-act-dma/). POLITICO. April 23, 2025. Retrieved April 23, 2025.
+208. Hall, Rachel; Wilmot, Claire (April 27, 2025). "Meta faces Ghana lawsuits over impact of extreme content on moderators" (https://www.theguardian.com/technology/2025/apr/27/met a-faces-ghana-lawsuits-over-impact-of-extreme-content-on-moderators). The Guardian. ISSN 0261-3077 (https://search.worldcat.org/issn/0261-3077). Retrieved April 28, 2025.
+209. "Meta's content moderators face worst conditions yet at secret Ghana…" (https://www.thebu reauinvestigates.com/stories/2025-04-27/suicide-attempts-sackings-and-a-vow-of-silence-m etas-new-moderators-face-worst-conditions-yet). TBIJ. April 27, 2025. Retrieved May 4,
+2025.
+
+210. "COMPLAINT" (https://web.archive.org/web/20240326212433/https://nmdoj.gov/wp-content/ uploads/2024/01/2023-12-05-NM-v.-Meta-et-al.-COMPLAINT-REDACTED.pdf) (PDF). New
+Mexico Attorney General. December 5, 2023. Archived from the original (https://nmdoj.gov/w p-content/uploads/2024/01/2023-12-05-NM-v.-Meta-et-al.-COMPLAINT-REDACTED.pdf) (PDF) on March 26, 2024.
+211. "Attorney General Raúl Torrez Files Lawsuit Against Meta Platforms and Mark Zuckerberg to Protect Children from Sexual Abuse and Human Trafficking - New Mexico Department of Justice" (https://web.archive.org/web/20240317070038/https://nmdoj.gov/press-release/attor ney-general-raul-torrez-files-lawsuit-against-meta-platforms-and-mark-zuckerberg-to-protect
+-children-from-sexual-abuse-and-human-trafficking/). New Mexico Attorney General (Press release). December 6, 2023. Archived from the original (https://nmdoj.gov/press-release/atto rney-general-raul-torrez-files-lawsuit-against-meta-platforms-and-mark-zuckerberg-to-protec t-children-from-sexual-abuse-and-human-trafficking/) on March 17, 2024. "the New Mexico Attorney General's Office carried out an undercover investigation of Meta"
+212. Lee, Morgan (March 25, 2026). "New Mexico jury says Meta harms children's mental health and safety, violating state law" (https://apnews.com/article/meta-facebook-new-mexico-trial-28eabd8ec5f58c1d1ecddc21bb107de7). Associated Press. Retrieved March 25, 2026.
+213. "New Mexico Department of Justice Wins Landmark Verdict Against Meta" (https://web.archi ve.org/web/20260324230904/https://nmdoj.gov/press-release/new-mexico-department-of-ju stice-wins-landmark-verdict-against-meta/). New Mexico Attorney General (Press release). March 24, 2026. Archived from the original (https://nmdoj.gov/press-release/new-mexico-de partment-of-justice-wins-landmark-verdict-against-meta/) on March 24, 2026. "The NMDOJ's final claim against Meta will be heard via a bench trial that is scheduled to begin on May 4. During the bench trial, the NMDOJ will argue its public nuisance case and seek injunctive relief that requires Meta to pay additional damages and make specific changes to its platforms and company operations, including enacting effective age verification, removing predators from the platform, and protecting minors from encrypted communications that shield bad actors."
+214. Shamim, Sarah. "Jury finds Meta, YouTube liable for social media addiction: What we know" (https://www.aljazeera.com/news/2026/3/26/jury-finds-meta-youtube-liable-for-social-media-addiction-what-we-know). Al Jazeera. Retrieved March 27, 2026.
+215. "Meta ordered to pay $479m in New Mexico trial over child exploitation, user safety claims" (https://www.straitstimes.com/world/united-states/meta-ordered-to-pay-479m-in-new-mexico
+-trial-over-child-exploitation-user-safety-claims). The Straits Times. March 25, 2026. ISSN 0585-3923 (https://search.worldcat.org/issn/0585-3923). Retrieved April 10, 2026.
+216. "L'offensive judiciaire tous azimuts de Lotfi Bel Hadj contre Facebook" (https://www.africaint elligence.fr/afrique-du-nord/2022/03/29/l-offensive-judiciaire-tous-azimuts-de-lotfi-bel-hadj-c ontre-facebook,109763539-art). Africa intelligence. March 29, 2022.
+217. "Qu'est-ce que l'agence UReputation, au cœur de l'affaire de « l'armée numérique » du PSG ?" (https://www.ouest-france.fr/leditiondusoir/2022-10-13/qu-est-ce-que-l-agence-urepu tation-au-coeur-de-l-affaire-de-l-armee-numerique-du-psg-f2cb75e4-12e8-42b1-a821-88a92 d8ce580). Ouest France. October 13, 2022.
+218. "Affaire UReputation vs Meta : la justice américaine autorise l'accès aux preuves" (https://w eb.archive.org/web/20250801082705/https://www.businessnews.com.tn/affaire-ureputation-vs-meta--la-justice-americaine-autorise-lacces-aux-preuves,544,149918,3). Business News. October 13, 2022. Archived from the original (https://www.businessnews.com.tn/affaire-urep utation-vs-meta--la-justice-americaine-autorise-lacces-aux-preuves,544,149918,3) on August 1, 2025.
+219. "uReputation v. Meta Platforms Inc. et al: Discovery Application (France & Tunisia)" (https:// www.offshorealert.com/ureputation-v-meta-platforms-inc-et-al-discovery-application-france-t unisia/). OffshoreAlert. June 20, 2025.
+
+220. "Facebook Management" (https://investor.fb.com/leadership-and-governance/?section=man agement). Facebook Investor Relations. Facebook. Archived (https://web.archive.org/web/2 0220803142008/https://investor.fb.com/leadership-and-governance/?section=management) from the original on August 3, 2022. Retrieved August 3, 2022.
+221. "Executives | Meta" (https://about.meta.com/media-gallery/executives/). about.meta.com. Archived (https://web.archive.org/web/20221107222845/https://about.meta.com/media-galle ry/executives/) from the original on November 7, 2022. Retrieved November 7, 2022.
+222. "Meta – Leadership & Governance" (https://investor.fb.com/leadership-and-governance/?se ction=board). investor.fb.com. Archived (https://web.archive.org/web/20240624035641/http s://investor.fb.com/leadership-and-governance/?section=board) from the original on June 24, 2024. Retrieved June 24, 2024.
+223. Vanian, Jonathan (February 14, 2024). "Meta says Broadcom CEO Hock Tan is joining board of directors" (https://www.cnbc.com/2024/02/14/meta-says-broadcom-ceo-hock-tan-is
+-joining-board-of-directors-.html). CNBC. Archived (https://web.archive.org/web/2024021422 0926/https://www.cnbc.com/2024/02/14/meta-says-broadcom-ceo-hock-tan-is-joining-board-of-directors-.html) from the original on February 14, 2024. Retrieved February 14, 2024.
+224. Newswire, PR. "Dana White, John Elkann and Charlie Songhurst to Join Meta Board of Directors" (https://finance.yahoo.com/news/dana-white-john-elkann-charlie-211500673.htm l). Yahoo Finance. Retrieved January 6, 2025.
+225. "Meta - Leadership & Governance" (https://investor.atmeta.com/leadership-and-governanc e/). investor.atmeta.com. Retrieved January 25, 2025.
+226. "Dana White, John Elkann and Charlie Songhurst to Join Meta Board of Directors" (https://a bout.fb.com/news/2025/01/dana-white-john-elkann-charlie-songhurst-meta-board-of-director s/). Meta. January 6, 2025. Retrieved January 25, 2025.
+227. "Meta Platforms, Inc. (META)" (https://finance.yahoo.com/quote/META/holders/). Yahoo! Finance. September 2025. Archived (https://ghostarchive.org/archive/5wYCQ) from the original on December 14, 2025. Retrieved December 13, 2025.
+228. "Top Facebook (Meta) Shareholders" (https://www.investopedia.com/articles/insights/08221 6/top-9-shareholders-facebook-fb.asp). Investopedia. Retrieved May 12, 2025.
+229. Bissell, Tom (January 29, 2019). "An Anti-Facebook Manifesto, by an Early Facebook Investor" (https://www.nytimes.com/2019/01/29/books/review/roger-mcnamee-zucked.html). The New York Times. Archived (https://web.archive.org/web/20210209195319/https://www.n ytimes.com/2019/01/29/books/review/roger-mcnamee-zucked.html) from the original on February 9, 2021. Retrieved November 25, 2019.
+230. Brown, Shelby. "Facebook co-founder Chris Hughes calls for company's breakup" (https://w ww.cnet.com/news/facebook-co-founder-chris-hughes-calls-for-companys-breakup-zuckerb erg/). CNET. Archived (https://web.archive.org/web/20200314054458/https://www.cnet.com/ news/facebook-co-founder-chris-hughes-calls-for-companys-breakup-zuckerberg/) from the original on March 14, 2020. Retrieved November 25, 2019.
+231. Hughes, Chris (May 9, 2019). "Opinion | It's Time to Break Up Facebook" (https://www.nytim es.com/2019/05/09/opinion/sunday/chris-hughes-facebook-zuckerberg.html). The New York Times. Archived (https://web.archive.org/web/20210221204937/https://www.nytimes.com/20 19/05/09/opinion/sunday/chris-hughes-facebook-zuckerberg.html) from the original on February 21, 2021. Retrieved November 25, 2019.
+232. Brown, Shelby. "More politicians side with Facebook co-founder on breaking up company" (https://www.cnet.com/news/more-politicians-side-with-chris-hughes-and-are-ready-to-split-u p-facebook/). CNET. Archived (https://web.archive.org/web/20210209195302/https://www.cn et.com/news/more-politicians-side-with-chris-hughes-and-are-ready-to-split-up-facebook/) from the original on February 9, 2021. Retrieved November 25, 2019.
+
+233. Collins, Katie. "EU competition commissioner: Facebook breakup would be 'last resort' " (htt ps://www.cnet.com/news/eu-competition-commissioner-facebook-breakup-would-be-last-res ort/). CNET. Archived (https://web.archive.org/web/20210209195305/https://www.cnet.com/ news/eu-competition-commissioner-facebook-breakup-would-be-last-resort/) from the original on February 9, 2021. Retrieved November 25, 2019.
+234. Tsotsis, Alexia (February 1, 2012). "Facebook's IPO: An End To All The Revenue Speculation" (https://techcrunch.com/2012/02/01/facebook-ipo-facebook-ipo-facebook-ipo/). TechCrunch. Archived (https://web.archive.org/web/20210210223828/https://techcrunch.co m/2012/02/01/facebook-ipo-facebook-ipo-facebook-ipo/) from the original on February 10, 2021. Retrieved May 21, 2015.
+235. Arrington, Michael (May 19, 2009). "Facebook Turns Down $8 billion Valuation Term Sheet, Claims 2009 Revenues Will Be $550 million" (https://techcrunch.com/2009/05/19/facebook-t urns-down-8-billion-valuation-term-sheet-claims-2009-revenues-to-be-550-million/). TechCrunch. Archived (https://web.archive.org/web/20100712222539/http://techcrunch.com/ 2009/05/19/facebook-turns-down-8-billion-valuation-term-sheet-claims-2009-revenues-to-be
+
+-550-million/) from the original on July 12, 2010. Retrieved July 13, 2010.
+236. Tsotsis, Alexia (January 5, 2011). "Report: Facebook Revenue Was $777 Million In 2009, Net Income $200 Million" (https://techcrunch.com/2011/01/05/report-facebook-revenue-was-777-million-in-2009-net-income-200-million/). TechCrunch. Archived (https://web.archive.org/ web/20210210223832/https://techcrunch.com/2011/01/05/report-facebook-revenue-was-77 7-million-in-2009-net-income-200-million/) from the original on February 10, 2021. Retrieved January 5, 2011.
+237. Womack, Brian (December 16, 2010). "Facebook 2010 Sales Said Likely to Reach $2 Billion, More Than Estimated" (https://www.bloomberg.com/news/2010-12-16/facebook-sale s-said-likely-to-reach-2-billion-this-year-beating-target.html). Bloomberg. New York. Archived (https://web.archive.org/web/20210520104807/https://www.bloomberg.com/news/articles/20 10-12-16/facebook-sales-said-likely-to-reach-2-billion-this-year-beating-target) from the original on May 20, 2021. Retrieved January 5, 2011.
+238. "Facebook Reports Fourth Quarter and Full Year 2012 Results" (https://web.archive.org/we b/20130131173616/http://investor.fb.com/releasedetail.cfm?ReleaseID=736911). Facebook. January 30, 2013. Archived from the original (http://investor.fb.com/releasedetail.cfm?Relea seID=736911) on January 31, 2013. Retrieved February 7, 2014.
+239. "Facebook Reports Fourth Quarter and Full Year 2013 Results" (https://web.archive.org/we b/20140209131546/http://investor.fb.com/releasedetail.cfm?ReleaseID=821954). Facebook. January 29, 2014. Archived from the original (http://investor.fb.com/releasedetail.cfm?Relea seID=821954) on February 9, 2014. Retrieved February 7, 2014.
+240. "Facebook Reports Fourth Quarter and Full Year 2014 Results" (https://web.archive.org/we b/20150129183732/http://investor.fb.com/releasedetail.cfm?ReleaseID=893395). Facebook. Archived from the original (http://investor.fb.com/releasedetail.cfm?ReleaseID=893395) on January 29, 2015. Retrieved May 27, 2015.
+241. "Facebook Reports Fourth Quarter and Full Year 2015 Results" (https://web.archive.org/we b/20160130120630/http://investor.fb.com/releasedetail.cfm?ReleaseID=952040). Facebook. Archived from the original (http://investor.fb.com/releasedetail.cfm?ReleaseID=952040) on January 30, 2016. Retrieved March 13, 2016.
+242. "Facebook Annual Report 2016" (https://s21.q4cdn.com/399680738/files/doc_financials/ann ual_reports/FB_AR_2016_FINAL.pdf) (PDF). Facebook. Archived (https://web.archive.org/w eb/20210210223848/https://s21.q4cdn.com/399680738/files/doc_financials/annual_reports/ FB_AR_2016_FINAL.pdf) (PDF) from the original on February 10, 2021. Retrieved April 14, 2018.
+
+243. "Facebook Reports Fourth Quarter and Full Year 2017 Results" (https://web.archive.org/we b/20210210223750/https://investor.fb.com/investor-news/press-release-details/2018/Facebo ok-Reports-Fourth-Quarter-and-Full-Year-2017-Results/default.aspx). Facebook. Archived from the original (https://investor.fb.com/investor-news/press-release-details/2018/Facebook
+-Reports-Fourth-Quarter-and-Full-Year-2017-Results/default.aspx) on February 10, 2021.
+Retrieved April 14, 2018.
+244. "Facebook Reports Fourth Quarter and Full Year 2018 Results" (https://web.archive.org/we b/20190203124349/https://investor.fb.com/investor-news/press-release-details/2019/Facebo ok-Reports-Fourth-Quarter-and-Full-Year-2018-Results/default.aspx). investor.fb.com. Archived from the original (https://investor.fb.com/investor-news/press-release-details/2019/ Facebook-Reports-Fourth-Quarter-and-Full-Year-2018-Results/default.aspx) on February 3, 2019. Retrieved February 4, 2019.
+245. "Facebook Reports Fourth Quarter and Full Year 2020 Results" (https://web.archive.org/we b/20210128000722/https://investor.fb.com/investor-news/press-release-details/2021/Facebo ok-Reports-Fourth-Quarter-and-Full-Year-2020-Results/default.aspx). investor.fb.com. Archived from the original (https://investor.fb.com/investor-news/press-release-details/2021/ Facebook-Reports-Fourth-Quarter-and-Full-Year-2020-Results/default.aspx) on January 28, 2021. Retrieved January 28, 2021.
+246. "Meta Reports Fourth Quarter and Full Year 2021 Results" (https://web.archive.org/web/202 20203184926/https://investor.fb.com/investor-news/press-release-details/2022/Meta-Report s-Fourth-Quarter-and-Full-Year-2021-Results/default.aspx). Meta Platforms. February 3, 2022. Archived from the original (https://investor.fb.com/investor-news/press-release-details/ 2022/Meta-Reports-Fourth-Quarter-and-Full-Year-2021-Results/default.aspx) on February 3, 2022. Retrieved February 3, 2022.
+247. "Meta Platforms, Inc. 2022 Annual Report (Form 10-K)" (https://www.sec.gov/ix?doc=/Archiv es/edgar/data/0001326801/000132680123000013/meta-20221231.htm). U.S. Securities and Exchange Commission. February 2, 2023. Archived (https://web.archive.org/web/20230 203020908/https://www.sec.gov/ix?doc=/Archives/edgar/data/0001326801/0001326801230 00013/meta-20221231.htm) from the original on February 3, 2023. Retrieved February 3, 2023.
+248. "Meta Platforms, Inc. 2023 Annual Report (Form 10-K)" (https://www.sec.gov/ixviewer/ix.htm l?doc=/Archives/edgar/data/1326801/000132680124000012/meta-20231231.htm). U.S. Securities and Exchange Commission. February 2, 2024. Archived (https://web.archive.org/ web/20240203001141/https://www.sec.gov/ixviewer/ix.html?doc=/Archives/edgar/data/1326 801/000132680124000012/meta-20231231.htm) from the original on February 3, 2024. Retrieved February 3, 2024.
+249. "Meta Platforms, Inc. 2024 Annual Report (Form 10-K)" (https://www.sec.gov/ix?doc=/Archiv es/edgar/data/1326801/000132680125000017/meta-20241231.htm). U.S. Securities and Exchange Commission. January 30, 2025. Retrieved January 30, 2025.
+250. "Facebook | 2021 Fortune 500" (https://fortune.com/company/facebook/fortune500/). Fortune. Archived (https://web.archive.org/web/20210706205904/https://fortune.com/compa ny/facebook/fortune500/) from the original on July 6, 2021. Retrieved July 3, 2021.
+251. Jolie O'Dell (January 17, 2011). "Facebook's Ad Revenue Hit $1.86B for 2010" (https://mash able.com/2011/01/17/facebooks-ad-revenue-hit-1-86b-for-2010/). Mashable. Archived (http s://web.archive.org/web/20210210223751/https://mashable.com/2011/01/17/facebooks-ad-r evenue-hit-1-86b-for-2010/) from the original on February 10, 2021. Retrieved
+December 21, 2011.
+252. Womack, Brian (September 20, 2011). "Facebook Revenue Will Reach $4.27 Billion, EMarketer Says" (https://www.bloomberg.com/news/2011-09-20/facebook-revenue-will-reac h-4-27-billion-emarketer-says-1-.html). Bloomberg. Archived (https://web.archive.org/web/20 111219202523/http://www.bloomberg.com/news/2011-09-20/facebook-revenue-will-reach-4-27-billion-emarketer-says-1-.html) from the original on December 19, 2011. Retrieved December 21, 2011.
+
+253. Malloy, Daniel (May 27, 2019). "Too Big NOT To Fail?" (https://web.archive.org/web/202102 10224010/https://www.ozy.com/news-and-politics/too-big-not-to-fail/94567/). OZY. "What's your online data really worth? About $5 a month". Archived from the original (https://www.oz y.com/opinion/too-big-not-to-fail/94567) on February 10, 2021. Retrieved June 29, 2019.
+254. Dugan, Kevin T. (February 18, 2022). "Zuckerberg Has Burned $500 Billion Turning Facebook to Meta" (https://nymag.com/intelligencer/2022/02/zuckerberg-has-burned-usd50 0-billion-turning-facebook-to-meta.html). New York. Archived (https://web.archive.org/web/20 220222095801/https://nymag.com/intelligencer/2022/02/zuckerberg-has-burned-usd500-billi on-turning-facebook-to-meta.html) from the original on February 22, 2022. Retrieved February 22, 2022.
+255. Corrigan, Hope (February 22, 2022). "Facebook has lost $500 billion since rebranding to Meta" (https://www.pcgamer.com/facebook-has-lost-dollar500-billion-since-rebranding-to-me ta). PC Gamer. Archived (https://web.archive.org/web/20220222095830/https://www.pcgam er.com/facebook-has-lost-dollar500-billion-since-rebranding-to-meta/) from the original on February 22, 2022. Retrieved February 22, 2022.
+256. "Meta Platforms, Inc.: Business Segments and Geographical Breakdown of Revenue" (http s://www.marketscreener.com/quote/stock/META-PLATFORMS-INC-10547141/finances-seg ments/). www.marketscreener.com. Retrieved May 10, 2025.
+257. Meola, Andrew (February 24, 2015). "Active, in this case, means the advertiser has advertised on the site in the last 28 days" (http://www.thestreet.com/story/13056913/1/faceb ook-fb-stock-falls-today-despite-two-million-active-advertiser-announcement.html). TheStreet. TheStreet, Inc. Archived (https://web.archive.org/web/20150227062019/http://ww w.thestreet.com/story/13056913/1/facebook-fb-stock-falls-today-despite-two-million-active-a dvertiser-announcement.html) from the original on February 27, 2015. Retrieved
+February 25, 2015.
+258. "3 Million Advertisers on Facebook" (https://www.facebook.com/business/news/3-million-adv ertisers). Facebook for Business. Archived (https://web.archive.org/web/20190618190607/ht tps://www.facebook.com/business/news/3-million-advertisers) from the original on June 18, 2019. Retrieved November 25, 2019.
+259. "Complete interview with Brad Parscale and the Trump marketing strategy". PBS Frontline.
+260. "Meta is earning a fortune on a deluge of fraudulent ads, documents show" (http://web.archi ve.org/web/20260125004945/https://www.reuters.com/investigations/meta-is-earning-fortun e-deluge-fraudulent-ads-documents-show-2025-11-06/). Reuters. Archived from the original (https://www.reuters.com/investigations/meta-is-earning-fortune-deluge-fraudulent-ads-docu ments-show-2025-11-06/) on January 25, 2026. Retrieved March 22, 2026.
+261. "Facebook must give judge documents for U.S. tax probe of Irish unit" (https://www.reuters.c om/article/us-crypto-currencies-exchanges/crypto-trading-tumbles-as-investment-scramble-unwinds-idUSKBN1HR1PJ). Reuters. March 28, 2018. Archived (https://web.archive.org/we b/20180502234122/https://www.reuters.com/article/us-crypto-currencies-exchanges/crypto-t rading-tumbles-as-investment-scramble-unwinds-idUSKBN1HR1PJ) from the original on May 2, 2018. Retrieved November 25, 2019.
+262. "Facebook's Dublin HQ central to $5bn US tax probe" (https://www.businesspost.ie/news/fac ebooks-dublin-hq-central-5bn-us-tax-probe-413079). Sunday Business Post. April 1, 2018. Archived (https://web.archive.org/web/20180421094412/https://www.businesspost.ie/news/f acebooks-dublin-hq-central-5bn-us-tax-probe-413079) from the original on April 21, 2018. Retrieved November 25, 2019.
+263. "Facebook Ordered to Comply With U.S. Tax Probe of Irish Unit" (https://www.bloomberg.co m/news/articles/2018-03-28/facebook-ordered-to-comply-with-u-s-tax-probe-of-irish-unit). Bloomberg. March 28, 2018. Archived (https://web.archive.org/web/20180426013754/http s://www.bloomberg.com/news/articles/2018-03-28/facebook-ordered-to-comply-with-u-s-tax-probe-of-irish-unit) from the original on April 26, 2018. Retrieved November 25, 2019.
+
+264. "KPMG Report on TCJA" (https://home.kpmg.com/content/dam/kpmg/us/pdf/2018/02/tnf-ne w-law-book-feb6-2018.pdf) (PDF). KPMG. February 2018. Archived (https://web.archive.org/ web/20210209195204/https://home.kpmg/content/dam/kpmg/us/pdf/2018/02/tnf-new-law-bo ok-feb6-2018.pdf) (PDF) from the original on February 9, 2021. Retrieved November 25, 2019.
+265. "Breaking Down the New U.S. Corporate Tax Law" (https://hbr.org/ideacast/2017/12/breakin g-down-the-new-u-s-corporate-tax-law). Harvard Business Review. December 26, 2017. Archived (https://web.archive.org/web/20180722112253/https://hbr.org/ideacast/2017/12/bre aking-down-the-new-u-s-corporate-tax-law) from the original on July 22, 2018. Retrieved November 25, 2019.
+266. "US corporations could be saying goodbye to Ireland" (https://www.irishtimes.com/business/ economy/us-corporations-could-be-saying-goodbye-to-ireland-1.3359050?mode=sample&a uth-failed=1&pw-origin=https%3A%2F%2Fwww.irishtimes.com%2Fbusiness%2Feconomy% 2Fus-corporations-could-be-saying-goodbye-to-ireland-1.3359050). The Irish Times. January 17, 2018. Archived (https://web.archive.org/web/20180409233616/https://www.irisht imes.com/business/economy/us-corporations-could-be-saying-goodbye-to-ireland-1.335905 0?mode=sample&auth-failed=1&pw-origin=https%3A%2F%2Fwww.irishtimes.com%2Fbusin ess%2Feconomy%2Fus-corporations-could-be-saying-goodbye-to-ireland-1.3359050) from the original on April 9, 2018. Retrieved November 25, 2019.
+267. "Exclusive: Facebook to put 1.5 billion users out of reach of new EU privacy law" (https://ww w.reuters.com/article/us-facebook-privacy-eu-exclusive/exclusive-facebook-to-put-1-5-billion
+-users-out-of-reach-of-new-eu-privacy-law-idUSKBN1HQ00P). Reuters. April 19, 2018. Archived (https://web.archive.org/web/20180423112422/https://www.reuters.com/article/us-f acebook-privacy-eu-exclusive/exclusive-facebook-to-put-1-5-billion-users-out-of-reach-of-ne w-eu-privacy-law-idUSKBN1HQ00P) from the original on April 23, 2018. Retrieved November 25, 2019.
+268. "Facebook moves 1.5bn users out of reach of new European privacy law" (https://www.theg uardian.com/technology/2018/apr/19/facebook-moves-15bn-users-out-of-reach-of-new-euro pean-privacy-law). The Guardian. London. April 19, 2018. Archived (https://web.archive.org/ web/20210718112602/https://www.theguardian.com/technology/2018/apr/19/facebook-mov es-15bn-users-out-of-reach-of-new-european-privacy-law) from the original on July 18, 2021. Retrieved July 4, 2021.
+269. Drucker, Jesse (October 21, 2010). "Google 2.4% Rate Shows How $60 Billion Lost to Tax Loopholes" (https://www.bloomberg.com/news/2010-10-21/google-2-4-rate-shows-how-60-b illion-u-s-revenue-lost-to-tax-loopholes.html/). Bloomberg. Bloomberg. Archived (https://web. archive.org/web/20130622045148/http://www.bloomberg.com/news/2010-10-21/google-2-4-rate-shows-how-60-billion-u-s-revenue-lost-to-tax-loopholes.html) from the original on June 22, 2013. Retrieved November 25, 2019.
+270. PTI (September 30, 2010). "Facebook opens office in India" (http://www.thehindu.com/sci-te ch/internet/article804734.ece?homepage=true/). The Hindu. Chennai, India. Archived (http s://web.archive.org/web/20130116130335/http://www.thehindu.com/sci-tech/internet/article8 04734.ece?homepage=true/) from the original on January 16, 2013. Retrieved May 5, 2012.
+271. "Facebook's Hyderabad Office Inaugurated – Google vs Facebook Battle Comes To India" (https://web.archive.org/web/20120101131508/http://www.watblog.com/2010/08/30/faceboo ks-hyderabad-office-inaugurated-google-vs-facebook-battle-india/). Watblog.com. Archived from the original on January 1, 2012. Retrieved May 5, 2012.
+272. "Not responsible for user-generated content hosted on website: Facebook India" (https://we b.archive.org/web/20120514141818/http://articles.economictimes.indiatimes.com/2012-02-2 9/news/31110820_1_fatwaonline-internet-users-objectionable-content/). Articles.economictimes.indiatimes.com. February 29, 2012. Archived from the original (htt p://articles.economictimes.indiatimes.com/2012-02-29/news/31110820_1_fatwaonline-intern et-users-objectionable-content/) on May 14, 2012. Retrieved May 5, 2012.
+
+273. "Meta signs quartet of solar purchase agreements with Invenergy | Utility Dive" (https://www. esgdive.com/news/meta-signs-solar-purchase-agreements-invenergy/735277/).
+www.esgdive.com. Retrieved September 18, 2025.
+274. "Zuckerberg at Ore. Facebook data center" (http://archive.boston.com/business/technology/ articles/2011/04/16/zuckerberg_at_ore_facebook_data_center/). The Boston Globe. Associated Press. April 16, 2011. Archived (https://web.archive.org/web/20210209195305/ht tp://archive.boston.com/business/technology/articles/2011/04/16/zuckerberg_at_ore_facebo ok_data_center/) from the original on February 9, 2021. Retrieved April 16, 2011.
+275. "Construction of Meta's data center campus north of Austin to continue through 2026" (http s://www.bizjournals.com/austin/news/2025/03/26/meta-temple-data-center-construction-upd ate-austin.html). www.bizjournals.com. March 26, 2025. Retrieved September 18, 2025.
+276. "Beware of Scammers Posing as Meta's Business Help Centre" (https://acwa.net.au/beware
+-of-scammers-posing-as-metas-business-help-centre/). acwa.net.au. Retrieved September 18, 2025.
+277. Nanos, Janelle (August 30, 2017). "Facebook to open new office in Kendall Square, adding hundreds of jobs" (https://www.bostonglobe.com/business/2017/08/30/facebook/Fgclbq21lL ZctraIPEYrLK/story.html). The Boston Globe. Archived (https://web.archive.org/web/202102 09195303/https://www.bostonglobe.com/business/2017/08/30/facebook/Fgclbq21lLZctraIPE YrLK/story.html) from the original on February 9, 2021. Retrieved August 30, 2017.
+278. "Facebook opens new Taiwan headquarters in Taipei" (https://taiwantoday.tw/news.php?unit
+=6,7,8&post=152982). Taiwan Today. April 12, 2019. Archived (https://web.archive.org/web/ 20220928182350/https://taiwantoday.tw/news.php?unit=6,7,8&post=152982) from the original on September 28, 2022. Retrieved May 7, 2022.
+279. "Sheikh Hamdan opens Meta's new regional headquarters in Dubai" (https://www.thenationa lnews.com/uae/government/2022/03/08/sheikh-hamdan-opens-metas-new-regional-headqu arters-in-dubai/). The National. March 8, 2022. Archived (https://web.archive.org/web/20220 309110037/https://www.thenationalnews.com/uae/government/2022/03/08/sheikh-hamdan-opens-metas-new-regional-headquarters-in-dubai/) from the original on March 9, 2022. Retrieved March 9, 2022.
+280. "Meta pays developer £149m to break lease on London office building" (https://www.indepen dent.co.uk/business/meta-pays-developer-ps149m-to-break-lease-on-london-office-building-b2418681.html). The Independent. September 26, 2023. Archived (https://web.archive.org/w eb/20230926154321/https://www.independent.co.uk/business/meta-pays-developer-ps149m
+
+-to-break-lease-on-london-office-building-b2418681.html) from the original on September 26, 2023. Retrieved September 26, 2023.
+281. "Facebook Data Center Locations" (https://baxtel.com/data-centers/facebook#datacenter-m ap). Baxtel.com. Archived (https://web.archive.org/web/20210209195334/https://baxtel.com/ data-centers/facebook#datacenter-map) from the original on February 9, 2021. Retrieved June 22, 2023.
+282. "On Our Way to Lower Emissions and 100% Renewable Energy" (https://newsroom.fb.com/ news/2018/08/renewable-energy/). Facebook Newsroom. August 28, 2018. Archived (http s://web.archive.org/web/20191009043734/https://newsroom.fb.com/news/2018/08/renewabl e-energy/) from the original on October 9, 2019. Retrieved July 4, 2021.
+283. "Data centers: 2018 year in review" (https://code.fb.com/data-center-engineering/data-cente rs-2018/). Facebook Code. January 1, 2019. Archived (https://web.archive.org/web/2019020 7015856/https://code.fb.com/data-center-engineering/data-centers-2018/) from the original on February 7, 2019. Retrieved February 5, 2019.
+284. "Meta partners Reliance for its first AI-enabled data centre in India, located in Gujarat's Jamnagar" (https://www.moneycontrol.com/news/business/meta-partners-reliance-for-its-firs t-ai-enabled-data-centre-in-gujarat-s-jamnagar-13945572.html). Moneycontrol. June 10, 2026.
+
+285. Strange, Adario (November 18, 2021). "How Facebook's Meta branding might accidentally kill the overall metaverse" (https://qz.com/2082271/how-facebooks-meta-branding-might-acc identally-kill-the-overall-metaverse/). Quartz. Archived (https://web.archive.org/web/2022020 1235236/https://qz.com/2082271/how-facebooks-meta-branding-might-accidentally-kill-the-o verall-metaverse/) from the original on February 1, 2022. Retrieved February 11, 2022.
+286. Demony, Catarina; Laudette, Clara-Laeila (November 2, 2021). "Facebook whistleblower Haugen urges Zuckerberg to step down" (https://www.reuters.com/technology/facebook-whi stleblower-haugen-sees-no-sense-meta-rebrand-2021-11-01/). Reuters. Archived (https://we b.archive.org/web/20211104010643/https://www.reuters.com/technology/facebook-whistlebl ower-haugen-sees-no-sense-meta-rebrand-2021-11-01/) from the original on November 4, 2021. Retrieved November 22, 2021.
+287. Pitrelli, Monica Buchanan (November 12, 2021). "Iceland takes a swipe at Zuckerberg's 'Meta' announcement in new viral tourism video" (https://www.cnbc.com/2021/11/12/iceland-parodies-zuckerberg-meta-announcement-in-viral-tourism-video-.html). CNBC. Archived (htt ps://web.archive.org/web/20211126115948/https://www.cnbc.com/2021/11/12/iceland-parod ies-zuckerberg-meta-announcement-in-viral-tourism-video-.html) from the original on November 26, 2021. Retrieved November 28, 2021.
+288. Vincent, James (December 22, 2021). "Elon Musk: metaverse isn't 'compelling' and Web3 'more marketing than reality' " (https://www.theverge.com/2021/12/22/22849717/elon-musk-metaverse-web3-more-marketing-than-reality). The Verge. Archived (https://web.archive.or g/web/20211223161935/https://www.theverge.com/2021/12/22/22849717/elon-musk-metav erse-web3-more-marketing-than-reality) from the original on December 23, 2021. Retrieved December 26, 2021.
+289. Eccles, Louise (January 22, 2022). "My journey into the metaverse — already a home to sex predators" (https://www.thetimes.com/uk/social-media/article/my-journey-into-the-metaverse
+-already-a-home-to-sex-predators-sdkms5nd3). The Sunday Times. ISSN 0140-0460 (http s://search.worldcat.org/issn/0140-0460). Archived (https://web.archive.org/web/2022012308 1154/https://www.thetimes.co.uk/article/my-journey-into-the-metaverse-already-a-home-to-s ex-predators-sdkms5nd3) from the original on January 23, 2022. Retrieved January 23, 2022.
+
+External links
+
+& Official website (https://www.meta.com/)	
+& Meta Platforms (https://www.opensecrets.org/orgs/summary?id=D000033563) on OpenSecrets, a website that tracks and publishes data on campaign finance and lobbying
+& Meta Platforms companies (https://opencorporates.com/corporate_groupings/Meta%20Platf orms) grouped at OpenCorporates
+& Business data for Meta Platforms, Inc.: Google (https://www.google.com/finance/quote/MET A:NASDAQ) · Reuters (https://www.reuters.com/markets/companies/META.O) · SEC filings (https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1326801) · Yahoo! (htt ps://finance.yahoo.com/quote/META)
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Meta_Platforms&oldid=1361011288"

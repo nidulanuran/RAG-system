@@ -1,0 +1,346 @@
+
+
+
+Anthropic
+Anthropic PBC[9] is an American artificial intelligence (AI) company headquartered in San Francisco, California. It has developed a series of large language models (LLMs) named Claude and has
+a focus on AI safety.[10] Anthropic was founded in
+2021 by former members of OpenAI, including siblings Daniela Amodei and Dario Amodei, who are president and CEO, respectively.[11] The company is
+privately held but plans to go public. It had an estimated valuation of $965 billion in May 2026, making it the most valuable pure-play AI company in
+the world.[12]
+
+
+History
+
+
+
+
+2021–2023
+Anthropic was founded in January 2021[1] by seven former employees of OpenAI, including siblings Daniela Amodei and Dario Amodei, the latter of whom was OpenAI's Vice President of Research.[13][14] They raised $124 million in May
+2021.[15] In the summer of 2022, Anthropic finished
+training the first version of Claude but did not immediately release it, citing a need for further internal safety testing and a desire to avoid initiating a potentially hazardous race to develop increasingly
+powerful AI systems.[16] It was released in March
+2023.[17]
+
+
+
+
+Anthropic PBC
+
+
+2024–present
+In 2024, Anthropic hired several notable employees from OpenAI, including Jan Leike and John Schulman.[18] In May 2025, the company announced
+Claude 4. It also introduced new API capabilities, including the Model Context Protocol (MCP) connector.[19] The company hosted its inaugural developer conference that month.[20] Also in May,
+
+Anthropic launched a web search API that enables Claude to access real-time information from the internet.[21] Claude Code, Anthropic's coding assistant, transitioned from research
+preview to general availability.[19]
+
+In September 2025, Anthropic announced that it would stop selling its products to groups majority-owned by Chinese, Russian, Iranian, or North Korean entities due to national
+security concerns.[22] In October 2025, Anthropic announced
+a cloud partnership with Google, giving it access to up to one million of Google's custom Tensor Processing Units (TPUs),
+
+
+
+Dario Amodei, co-founder and CEO
+
+potentially adding more than one gigawatt of AI compute capacity by 2026.[23] In November, Nvidia and Microsoft were expected to invest up to $15 billion in Anthropic, and Anthropic said it would buy $30 billion of computing capacity from Microsoft Azure running on Nvidia AI systems.[24]
+In November 2025, Anthropic said that hackers sponsored by the Chinese government used Claude to perform automated cyberattacks against around 30 global organizations. The hackers bypassed Anthropic's safeguards by pretending it was for defensive testing.[25][26] In December 2025, Anthropic acquired Bun to improve Claude Code's speed and stability.[27] The same month, Anthropic signed a multi-year, $200 million partnership with Snowflake Inc. to make Claude models available through that company's platform.[28]
+In February 2026, Anthropic aired two commercials during Super Bowl LX[29][30] as part of a broader marketing campaign called "A Time and a Place", with four ads created by Mother. Each ad depicts AI assistants suddenly pivoting to promoting a fictional product in the middle of a conversation. Anthropic said that Claude will stay ad-free, in contrast to its competitor OpenAI, which introduced ads to the free version of ChatGPT.[30] Also in February 2026, Anthropic donated $20 million to the nonprofit
+organization Public First Action, which has announced plans to support political candidates that support regulation of AI.[31]
+
+In 2026, Anthropic refused the United States Department of Defense's (DoD) demand to remove contractual restrictions prohibiting the use of its AI technology for domestic surveillance and fully autonomous weapons. After the refusal, the DoD designated the company a "supply chain risk" and barred all U.S. military private contractors, suppliers, and partners from doing business with the firm (see
+Anthropic–United States Department of Defense dispute).[32][33]
+
+In May 2026, Anthropic announced a deal with xAI for use of its Colossus 1 data center to expand its model capacity.[34][35] On May 18, the company acquired software startup Stainless for an undisclosed sum.[36] It also made a $1.8 billion cloud computing deal with Akamai Technologies.[37] Also in May,
+The New York Times reported that Anthropic was seeking to file an initial public offering (IPO), with a target of debuting in the fall of 2026.[38] On June 1, Anthropic announced it had filed confidential IPO papers with the United States Securities and Exchange Commission.[39] On June 12, it suspended access to its Claude Fable 5 and Mythos 5 models for foreign nationals after U.S. authorities raised national security concerns about the systems.[40]
+
+Business structure
+
+
+According to Anthropic, its goal is to research AI systems' safety and reliability.[41] The Amodei siblings were among those who left OpenAI due to directional differences.[14] Anthropic operates as a public benefit corporation.[42] In January 2026, Anthropic introduced a division called "Labs",
+with Mike Krieger (formerly the company's Chief Product Officer) joining it.[43] In March 2026, Anthropic launched the Anthropic Institute, a think tank studying AI led by Jack
+Clark.[42]
+
+Notable employees
+& Dario Amodei: co-founder and CEO
+& Daniela Amodei: co-founder and president
+
+
+
+Anthropic's corporate structure
+
+& Amanda Askell: philosopher working on Claude's character[44]
+& Nicholas Carlini: researcher
+& Jack Clark: a co-founder and the head of policy[45]
+& Jared Kaplan: co-founder and chief science officer[46]
+& Mike Krieger: Chief Product Officer[47][48]
+& Jan Leike: co-lead of the Alignment Science team, former OpenAI alignment researcher[49][50]
+& Chris Olah: co-founder, interpretability research
+& Andrej Karpathy: researcher[51]
+& John M. Jumper: Nobel Prize laureate, formerly at DeepMind[52]
+
+Product
+
+
+Anthropic's flagship product line is the "Claude" series of large language models,[53] which some employees consider a reference to mathematician Claude Shannon.[5] One of the techniques used to fine-tune Claude models is called "constitutional AI", in which the LLM is trained to adhere to a set of principles called a constitution.[54] The company makes the models available via a web interface,[55] an API,[55] Amazon Bedrock,[56] an iOS app,[57] and Mac and Windows desktop apps.[58]
+Claude Code is a command-line AI agent designed for coding. "Cowork" is an equivalent with a graphical user interface, intended to be simpler to use.[59] While Claude
+Code is tailored toward developers, Cowork is designed for
+
+
+
+Logo of Claude
+
+non-technical users, enabling them to automate file and task management (including reading, editing and writing new files) without requiring programming knowledge.[60]
+
+With the advent of Claude Code, vibe coding, a programming approach in which users describe desired outcomes in natural language and let an AI agent write the code, became increasingly popular. The term was coined by AI researcher Andrej Karpathy in February 2025 and rapidly gained popularity as AI
+coding tools became more ubiquitous.[61]
+
+Release history
+Claude's first two versions, Claude and Claude Instant, were released in March 2023,[62][63] but only Anthropic-approved users could use them.[64] The next iteration, Claude 2, was launched to the public in July 2023.[65] In March 2024, Anthropic released three language models: Claude 3 Opus, Claude 3 Sonnet, and Claude 3 Haiku, in decreasing order of performance.[66] In June 2024, it released Claude 3.5 Sonnet.[67] In May 2025, Anthropic released Claude 4 Opus and Sonnet.[68] In February 2026, it released Claude Opus 4.6,[69] followed by Sonnet 4.6.[70] In April 2026, Anthropic announced Mythos.[71]
+
+Funding
+In April 2022, Anthropic announced it had received $580 million in funding,[72] including a $500 million investment from FTX under the leadership of Sam Bankman-Fried.[73][5] In September 2023, Amazon announced a partnership with Anthropic. Amazon became a minority stakeholder by initially investing
+$1.25 billion and planning a total investment of $4 billion.[74] The remaining $2.75 billion was invested in March 2024.[75] In November 2024, Amazon invested another $4 billion, doubling its total investment.[76] As part of the deal, Anthropic uses Amazon Web Services (AWS) as its primary cloud provider and makes its AI models available to AWS customers.[74]
+In October 2023, Google invested $500 million in Anthropic and committed to an additional $1.5 billion over time.[77] In March 2025, Google agreed to invest another $1 billion in Anthropic.[78] Anthropic raised $3.5 billion in a Series E funding round in March 2025, achieving a post-money valuation of $61.5 billion, led by Lightspeed Venture Partners with participation by several major investors.[79][80] In September 2025, Anthropic completed a Series F funding round, raising $13 billion at a post-money valuation of $183 billion. The round was co-led by Iconiq Capital, Fidelity Management & Research, and Lightspeed Venture Partners, with participation by the Qatar Investment Authority and other investors.[81][82] On 31 December 2025, it was confirmed that Anthropic had signed a term sheet for a
+$10 billion funding round led by Coatue and GIC, at a $350 billion valuation.[83] On February 12, 2026,
+Anthropic announced that it had raised $30 billion in a Series G funding round, bringing its post-money valuation to $380 billion.[84][85] In May 2026, Anthropic announced it had raised $65 billion of investment from multiple investors, including Altimeter Capital, Dragoneer Investment Group, and
+Sequoia Capital.[39] The investment round valued the company at $965 billion.[12]
+
+Projects
+
+U.S. military and intelligence
+In November 2024, Anthropic partnered with Palantir and Amazon Web Services to provide the Claude model to U.S. intelligence and defense agencies.[86][87] In June 2025, Anthropic announced a "Claude Gov" model. Ars Technica reported that as of June 2025, it was in use at multiple U.S. national security
+agencies.[88] As of February 2026, Anthropic's partnership with Palantir makes Claude the only AI model
+used in classified missions.[89] In July 2025, the United States Department of Defense (DoD) announced that Anthropic had received a $200 million contract for AI in the military, along with Google, OpenAI, and xAI.[90]
+According to The Wall Street Journal, the U.S. military used Claude in its 2026 raid on Venezuela to capture President Nicolás Maduro. Exactly how Claude was used is unknown. The intervention resulted in the deaths of 83 people.[91][92] Anthropic's usage policy prohibits directly using Claude for domestic
+surveillance or in fully autonomous weapons.[93] White House officials said that these restrictions
+prevented federal contractors working with the FBI and Secret Service from using it.[94] Tension regarding this policy has arisen with The Pentagon and the Trump administration.[93][95]
+On February 24, 2026, Defense Secretary Pete Hegseth threatened to cut Anthropic out of the DoD supply chain by February 27 if Anthropic did not permit unrestricted use of Claude, or he would invoke the Defense Production Act to assert unrestricted use without an agreement.[89][96] On February 26,
+Anthropic rejected the Pentagon's demands to drop AI safeguards.[97] On February 27, after the deadline, President Donald Trump ordered U.S. government agencies to stop using models developed by
+Anthropic.[98] The action was described as retaliatory.[99][100]
+Two days later, it was reported that the US military had used Claude via Palantir's Maven Smart System during its attacks on Iran at the outset of the 2026 Iran war.[101][102] It was later announced that the Pentagon was investigating whether Claude played a role in the U.S. strike on the Iranian girls' school that killed more than 170 people, mostly children.[103] On March 5, the Pentagon officially deemed Anthropic a supply chain risk, after which the company said it saw "no choice but to challenge ... in court".[104] In March, leaders from Google, Amazon, Apple, and Microsoft supported Anthropic's lawsuit against the DoD.[105] On March 11, a Pentagon memo revealed its decision that Anthropic's AI tools may
+be used in rare circumstances beyond the previously announced six-month phase-out period if deemed necessary for national security.[106] On March 26, the federal judge presiding over the case issued a
+temporary injunction against the Pentagon's actions, writing, "This appears to be classic First Amendment retaliation."[107][108][109]
+
+Education-related projects
+In August 2025, Anthropic launched a Higher Education Advisory Board, chaired by former Yale University president and former Coursera CEO Rick Levin.[110]
+
+Anthropic partnered with Iceland's Ministry of Education and Children in 2025 to allow teachers to access Claude and integrate AI into daily teaching.[111]
+
+Project Panama
+In January 2026, unsealed court filings from a 2024 class-action copyright lawsuit against Anthropic revealed the existence of the company's confidential "Project Panama" operation. In an internal planning document, Project Panama is described as Anthropic's "effort to destructively scan all the books in the world".[112] To this end, the company purchased millions of used books from online retailers such as Better World Books, sliced off their spines and scanned their pages in order to train Claude.[112][113] The
+paper was then recycled. Tom Turvey, who helped create Google Books, was hired for the operation. According to the Project Panama planning document, Anthropic did not "want it to be known that [it was] working on this".[112] Judge William Alsup ruled that the destruction of legally purchased books constituted fair use, in contrast to Anthropic's prior use of pirated copies.[112][113]
+
+Research
+
+Constitutional AI
+According to Anthropic, Constitutional AI (CAI) is a framework developed to align AI systems with human values and ensure that they are helpful, harmless, and honest.[13][114] Within this framework, a set
+of guidelines known as the "constitution" describes the desired behavior of the AI system. Claude 2's constitution includes phrases derived from documents such as the 1948 Universal Declaration of Human Rights and Apple's terms of service. For example, one rule from the UN Declaration applied in Claude 2's constitution is "Please choose the response that most supports and encourages freedom, equality and a sense of brotherhood."[65] The AI system evaluates the generated output and then adjusts the AI models to
+better fit the constitution.[114]
+
+Interpretability
+Anthropic carries out and publishes research on the interpretability of machine learning systems.[13][115] It has done research on "features" (patterns of neural activation in a neural network that correspond to concepts). In 2024, using a compute-intensive technique called "dictionary learning", Anthropic identified
+millions of these patterns in Claude, such as one associated with the Golden Gate Bridge.[116][117][118] In
+March 2025, Anthropic's research suggested that multilingual LLMs partially process information in a conceptual space before converting it to the appropriate language. It also found evidence that LLMs can sometimes plan ahead. For example, when writing poetry, Claude identifies potential rhyming words before generating a line that ends with one of these words.[119][120]
+
+Automation
+In September 2025, Anthropic released a report saying that businesses primarily use AI for automation rather than collaboration, with three-quarters of companies that work with Claude using it for "full task delegation".[121] Earlier in the year, CEO Dario Amodei predicted that AI would wipe out white-collar jobs, especially entry-level jobs in finance, law, and consulting.[122][123]
+
+Legal issues
+
+On October 18, 2023, Anthropic was sued by Concord, Universal, ABKCO, and other music publishers for, per the complaint, "systematic and widespread infringement of their copyrighted song lyrics."[124][125][126] They alleged that the company used copyrighted material without permission in the form of song lyrics.[127] The plaintiffs asked for up to $150,000 for each work infringed upon by Anthropic, citing infringement of copyright laws.[127] In the lawsuit, the plaintiffs support their allegations of copyright violations by citing several examples of Anthropic's Claude model outputting
+copied lyrics from songs such as Katy Perry's "Roar" and Gloria Gaynor's "I Will Survive".[127]
+Additionally, the plaintiffs alleged that even given some prompts that did not directly state a song name, the model responded with modified lyrics based on original work.[127] On January 16, 2024, Anthropic claimed that the music publishers were not unreasonably harmed and that the examples noted by the
+plaintiffs were merely bugs.[128]
+In August 2024, a class-action lawsuit was filed against Anthropic in California for alleged copyright infringement. The suit claims Anthropic fed its LLMs with pirated copies of the authors' work, including from participants Kirk Wallace Johnson, Andrea Bartz, and Charles Graeber.[129] On June 23, 2025, the
+United States District Court for the Northern District of California granted summary judgment for Anthropic that the use of digital copies of the plaintiffs' works (inter alia) for the purpose of training Anthropic's LLMs was a fair use. But it found that Anthropic had used millions of pirated library copies, and that such use could not constitute fair use. Therefore, the case was ordered to go to trial on the pirated
+copies used to create Anthropic's central library and the resulting damages.[130] In September 2025,
+Anthropic agreed to pay authors $1.5 billion to settle the case, amounting to $3,000 per book plus interest. The proposed settlement, pending judge's approval, stands as the largest copyright resolution in
+U.S. history.[131][132]
+
+In June 2025, Reddit sued Anthropic for "unlawful and unfair business acts", alleging that Anthropic was in violation of Reddit's user agreement by training its models on users' personal data without their consent.[133][134]
+
+See also
+
+& Apprenticeship learning
+& AI alignment
+& AI warfare
+& Friendly AI
+& Mechanistic interpretability
+
+References
+
+1. "Anthropic, Pbc Profile" (https://www.highergov.com/awardee/anthropic-pbc-782300426/#ov erview). www.highergov.com. Retrieved May 30, 2026.
+
+2. Lin, Belle. "Google and Anthropic Are Selling Generative AI to Businesses, Even as They Address Its Shortcomings" (https://www.wsj.com/articles/google-and-anthropic-are-selling-g enerative-ai-to-businesses-even-as-they-address-its-shortcomings-ff90d83d). WSJ. Archived (https://web.archive.org/web/20240410011503/https://www.wsj.com/articles/google
+-and-anthropic-are-selling-generative-ai-to-businesses-even-as-they-address-its-shortcomin gs-ff90d83d) from the original on April 10, 2024. Retrieved April 11, 2024.
+3. Nellis, Stephen (May 9, 2023). "Alphabet-backed Anthropic outlines the moral values behind its AI bot" (https://www.reuters.com/technology/alphabet-backed-anthropic-outlines-moral-va lues-behind-its-ai-bot-2023-05-09/). Reuters. Archived (https://web.archive.org/web/2023060 5051105/https://www.reuters.com/technology/alphabet-backed-anthropic-outlines-moral-val ues-behind-its-ai-bot-2023-05-09/) from the original on June 5, 2023. Retrieved June 4, 2023.
+4. Ian Thomas (June 10, 2025). "CNBC Disruptor 50" (https://www.cnbc.com/2025/06/10/anthr
+opic-cnbc-disruptor-50.html). CNBC. Retrieved February 16, 2026.
+5. Roose, Kevin (July 11, 2023). "Inside the White-Hot Center of A.I. Doomerism" (https://www. nytimes.com/2023/07/11/technology/anthropic-ai-claude-chatbot.html). The New York Times. Archived (https://web.archive.org/web/20230712235416/https://www.nytimes.com/20 23/07/11/technology/anthropic-ai-claude-chatbot.html) from the original on July 12, 2023. Retrieved July 13, 2023.
+6. Waxmann, Laura (September 22, 2025). "Growing tech firm Anthropic expands S.F. presence with large office lease in SoMa" (https://www.sfchronicle.com/realestate/article/ath ropic-office-21059924.php). San Francisco Chronicle. Archived (http://web.archive.org/web/ 20260202064837/https://www.sfchronicle.com/realestate/article/athropic-office-21059924.ph
+p) from the original on February 2, 2026.
+7. "Amazon and Google have billions riding on Anthropic. The IPO will decide who wins" (http s://fortune.com/2026/06/04/amazon-google-billions-anthropic-ipo/). Fortune. June 3, 2026.
+Retrieved June 14, 2026.
+8. Waxmann, Laura (January 30, 2026). "Emerging tech titan Anthropic to take over an entire office building in downtown S.F." (https://www.sfchronicle.com/realestate/article/anthropic-do wntown-building-lease-21324597.php) San Francisco Chronicle. Archived (http://web.archiv e.org/web/20260310055842/https://www.sfchronicle.com/realestate/article/anthropic-downto wn-building-lease-21324597.php) from the original on March 10, 2026. Retrieved
+January 31, 2026.
+9. "Anthropic PBC - Company Profile and News" (https://web.archive.org/web/2026030202035 3/https://www.bloomberg.com/profile/company/1892140D:US). Bloomberg.com. Archived from the original (https://www.bloomberg.com/profile/company/1892140D:US) on March 2, 2026. Retrieved May 27, 2026.
+10. Mollman, Steve (February 6, 2023). "ChatGPT must be regulated and A.I. 'can be used by bad actors,' warns OpenAI's CTO" (https://finance.yahoo.com/news/artificial-intelligence-mu st-regulated-warns-204546351.html). Fortune. Archived (https://web.archive.org/web/20230 206075725/https://finance.yahoo.com/news/artificial-intelligence-must-regulated-warns-204 546351.html) from the original on February 6, 2023. Retrieved February 6, 2023 – via finance.yahoo.com.
+11. "Anthropic: Company Overview & News" (https://www.forbes.com/companies/anthropic/). Forbes. Archived (https://web.archive.org/web/20240410003346/https://www.forbes.com/co mpanies/anthropic/) from the original on April 10, 2024. Retrieved April 11, 2024.
+12. Babu, Juby; Seetharaman, Deepa (May 28, 2026). "Anthropic's valuation surges to $965 billion, surpassing OpenAI" (https://www.reuters.com/business/anthropic-raises-65-billion-no w-valued-965-billion-2026-05-28/). Reuters.
+
+13. Henshall, Will; Perrigo, Billy (September 7, 2023). "TIME100 AI 2023: Dario and Daniela Amodei" (https://web.archive.org/web/20240613011743/https://time.com/collection/time100-ai/6309047/daniela-and-dario-amodei/). Time. Archived from the original (https://time.com/c ollection/time100-ai/6309047/daniela-and-dario-amodei/) on June 13, 2024. Retrieved
+March 5, 2024.
+14. Goldman, Sharon (April 7, 2023). "As Anthropic seeks billions to take on OpenAI, 'industrial capture' is nigh. Or is it?" (https://venturebeat.com/ai/as-anthropic-seeks-billions-to-take-on-openai-industrial-capture-is-nigh-or-is-it/). VentureBeat. Archived (https://web.archive.org/we b/20230524193007/https://venturebeat.com/ai/as-anthropic-seeks-billions-to-take-on-openai
+-industrial-capture-is-nigh-or-is-it/) from the original on May 24, 2023. Retrieved May 24, 2023.
+15. Coldewey, Devin (May 28, 2021). "Anthropic is the new AI research outfit from OpenAI's Dario Amodei, and it has $124M to burn" (https://techcrunch.com/2021/05/28/anthropic-is-th e-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn/). TechCrunch. Retrieved May 30, 2026.
+16. Perrigo, Billy (May 30, 2024). "Inside Anthropic, the AI Company Betting That Safety Can Be a Winning Strategy" (https://time.com/collections/time100-companies-2024/6980000/anthrop ic-2/). Time. Archived (http://web.archive.org/web/20250715034502/https://time.com/698000 0/anthropic/) from the original on July 15, 2025. Retrieved June 15, 2026.
+17. Roth, Emma (March 14, 2023). "Google-backed Anthropic launches Claude, an AI chatbot that's easier to talk to" (https://www.theverge.com/2023/3/14/23640056/anthropic-ai-chatbot-claude-google-launch). The Verge. Retrieved April 6, 2026.
+18. Wiggers, Kyle (October 1, 2024). "Anthropic hires OpenAI co-founder Durk Kingma" (https:// techcrunch.com/2024/10/01/anthropic-hires-openai-co-founder-durk-kingma/). TechCrunch. Archived (https://web.archive.org/web/20241005043514/https://techcrunch.com/2024/10/01/ anthropic-hires-openai-co-founder-durk-kingma/) from the original on October 5, 2024. Retrieved October 5, 2024.
+19. "Introducing Claude 4" (http://www.anthropic.com/news/claude-4). Anthropic. May 22, 2025. Archived (https://web.archive.org/web/20250727121638/https://www.anthropic.com/news/cl aude-4) from the original on July 27, 2025. Retrieved July 27, 2025.
+20. Robison, Kylie (May 23, 2025). "Inside Anthropic's First Developer Day, Where AI Agents Took Center Stage" (https://www.wired.com/story/anthropic-first-developer-conference/). Wired. Archived (https://web.archive.org/web/20250523231430/https://www.wired.com/story/ anthropic-first-developer-conference/) from the original on May 23, 2025.
+21. "Anthropic launches Claude web search API, betting on the future of post-Google information access" (https://venturebeat.com/ai/anthropic-launches-claude-web-search-api-betting-on-the-future-of-post-google-information-access). VentureBeat. May 7, 2025.
+Retrieved June 2, 2026.
+22. Sevastopulo, Demetri; Criddle, Cristina (September 4, 2025). "Anthropic to stop selling AI services to majority Chinese-owned groups" (https://www.ft.com/content/12b8e10b-b55d-48 24-817f-a3c9cfe9f779). Financial Times. Archived (https://web.archive.org/web/2025090423 0642/https://www.ft.com/content/12b8e10b-b55d-4824-817f-a3c9cfe9f779) from the original on September 4, 2025. Retrieved September 5, 2025.
+23. Hawley, Michelle (October 24, 2025). "Anthropic & Google Ink Multi-Billion Dollar TPU Deal" (https://www.vktr.com/ai-news/anthropic-google-ink-multi-billion-dollar-tpu-deal/). VKTR. Archived (https://web.archive.org/web/20251127202419/https://www.vktr.com/ai-news/anthr opic-google-ink-multi-billion-dollar-tpu-deal/) from the original on November 27, 2025. Retrieved October 24, 2025.
+
+24. Herrera, Sebastian; Ramkumar, Amrith; Whelan, Robbie (November 18, 2025). "Nvidia, Microsoft Pour $15 Billion Into Anthropic for New AI Alliance" (https://www.wsj.com/tech/ai/n vidia-microsoft-and-anthropic-commit-to-roughly-45-billion-in-ai-partnership-281b7b1d). The Wall Street Journal. Archived (https://web.archive.org/web/20251119013846/https://www.ws j.com/tech/ai/nvidia-microsoft-and-anthropic-commit-to-roughly-45-billion-in-ai-partnership-2 81b7b1d) from the original on November 19, 2025. Retrieved November 19, 2025.
+25. "AI firm claims Chinese spies used its tech to automate cyber attacks" (https://www.bbc.co m/news/articles/cx2lzmygr84o). BBC. November 14, 2025. Archived (https://web.archive.or g/web/20251220194619/https://www.bbc.com/news/articles/cx2lzmygr84o) from the original on December 20, 2025. Retrieved December 21, 2025.
+26. Sabin, Sam (November 13, 2025). "Chinese hackers used Anthropic's AI agent to automate spying" (https://www.axios.com/2025/11/13/anthropic-china-claude-code-cyberattack). Axios. Archived (https://web.archive.org/web/20251204212333/https://www.axios.com/2025/ 11/13/anthropic-china-claude-code-cyberattack) from the original on December 4, 2025. Retrieved December 21, 2025.
+27. "Anthropic acquires developer tool startup Bun to scale AI coding" (https://www.reuters.com/ business/media-telecom/anthropic-acquires-developer-tool-startup-bun-scale-ai-coding-202 5-12-02/). Reuters. December 2, 2025.
+28. "Snowflake's product revenue outlook falls short of investor ambition, shares fall" (https://ww w.reuters.com/business/snowflake-posts-third-quarter-revenue-above-estimates-2025-12-0 3/). Reuters. December 3, 2025. Retrieved December 16, 2025.
+29. Chmielewski, Dawn; Seetharaman, Deepa; Cherney, Max A. (February 7, 2026). "Anthropic buys Super Bowl ads to slap OpenAI for selling ads in ChatGPT" (https://www.reuters.com/b usiness/media-telecom/anthropic-buys-super-bowl-ads-slap-openai-selling-ads-chatgpt-202 6-02-07/). Reuters.
+30. Kiefer, Brittany (February 4, 2026). "Anthropic Makes Super Bowl Debut, Promising Ad-Free AI" (https://www.adweek.com/brand-marketing/anthropic-makes-super-bowl-debut-promisin g-ad-free-ai/). Adweek. Retrieved February 9, 2026.
+31. Wilkins, Emily (February 12, 2026). "Anthropic gives $20 million to group pushing for AI regulations ahead of 2026 elections" (https://www.cnbc.com/2026/02/12/anthropic-gives-20-million-to-group-pushing-for-ai-regulations-.html). CNBC. Retrieved March 5, 2026.
+32. Tuccille, J. D. (March 11, 2026). "The federal government's crusade against Anthropic raises First Amendment concerns" (https://reason.com/2026/03/11/the-federal-governments-crusa de-against-anthropic-raises-first-amendment-concerns/). Reason.com. Retrieved March 19, 2026.
+33. Nicastro, Jack (February 28, 2026). "Anthropic labeled a supply chain risk, banned from federal government contracts" (https://reason.com/2026/02/28/anthropic-labeled-a-supply-c hain-risk-banned-from-federal-government-contracts/). Reason.com. Retrieved March 19, 2026.
+34. "Anthropic and SpaceX announce major partnership as AI arms race continues" (https://ww w.nbcnews.com/tech/tech-news/anthropic-spacex-partnership-compute-power-rcna343902). NBC News. May 6, 2026. Retrieved May 9, 2026.
+35. Dastin, Jeffrey; Soni, Aditya (May 6, 2026). "Anthropic strikes SpaceX data center deal as it plows ahead on AI coding" (https://www.reuters.com/business/retail-consumer/anthropic-unv eils-dreaming-feature-help-its-ai-agents-self-improve-2026-05-06/). Reuters.
+36. Korosec, Kirsten (May 18, 2026). "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare" (https://techcrunch.com/2026/05/18/anthropic-has-acquire d-the-dev-tools-startup-used-by-openai-google-and-cloudflare/). TechCrunch. Retrieved June 4, 2026.
+37. Metz, Rachel (May 8, 2026). "Anthropic Inks $1.8 Billion Computing Deal With Akamai" (http s://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai). Bloomberg.
+
+38. Ross Sorkin, Andrew; Warner, Bernhard; Kessler, Sarah; de la Merced, Michael J.; Gallogly, Niko; O'Keefe, Brian; Mount, Ian (May 21, 2026). "The A.I. Race to Go Public" (https://www. nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html). The New York Times.
+39. Primack, Dan (June 1, 2026). "Anthropic files for its IPO" (https://www.axios.com/2026/06/0 1/anthropic-ipo-openai). Axios. Retrieved June 2, 2026.
+40. Sekulich, Harry; McCallum, Shiona (June 12, 2026). "Anthropic suspends new AI tools over US government security concerns" (https://www.bbc.com/news/articles/c932g3v3e13o). BBC News.
+41. "Making AI systems you can rely on" (https://www.anthropic.com/company). Anthropic. Archived (https://web.archive.org/web/20250422193011/https://www.anthropic.com/compan y) from the original on April 22, 2025. Retrieved January 25, 2026.
+42. Field, Hayden (March 11, 2026). "Anthropic is launching a new think tank amid Pentagon blacklist fight" (https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-t hink-tank-claude-pentagon-jack-clark). The Verge. Retrieved April 3, 2026.
+43. "Introducing Labs" (https://www.anthropic.com/news/introducing-anthropic-labs).
+www.anthropic.com. Archived (https://web.archive.org/web/20260114083029/https://www.an thropic.com/news/introducing-anthropic-labs) from the original on January 14, 2026.
+Retrieved January 14, 2026.
+44. Sullivan, Mark (January 22, 2026). "A Q&A with Amanda Askell, the lead author of Anthropic's new 'constitution' for AIs" (http://web.archive.org/web/20260123074113/https://w ww.fastcompany.com/91479037/anthropic-claude-amanda-askell-constitution-ai-chatbot). Fast Company. Archived from the original (https://www.fastcompany.com/91479037/anthropi c-claude-amanda-askell-constitution-ai-chatbot) on January 23, 2026. Retrieved January 26,
+2026.
+45. Chatterjee, Mohar (March 7, 2025). "5 Questions for Jack Clark" (https://www.politico.com/n ewsletters/digital-future-daily/2025/03/07/5-questions-for-jack-clark-00218274). Politico. Retrieved June 28, 2025.
+46. Perrigo, Billy (2025). "Time100 AI: Jared Kaplan" (https://time.com/collections/time100-ai-20 25/7305824/jared-kaplan/). Time.
+47. Pierce, David (May 15, 2024). "Instagram's co-founder is Anthropic's new chief product officer" (https://www.theverge.com/2024/5/15/24157240/mike-krieger-anthropic-instagram-a i). The Verge. Archived (https://web.archive.org/web/20240516062315/https://www.theverge. com/2024/5/15/24157240/mike-krieger-anthropic-instagram-ai) from the original on May 16, 2024. Retrieved May 16, 2024.
+48. Wiggers, Kyle (May 15, 2024). "Anthropic hires Instagram co-founder as head of product" (h ttps://techcrunch.com/2024/05/15/anthropic-hires-instagram-co-founder-as-head-of-produc t/). TechCrunch. Archived (https://web.archive.org/web/20240516184207/https://techcrunch. com/2024/05/15/anthropic-hires-instagram-co-founder-as-head-of-product/) from the original on May 16, 2024. Retrieved May 16, 2024.
+49. Robison, Kylie (May 28, 2024). "OpenAI researcher who resigned over safety concerns joins Anthropic" (https://www.theverge.com/2024/5/28/24166370/jan-leike-openai-anthropic-ai-saf ety-research). VentureBeat. Archived (https://web.archive.org/web/20240528183442/https:// www.theverge.com/2024/5/28/24166370/jan-leike-openai-anthropic-ai-safety-research) from the original on May 28, 2024. Retrieved May 29, 2024.
+50. "List of Anthropic Executives & Org Chart" (https://www.clay.com/dossier/anthropic-executiv es). Clay. Archived (https://web.archive.org/web/20250910205447/https://www.clay.com/dos sier/anthropic-executives) from the original on September 10, 2025. Retrieved September 3, 2025.
+51. Capoot, Ashley; Kolodny, Lora (May 19, 2026). "Anthropic hires OpenAI co-founder Andrej Karpathy, former Tesla AI leader" (https://www.cnbc.com/2026/05/19/anthropic-hires-openai-cofounder-andrej-karpathy-former-tesla-ai-lead.html). CNBC.
+
+52. Ha, Anthony (June 20, 2026). "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic" (https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepm ind-for-rival-anthropic/). TechCrunch. Retrieved June 21, 2026.
+53. "What Is Claude AI?" (https://www.ibm.com/think/topics/claude-ai). IBM. September 24, 2024. Archived (https://web.archive.org/web/20260103153111/https://www.ibm.com/think/to
+pics/claude-ai) from the original on January 3, 2026. Retrieved January 23, 2026.
+54. Roose, Kevin (October 17, 2023). "What if We Could All Control A.I.?" (https://www.nytimes. com/2023/10/17/technology/ai-chatbot-control.html). The New York Times. ISSN 0362-4331 (https://search.worldcat.org/issn/0362-4331). Archived (https://web.archive.org/web/202404 10061324/https://www.nytimes.com/2023/10/17/technology/ai-chatbot-control.html) from the original on April 10, 2024. Retrieved April 11, 2024.
+55. "Introducing Claude" (https://www.anthropic.com/news/introducing-claude). Anthropic. March 14, 2023. Archived (https://web.archive.org/web/20240516063358/https://www.anthro pic.com/news/introducing-claude) from the original on May 16, 2024. Retrieved January 23, 2026.
+56. Franzen, Carl (March 4, 2024). "Amazon adds Claude 3, which beats GPT-4, to Bedrock" (h ttps://venturebeat.com/ai/amazon-adds-claude-3-beats-gpt-4-to-bedrock/). Venture Beat. Archived (https://web.archive.org/web/20240710184122/https://venturebeat.com/ai/amazon-adds-claude-3-beats-gpt-4-to-bedrock/) from the original on July 10, 2024. Retrieved
+March 28, 2024.
+57. Field, Hayden (May 1, 2024). "Amazon-backed Anthropic launches iPhone app and business tier to compete with OpenAI's ChatGPT" (https://www.cnbc.com/2024/05/01/anthro pic-iphone-ai-app-business-plan-to-compete-with-openai-announced.html). CNBC. Archived (https://web.archive.org/web/20240502234122/https://www.cnbc.com/2024/05/01/anthropic-i phone-ai-app-business-plan-to-compete-with-openai-announced.html) from the original on May 2, 2024. Retrieved May 3, 2024.
+58. Roth, Emma (October 31, 2024). "Anthropic's Claude AI chatbot now has a desktop app" (ht tps://www.theverge.com/2024/10/31/24284742/claude-ai-macos-windows-desktop-app).  The Verge. Archived (https://web.archive.org/web/20250726085037/https://www.theverge.co m/2024/10/31/24284742/claude-ai-macos-windows-desktop-app) from the original on July 26, 2025. Retrieved January 25, 2026.
+59. Rogers, Reece. "Anthropic's Claude Cowork Is an AI Agent That Actually Works" (https://ww w.wired.com/story/anthropic-claude-cowork-agent/). Wired. ISSN 1059-1028 (https://search. worldcat.org/issn/1059-1028). Archived (https://web.archive.org/web/20260121172140/http s://www.wired.com/story/anthropic-claude-cowork-agent/) from the original on January 21, 2026. Retrieved January 25, 2026.
+60. Rogers, Reece (January 15, 2026). "Anthropic's Claude Cowork Is an AI Agent That Actually Works" (https://www.wired.com/story/anthropic-claude-cowork-agent/). Wired. ISSN 1059-1028 (https://search.worldcat.org/issn/1059-1028). Retrieved April 30, 2026.
+61. "How Claude Code is bringing vibe coding to everyone" (https://www.scientificamerican.co m/article/how-claude-code-is-bringing-vibe-coding-to-everyone/). Scientific American. January 31, 2026. Retrieved April 30, 2026.
+62. Deborah, Yao (August 11, 2023). "Anthropic's Claude Instant: A Smaller, Faster and Cheaper Language Model" (https://aibusiness.com/nlp/anthropic-s-claude-instant-a-smaller-faster-and-cheaper-language-model). AI Business. Archived (https://web.archive.org/web/20 240603171639/https://aibusiness.com/nlp/anthropic-s-claude-instant-a-smaller-faster-and-c heaper-language-model) from the original on June 3, 2024. Retrieved April 9, 2024.
+63. Sharon, Goldman (March 14, 2023). "OpenAI rival Anthropic introduces Claude, an AI assistant to take on ChatGPT" (https://venturebeat.com/ai/google-funded-anthropic-introduc es-claude-chatgpt-rival-through-chat-and-api/). Venture Beat. Archived (https://web.archive. org/web/20240410061325/https://venturebeat.com/ai/google-funded-anthropic-introduces-cl aude-chatgpt-rival-through-chat-and-api/) from the original on April 10, 2024. Retrieved April 9, 2024.
+
+64. Matthews, Dylan (July 17, 2023). "The $1 billion gamble to ensure AI doesn't destroy humanity" (https://www.vox.com/future-perfect/23794855/anthropic-ai-openai-claude-2). Vox. Archived (https://web.archive.org/web/20231003205441/https://www.vox.com/future-pe rfect/23794855/anthropic-ai-openai-claude-2) from the original on October 3, 2023. Retrieved July 23, 2023.
+65. Milmo, Dan (July 12, 2023). "Claude 2: ChatGPT rival launches chatbot that can summarise a novel" (https://www.theguardian.com/technology/2023/jul/12/claude-2-anthropic-launches-chatbot-rival-chatgpt). The Guardian. Archived (https://web.archive.org/web/2023110818200 5/https://www.theguardian.com/technology/2023/jul/12/claude-2-anthropic-launches-chatbot-rival-chatgpt) from the original on November 8, 2023. Retrieved July 13, 2023.
+66. Nuñez, Michael (March 4, 2024). "Anthropic unveils Claude 3, surpassing GPT-4 and Gemini Ultra in benchmark tests" (https://venturebeat.com/ai/anthropic-unveils-claude-3-clai ms-new-standard-for-intelligence/). Venture Beat. Retrieved April 9, 2024.
+67. Pierce, David (June 20, 2024). "Anthropic has a fast new AI model — and a clever new way to interact with chatbots" (https://www.theverge.com/2024/6/20/24181961/anthropic-claude-35-sonnet-model-ai-launch). The Verge. Archived (http://web.archive.org/web/20260312180 351/https://www.theverge.com/2024/6/20/24181961/anthropic-claude-35-sonnet-model-ai-la unch) from the original on March 12, 2026. Retrieved June 22, 2024.
+68. "Introducing Claude 4" (https://www.anthropic.com/news/claude-4). Anthropic. May 22,
+2025. Archived (https://web.archive.org/web/20250805144053/https://www.anthropic.com/ne
+ws/claude-4) from the original on August 5, 2025. Retrieved August 5, 2025.
+69. Capoot, Ashley (February 5, 2026). "Anthropic launches Claude Opus 4.6 as AI moves toward a 'vibe working' era" (https://www.cnbc.com/2026/02/05/anthropic-claude-opus-4-6-vi be-working.html). CNBC. Retrieved February 20, 2026.
+70. Amanda Caswell (February 17, 2026). "Claude just upgraded its AI — and it can now process entire projects at once" (https://www.tomsguide.com/ai/claude-just-upgraded-its-ai-a nd-it-can-now-process-entire-projects-at-once). Tom's Guide. Retrieved February 20, 2026.
+71. Bracken, Becky. "Anthropic's Mythos Has Landed: Here's What Comes Next for Cyber" (http s://www.darkreading.com/cybersecurity-operations/anthropic-mythos-cyber-what-comes-nex
+t). Dark Reading. Retrieved May 18, 2026.
+72. Goldman, Sharon (February 3, 2023). "Google invests $300 million in Anthropic as race to compete with ChatGPT heats up" (https://venturebeat.com/ai/google-invests-300-million-in-a nthropic-as-race-to-compete-with-chatgpt-heats-up/). VentureBeat. Archived (https://web.arc hive.org/web/20230206075725/https://venturebeat.com/ai/google-invests-300-million-in-anth ropic-as-race-to-compete-with-chatgpt-heats-up/) from the original on February 6, 2023. Retrieved February 6, 2023.
+73. Sigalos, MacKenzie (March 25, 2024). "FTX estate selling majority stake in AI startup Anthropic for $884 million, with bulk going to UAE" (https://www.cnbc.com/2024/03/25/ftx-est ate-sells-majority-stake-in-startup-anthropic-for-884-million.html). CNBC. Archived (https://w eb.archive.org/web/20240411054914/https://www.cnbc.com/2024/03/25/ftx-estate-sells-maj ority-stake-in-startup-anthropic-for-884-million.html) from the original on April 11, 2024. Retrieved April 11, 2024.
+74. Dastin, Jeffrey (September 28, 2023). "Amazon steps up AI race with Anthropic investment" (https://www.reuters.com/markets/deals/amazon-steps-up-ai-race-with-up-4-billion-deal-inve st-anthropic-2023-09-25/). Reuters. Archived (https://web.archive.org/web/2023110511052 4/https://www.reuters.com/markets/deals/amazon-steps-up-ai-race-with-up-4-billion-deal-inv est-anthropic-2023-09-25/) from the original on November 5, 2023. Retrieved October 2, 2023.
+75. "Amazon and Anthropic deepen their shared commitment to advancing generative AI" (http s://www.aboutamazon.com/news/company-news/amazon-anthropic-ai-investment). Amazon. March 27, 2024. Archived (https://web.archive.org/web/20250917074406/https://w ww.aboutamazon.com/news/company-news/amazon-anthropic-ai-investment) from the original on September 17, 2025. Retrieved September 24, 2025.
+
+76. Bajwa, Arsheeya; Hu, Krystal; Hu, Krystal (November 22, 2024). "Amazon doubles down on AI startup Anthropic with another $4 bln" (https://www.reuters.com/technology/artificial-intelli gence/anthropic-receives-4-billion-investment-amazon-makes-aws-official-cloud-provider-20 24-11-22/). Reuters. Retrieved September 24, 2025.
+77. Hu, Krystal (October 27, 2023). "Google agrees to invest up to $2 billion in OpenAI rival Anthropic" (https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/). Reuters. Archived (https://web.archive.org/web/2023110212270 1/https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/) from the original on November 2, 2023. Retrieved October 30, 2023.
+78. Field, Hayden (January 22, 2025). "Google agrees to new $1 billion investment in Anthropic" (https://www.cnbc.com/2025/01/22/google-agrees-to-new-1-billion-investment-in-anthropic.h tml). CNBC. Archived (https://web.archive.org/web/20251023213634/https://www.cnbc.com/ 2025/01/22/google-agrees-to-new-1-billion-investment-in-anthropic.html) from the original on October 23, 2025. Retrieved September 24, 2025.
+79. "Anthropic raises Series E at $61.5B post-money valuation" (https://www.anthropic.com/new s/anthropic-raises-series-e-at-usd61-5b-post-money-valuation). Anthropic. March 3, 2025. Archived (https://web.archive.org/web/20250726221333/https://www.anthropic.com/news/an thropic-raises-series-e-at-usd61-5b-post-money-valuation) from the original on July 26, 2025. Retrieved July 27, 2025.
+80. "Anthropic reportedly ups its next funding round to $3.5B" (https://techcrunch.com/2025/02/2 4/anthropic-reportedly-ups-its-next-funding-round-to-3-5b/). TechCrunch. February 24, 2025. Archived (https://web.archive.org/web/20250721131523/https://techcrunch.com/2025/02/24/ anthropic-reportedly-ups-its-next-funding-round-to-3-5b/) from the original on July 21, 2025. Retrieved July 27, 2025.
+81. Capoot, Ashley (September 2, 2025). "Anthropic raises $13 billion funding round at $183 billion valuation" (https://www.cnbc.com/2025/09/02/anthropic-raises-13-billion-at-18-billion-v aluation.html). CNBC. Archived (https://web.archive.org/web/20250902201001/https://www.c nbc.com/2025/09/02/anthropic-raises-13-billion-at-18-billion-valuation.html) from the original on September 2, 2025. Retrieved September 2, 2025.
+82. More, Durva (September 2, 2025). "AI titan Anthropic just raised $13 billion, now valued at a massive $183 billion" (https://economictimes.indiatimes.com/news/international/us/ai-titan-a nthropic-just-raised-13-billion-now-valued-at-a-massive-183-billion/articleshow/123661444.c ms?from=mdr). The Economic Times. ISSN 0013-0389 (https://search.worldcat.org/issn/001 3-0389). Archived (https://web.archive.org/web/20250927225007/https://economictimes.indi atimes.com/news/international/us/ai-titan-anthropic-just-raised-13-billion-now-valued-at-a-m assive-183-billion/articleshow/123661444.cms?from=mdr) from the original on September 27, 2025. Retrieved September 2, 2025.
+83. Capoot, Ashley; Rooney, Kate (January 7, 2026). "Anthropic signs term sheet for $10 billion funding round at $350 billion valuation" (https://www.cnbc.com/2026/01/07/anthropic-funding
+-term-sheet-valuation.html). CNBC. Archived (https://web.archive.org/web/2026011223350 2/https://www.cnbc.com/2026/01/07/anthropic-funding-term-sheet-valuation.html) from the original on January 12, 2026. Retrieved January 14, 2026.
+84. "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation" (http s://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-mo ney-valuation). www.anthropic.com. Retrieved February 15, 2026.
+85. "Anthropic clinches US$380 billion valuation after US$30 billion funding round" (https://www. businesstimes.com.sg/companies-markets/telcos-media-tech/anthropic-clinches-us380-billio n-valuation-after-us30-billion-funding-round). The Business Times. February 13, 2026. Retrieved February 13, 2026.
+
+86. Zeff, Maxwell (January 19, 2025). "The Pentagon says AI is speeding up its 'kill chain' " (http s://techcrunch.com/2025/01/19/the-pentagon-says-ai-is-speeding-up-its-kill-chain/). TechCrunch. Archived (https://web.archive.org/web/20250211004853/https://techcrunch.co m/2025/01/19/the-pentagon-says-ai-is-speeding-up-its-kill-chain/) from the original on February 11, 2025. Retrieved February 12, 2025.
+87. Murgia, Madhumita (December 5, 2024). "Anthropic's Dario Amodei: Democracies must maintain the lead in AI" (https://www.ft.com/content/e75e3388-4700-413d-ab67-778410c2d9 77). Financial Times. Archived (https://web.archive.org/web/20250124090008/https://www.ft. com/content/e75e3388-4700-413d-ab67-778410c2d977) from the original on January 24, 2025. Retrieved February 10, 2025.
+88. Edwards, Benj (June 6, 2025). "Anthropic releases custom AI chatbot for classified spy work" (https://arstechnica.com/ai/2025/06/anthropic-releases-custom-ai-chatbot-for-classifie d-spy-work/). Ars Technica. Archived (https://web.archive.org/web/20250609134617/https:// arstechnica.com/ai/2025/06/anthropic-releases-custom-ai-chatbot-for-classified-spy-work/) from the original on June 9, 2025. Retrieved June 9, 2025.
+89. Hammond, George; Chávez, Steff (February 24, 2026). "Pete Hegseth threatens to cut Anthropic from Pentagon supply chain in showdown with CEO" (https://www.ft.com/content/ 0c6b63b6-2524-4ba7-9f7a-e7183b29386f). Financial Times. Retrieved February 24, 2026.
+90. Brodkin, Jon (July 15, 2025). "Grok's "MechaHitler" meltdown didn't stop xAI from winning
+$200M military deal" (https://arstechnica.com/tech-policy/2025/07/groks-mechahitler-meltdo wn-didnt-stop-xai-from-winning-200m-military-deal/). Ars Technica. Archived (https://web.arc hive.org/web/20250716044148/https://arstechnica.com/tech-policy/2025/07/groks-mechahitl er-meltdown-didnt-stop-xai-from-winning-200m-military-deal/) from the original on July 16, 2025. Retrieved July 16, 2025.
+91. Christou, William (February 14, 2026). "US military used Anthropic's AI model Claude in Venezuela raid, report says" (https://www.theguardian.com/technology/2026/feb/14/us-milita ry-anthropic-ai-model-claude-venezuela-raid). The Guardian. Retrieved February 14, 2026. "Anthropic was the first AI developer known to be used in a classified operation by the US department of defence. It was unclear how the tool, which has capabilities ranging from processing PDFs to piloting autonomous drones, was deployed."
+92. Amrith, Ramkumar; Hagey, Keach (February 13, 2026). "Pentagon Used Anthropic's Claude in Maduro Venezuela Raid" (https://www.wsj.com/politics/national-security/pentagon-used-a nthropics-claude-in-maduro-venezuela-raid-583aff17). The Wall Street Journal. Archived (htt p://web.archive.org/web/20260314040408/https://www.wsj.com/politics/national-security/pen tagon-used-anthropics-claude-in-maduro-venezuela-raid-583aff17) from the original on March 14, 2026. Retrieved February 14, 2026. "Claude was used in the U.S. military's operation to capture former Venezuelan President Nicolás Maduro"
+93. "Tensions between the Pentagon and AI giant Anthropic reach a boiling point" (https://www.n bcnews.com/tech/security/anthropic-ai-defense-war-venezuela-maduro-rcna259603). NBC News. February 20, 2026. Retrieved February 21, 2026.
+94. Edwards, Benj (September 17, 2025). "White House officials reportedly frustrated by Anthropic's law enforcement AI limits" (https://arstechnica.com/ai/2025/09/white-house-offici als-reportedly-frustrated-by-anthropics-law-enforcement-ai-limits/). Ars Technica. Retrieved February 21, 2026.
+95. "Pentagon-Anthropic battle pushes other AI labs into major dilemma" (https://www.axios.co m/2026/02/19/anthropic-pentagon-ai-fight-openai-google-xai). Axios. February 19, 2026.
+Retrieved February 21, 2026.
+96. O'Brien, Matt; Toropin, Konstantin; Klepper, David (February 24, 2026). "Hegseth warns Anthropic to let the military use the company's AI tech as it sees fit, AP sources say" (https:// apnews.com/article/anthropic-hegseth-ai-pentagon-military-3d86c9296fe953ec0591fcde6a6 13aba). Associated Press. Retrieved February 24, 2026.
+97. "Anthropic boss rejects Pentagon demand to drop AI safeguards" (https://www.bbc.co.uk/ne ws/articles/cvg3vlzzkqeo). BBC News. February 27, 2026. Retrieved February 27, 2026.
+
+98. O'Brien, Matt; Konstantin, Toropin (February 27, 2026). "Trump orders federal agencies to stop using Anthropic technology in dispute over AI safety" (https://apnews.com/article/anthro pic-pentagon-ai-hegseth-dario-amodei-b72d1894bc842d9acf026df3867bee8a). Associated Press. Retrieved February 27, 2026.
+99. "Judge blocks Trump administration from limiting Anthropic's contracts with federal government" (https://www.nbcnews.com/news/us-news/anthropic-trump-national-security-rc na265399). NBC News. March 27, 2026. Retrieved March 31, 2026.
+100. Gold, Hadas; Cole, Devan (March 26, 2026). "Judge blocks Pentagon's effort to 'punish' Anthropic by labeling it a supply chain risk" (https://www.cnn.com/2026/03/26/business/anthr opic-pentagon-injunction-supply-chain-risk). CNN Business. Retrieved March 31, 2026.
+101. Pilkington, Ed (March 1, 2026). "US military reportedly used Claude in Iran strikes despite Trump's ban" (https://www.theguardian.com/technology/2026/mar/01/claude-anthropic-iran-s trikes-us-military). The Guardian. Retrieved March 5, 2026.
+102. Hammad, Noor (April 2, 2026). "The proliferation of AI-enabled military technology in the Middle East" (https://web.archive.org/web/20260422080746/https://www.iiss.org/online-anal ysis/charting-middle-east/2026/04/the-proliferation-of-ai-enabled-military-technology-in-the-middle-east/). International Institute for Strategic Studies. Archived from the original (https:// www.iiss.org/online-analysis/charting-middle-east/2026/04/the-proliferation-of-ai-enabled-mil itary-technology-in-the-middle-east/) on April 22, 2026.
+103. "Speeding Up the "Kill Chain": Pentagon Bombs Thousands of Targets in Iran Using Palantir AI" (https://www.democracynow.org/2026/3/18/ai_warfare). Democracy Now!. Retrieved April 22, 2026.
+104. "Anthropic officially designated a supply chain risk by Pentagon" (https://www.bbc.co.uk/new s/articles/cn5g3z3xe65o). BBC News. March 5, 2026. Retrieved March 18, 2026.
+105. "Big Tech backs Anthropic in fight against Trump administration" (https://www.bbc.com/new s/articles/c4g7k7zdd0zo). BBC. March 11, 2026. Retrieved March 12, 2026.
+106. "Pentagon opens door to exempt Anthropic use beyond 6-month ramp-down, memo says" (https://www.channelnewsasia.com/business/pentagon-opens-door-exempt-anthropic-use-b eyond-6-month-ramp-down-memo-says-5987846). CNA. March 12, 2026. Retrieved
+March 12, 2026.
+107. "Judge blocks Pentagon order branding Anthropic a national security risk" (https://www.was hingtonpost.com/technology/2026/03/26/pentagon-anthropic-national-security-risk-order-blo cked/). The Washington Post. March 27, 2026. ISSN 0190-8286 (https://search.worldcat.or g/issn/0190-8286). Retrieved March 31, 2026.
+108. Isaac, Mike (March 26, 2026). "Judge Stays Pentagon's Labeling of Anthropic as 'Supply Chain Risk' " (https://www.nytimes.com/2026/03/26/technology/anthropic-pentagon-risk-injun ction.html). The New York Times. ISSN 0362-4331 (https://search.worldcat.org/issn/0362-43 31). Retrieved March 31, 2026.
+109. "The Pentagon's culture war tactic against Anthropic has backfired" (https://www.technologyr eview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-bac kfired/). MIT Technology Review. March 30, 2026. Retrieved June 16, 2026.
+110. "Anthropic forms higher education advisory board, launches AI fluency courses" (https://ww w.fortuneindia.com/technology/anthropic-forms-higher-education-advisory-board-launches-a i-fluency-courses/125875). Fortune India. August 21, 2025. Archived (https://web.archive.or g/web/20250910054502/https://www.fortuneindia.com/technology/anthropic-forms-higher-ed ucation-advisory-board-launches-ai-fluency-courses/125875) from the original on September 10, 2025. Retrieved August 24, 2025.
+111. Staff, TechRepublic (November 4, 2025). "Anthropic and Iceland Unveil National AI Education Pilot" (https://www.techrepublic.com/article/news-anthropic-iceland-ai-education/). TechRepublic. Archived (https://web.archive.org/web/20251105143950/https://www.techrepu blic.com/article/news-anthropic-iceland-ai-education/) from the original on November 5, 2025. Retrieved November 5, 2025.
+
+112. Schaffer, Aaron; Oremus, Will; Tiku, Nitasha (January 27, 2026). "Inside an AI start-up's plan to scan and dispose of millions of books" (http://web.archive.org/web/20260225151615/http s://www.washingtonpost.com/technology/2026/01/27/anthropic-ai-scan-destroy-books/). The Washington Post. Archived from the original (https://www.washingtonpost.com/technology/2 026/01/27/anthropic-ai-scan-destroy-books/) on February 25, 2026. Retrieved February 2,
+2026.
+113. Edwards, Benj (June 25, 2025). "Anthropic destroyed millions of print books to build its AI models" (https://arstechnica.com/ai/2025/06/anthropic-destroyed-millions-of-print-books-to-b uild-its-ai-models/). Ars Technica. Archived (https://web.archive.org/web/20250626164306/ht tps://arstechnica.com/ai/2025/06/anthropic-destroyed-millions-of-print-books-to-build-its-ai-models/) from the original on June 26, 2025. Retrieved June 26, 2025.
+114. Bai, Yuntao; Kadavath, Saurav; Kundu, Sandipan; Askell, Amanda; Kernion, Jackson; Jones, Andy; Chen, Anna; Goldie, Anna; Mirhoseini, Azalia (December 15, 2022). "Constitutional AI: Harmlessness from AI Feedback". arXiv:2212.08073 (https://arxiv.org/ab s/2212.08073) [cs.CL (https://arxiv.org/archive/cs.CL)].
+115. "Transformer Circuits Thread" (https://transformer-circuits.pub/). transformer-circuits.pub. Anthropic. Archived (https://web.archive.org/web/20230204224450/https://www.transformer-circuits.pub/) from the original on February 4, 2023. Retrieved February 9, 2023. "As part of our effort to reverse engineer transformers, we've created several other resources besides our paper which we hope will be useful. We've collected them on this website, and may add future content here, or even collaborations with other institutions."
+116. Ropek, Lucas (May 21, 2024). "New Anthropic Research Sheds Light on AI's 'Black Box' " (h ttps://gizmodo.com/new-anthropic-research-sheds-light-on-ais-black-box-1851491333). Gizmodo. Archived (https://web.archive.org/web/20241005170309/https://gizmodo.com/new
+-anthropic-research-sheds-light-on-ais-black-box-1851491333) from the original on October 5, 2024. Retrieved May 23, 2024.
+117. Perrigo, Billy (May 21, 2024). "Artificial Intelligence Is a 'Black Box.' Maybe Not For Long" (ht tps://web.archive.org/web/20240524001416/https://time.com/6980210/anthropic-interpretabi lity-ai-safety-research/). Time. Archived from the original (https://time.com/6980210/anthropi c-interpretability-ai-safety-research/) on May 24, 2024. Retrieved May 24, 2024.
+118. Adly Templeton*, Tom Conerly*, Jonathan Marcus, Jack Lindsey, Trenton Bricken, Brian Chen, Adam Pearce, Craig Citro, Emmanuel Ameisen, Andy Jones, Hoagy Cunningham, Nicholas L Turner, Callum McDougall, Monte MacDiarmid, Alex Tamkin, Esin Durmus, Tristan Hume, Francesco Mosconi, C. Daniel Freeman, Theodore R. Sumers, Edward Rees, Joshua Batson, Adam Jermyn, Shan Carter, Chris Olah, Tom Henighan Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet (https://transform er-circuits.pub/2024/scaling-monosemanticity/index.html), Anthropic, archived (https://web.a rchive.org/web/20240525142147/https://transformer-circuits.pub/2024/scaling-monosemanti city/index.html) from the original on May 25, 2024, retrieved May 24, 2024
+119. Kahn, Jeremy (March 27, 2025). "Anthropic researchers make progress unpacking AI's 'black box' " (https://fortune.com/2025/03/27/anthropic-ai-breakthrough-claude-llm-black-bo x/). Fortune. Retrieved March 29, 2025.
+120. Nuñez, Michael (March 27, 2025). "Anthropic scientists expose how AI actually 'thinks' — and discover it secretly plans ahead and sometimes lies" (https://venturebeat.com/ai/anthro pic-scientists-expose-how-ai-actually-thinks-and-discover-it-secretly-plans-ahead-and-somet imes-lies/). VentureBeat. Archived (https://web.archive.org/web/20250328173957/https://ven turebeat.com/ai/anthropic-scientists-expose-how-ai-actually-thinks-and-discover-it-secretly-p lans-ahead-and-sometimes-lies/) from the original on March 28, 2025. Retrieved March 29, 2025.
+
+121. Chivers, Tom (September 16, 2025). "Anthropic report shows scale of AI threat to jobs" (http s://www.semafor.com/article/09/16/2025/anthropic-report-shows-scale-of-ai-threat-to-jobs). Semafor. Archived (https://web.archive.org/web/20250916122222/https://www.semafor.com/ article/09/16/2025/anthropic-report-shows-scale-of-ai-threat-to-jobs) from the original on September 16, 2025. Retrieved September 16, 2025.
+122. Ghosh, Agnee; Ghaffary, Shirin (September 15, 2025). "Anthropic Finds Businesses Are Mainly Using AI to Automate Work" (https://www.bloomberg.com/news/articles/2025-09-15/a nthropic-finds-businesses-are-mainly-using-ai-to-automate-work). Bloomberg.com. Archived (https://web.archive.org/web/20250919015517/https://www.bloomberg.com/news/articles/20 25-09-15/anthropic-finds-businesses-are-mainly-using-ai-to-automate-work) from the original on September 19, 2025. Retrieved September 16, 2025.
+123. Spirlet, Thibault. "The CEO of Anthropic is doubling down on his AI warning to entry-level workers" (https://www.businessinsider.com/anthropic-ceo-ai-cut-entry-level-law-finance-cons ulting-jobs-2025-9). Business Insider. Archived (https://web.archive.org/web/202509150818 05/https://www.businessinsider.com/anthropic-ceo-ai-cut-entry-level-law-finance-consulting-j obs-2025-9) from the original on September 15, 2025. Retrieved September 16, 2025.
+124. Times, Financial (October 19, 2023). "Universal Music sues AI start-up Anthropic for scraping song lyrics" (https://arstechnica.com/tech-policy/2023/10/universal-music-sues-ai-s tart-up-anthropic-for-scraping-song-lyrics/). Ars Technica. Archived (https://web.archive.org/ web/20240309062608/https://arstechnica.com/tech-policy/2023/10/universal-music-sues-ai-start-up-anthropic-for-scraping-song-lyrics/) from the original on March 9, 2024. Retrieved March 9, 2024.
+125. David, Emilia (October 19, 2023). "Universal Music sues AI company Anthropic for distributing song lyrics" (https://www.theverge.com/2023/10/19/23924100/universal-music-s ue-anthropic-lyrics-copyright-katy-perry). The Verge. Retrieved March 9, 2024.
+126. "Complaint – #1 in Concord Music Group, Inc. v. Anthropic PBC" (https://www.courtlistener.c om/docket/67894459/1/concord-music-group-inc-v-anthropic-pbc/). CourtListener. October 18, 2023. Archived (https://web.archive.org/web/20250726043733/https://www.courtlistener. com/docket/67894459/1/concord-music-group-inc-v-anthropic-pbc/) from the original on July 26, 2025. Retrieved November 5, 2025.
+127. Masse, Bryson (October 19, 2023). "Major music publishers sue Anthropic for copyright infringement over song lyrics" (https://venturebeat.com/ai/major-music-publishers-sue-anthr opic-for-copyright-infringement-over-song-lyrics/). VentureBeat. Archived (https://web.archiv e.org/web/20240403004637/https://venturebeat.com/ai/major-music-publishers-sue-anthropi c-for-copyright-infringement-over-song-lyrics/) from the original on April 3, 2024. Retrieved April 8, 2024.
+128. Brittain, Blake (January 17, 2024). "Anthropic fires back at music publishers' AI copyright lawsuit" (https://www.reuters.com/legal/litigation/anthropic-fires-back-music-publishers-ai-co pyright-lawsuit-2024-01-17/). Reuters. Retrieved April 7, 2024.
+129. Field, Hayden (August 20, 2024). "Amazon-backed Anthropic hit with class-action lawsuit over copyright infringement" (https://www.cnbc.com/2024/08/20/amazon-backed-anthropic-h it-with-class-action-lawsuit-over-copyright-infringement.html). CNBC. Archived (https://web.a rchive.org/web/20241124012015/https://www.cnbc.com/2024/08/20/amazon-backed-anthro pic-hit-with-class-action-lawsuit-over-copyright-infringement.html) from the original on November 24, 2024. Retrieved October 29, 2024.
+130. "Order on Fair Use | Bartz v. Anthropic PBC" (https://storage.courtlistener.com/recap/gov.usc ourts.cand.434709/gov.uscourts.cand.434709.231.0_3.pdf) (PDF). courtlistener.com. June 23, 2025.
+
+131. Capoot, Ashley (September 5, 2025). "Anthropic agrees to pay $1.5 billion to settle authors' copyright lawsuit" (https://www.cnbc.com/2025/09/05/anthropic-to-pay-1point5-billion-to-settl e-authors-copyright-lawsuit-.html). CNBC. Archived (https://web.archive.org/web/202509060 01008/https://www.cnbc.com/2025/09/05/anthropic-to-pay-1point5-billion-to-settle-authors-c opyright-lawsuit-.html) from the original on September 6, 2025. Retrieved September 5, 2025.
+132. Metz, Cade (September 5, 2025). "Anthropic Agrees to Pay $1.5 Billion to Settle Lawsuit With Book Authors" (https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-c opyright-ai.html). The New York Times. Archived (https://web.archive.org/web/20250906134 044/https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html) from the original on September 6, 2025. Retrieved September 6, 2025.
+133. Belanger, Ashley (June 5, 2025). "Reddit sues Anthropic over AI scraping that retained users' deleted posts" (https://arstechnica.com/tech-policy/2025/06/reddit-sues-anthropic-ove r-ai-scraping-that-retained-users-deleted-posts/). Ars Technica. Archived (https://web.archiv e.org/web/20250609135814/https://arstechnica.com/tech-policy/2025/06/reddit-sues-anthro pic-over-ai-scraping-that-retained-users-deleted-posts/) from the original on June 9, 2025. Retrieved June 9, 2025.
+134. Ashley Capoot (June 4, 2025). "Reddit sues AI startup Anthropic for breach of contract, 'unfair competition' " (https://www.cnbc.com/2025/06/04/reddit-anthropic-lawsuit-ai.html). CNBC. Retrieved February 16, 2026.
+
+External links
+
+ Official website (https://www.anthropic.com/) 
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Anthropic&oldid=1361024306"
