@@ -28,7 +28,7 @@ def load_documents(docs_path):
     if len(documents) == 0:
         raise FileNotFoundError(f"No .txt files found in {docs_path}. Please add your company documents.")
 
-    for i, doc in enumerate(documents[:len(documents)]):
+    for i, doc in enumerate(documents):
         print(f"\nDocument {i + 1}:")
         print(f"  Source: {doc.metadata['source']}")
         print(f"  Content length: {len(doc.page_content)} characters")
@@ -51,7 +51,7 @@ def split_documents(documents, chunk_size=1000, chunk_overlap=0):
 
     if chunks:
 
-        for i, chunk in enumerate(chunks[:5]):
+        for i, chunk in enumerate(chunks[0:5]):
             print(f"\n--- Chunk {i + 1} ---")
             print(f"Source: {chunk.metadata['source']}")
             print(f"Length: {len(chunk.page_content)} characters")
