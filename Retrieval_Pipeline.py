@@ -25,7 +25,7 @@ def ask_questions(query):
     print(f"User query :{query}")
 
     if chat_history:
-# Tells model to give the new question appropriately,(ex:-"what is the networth of it"=>what is the networth of meta")
+        # Tells model to give the new question appropriately,(ex:-"what is the networth of it"=>what is the networth of meta")
         messages=[
             SystemMessage(content="Given the chat history, rewrite the new question to be standalone and searchable. Just return the rewritten question."),
         ] + chat_history + [
@@ -40,7 +40,12 @@ def ask_questions(query):
         user_question=query
 
     # This will return highest top 3 similarity chunks
-    retriever = db.as_retriever(search_kwargs={"k": 3})
+    retriever = db.as_retriever(
+        search_type="similarity_score_threshold",
+        search_kwargs={
+            "k": 3,
+            "score_threshold": 0.3
+        })
 
     retriever_result = retriever.invoke(user_question)
 
@@ -52,8 +57,7 @@ def ask_questions(query):
     Documents:
     {chr(10).join([f"-{doc.page_content}" for doc in retriever_result])}
     Please provide a clear, helpful answer using only the information from these documents. If you can't find the answer in the documents, say "I don't have enough information to answer that question based on the provided documents."
-    """""
-
+    """
     messages=[
         SystemMessage(content="You are a helpful assistant."),
         HumanMessage(content=combined_input)
