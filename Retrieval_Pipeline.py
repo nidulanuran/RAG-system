@@ -1,20 +1,9 @@
-from langchain_huggingface import  HuggingFaceEmbeddings
-from langchain_chroma import Chroma
 from dotenv import load_dotenv
 from langchain_groq import ChatGroq
 from langchain_core.messages import SystemMessage, HumanMessage, AIMessage
+import multi_query_retrieval
 
 load_dotenv()
-
-embedding_model = HuggingFaceEmbeddings(model="all-MiniLM-L6-v2")
-
-persistent_directory = "db/chroma_db"
-
-db = Chroma(
-        persist_directory=persistent_directory,
-        embedding_function=embedding_model,
-        collection_metadata={"hnsw:space": "cosine"}
-    )
 
 model = ChatGroq(model="openai/gpt-oss-20b")
 
@@ -39,25 +28,16 @@ def ask_questions(query):
     else:
         user_question=query
 
-    # This will return highest top 3 similarity chunks
-    retriever = db.as_retriever(
-        search_type="similarity_score_threshold",
-        search_kwargs={
-            "k": 3,
-            "score_threshold": 0.3
-        })
-
-    retriever_result = retriever.invoke(user_question)
-
-    for i,doc in enumerate(retriever_result,1):
-        print(f"Document {i}:\n{doc.page_content}\n")
+    fused_results=multi_query_retrieval.multi_query_generation(user_question)
 
 
-    combined_input=f"""Based on the following documents, please answer this question:{query}
-    Documents:
-    {chr(10).join([f"-{doc.page_content}" for doc in retriever_result])}
-    Please provide a clear, helpful answer using only the information from these documents. If you can't find the answer in the documents, say "I don't have enough information to answer that question based on the provided documents."
-    """
+    combined_input=f"""Based on the following documents, please answer this question:{user_question}
+    Documents:"""
+
+    for i, (doc, score) in enumerate(fused_results, 1):
+        combined_input += f"\nDocument {i}:\n{doc.page_content}\n"
+
+    combined_input+=f"""Please provide a clear, helpful answer using only the information from these documents. If you can't find the answer in the documents, say "I don't have enough information to answer that question based on the provided documents."""
     messages=[
         SystemMessage(content="You are a helpful assistant."),
         HumanMessage(content=combined_input)
@@ -66,7 +46,7 @@ def ask_questions(query):
     result=model.invoke(messages)
     answer=result.content
 
-    chat_history.append(HumanMessage(content=query))
+    chat_history.append(HumanMessage(content=user_question))
     chat_history.append(AIMessage(content=answer))
 
     # Display the  result
