@@ -11,19 +11,16 @@ chat_history=[]
 
 def ask_questions(query):
 
-    print(f"User query :{query}")
-
     if chat_history:
         # Tells model to give the new question appropriately,(ex:-"what is the networth of it"=>what is the networth of meta")
         messages=[
-            SystemMessage(content="Given the chat history, rewrite the new question to be standalone and searchable. Just return the rewritten question."),
+            SystemMessage(content="Given the chat history, rewrite the new question to be standalone and searchable. Just return the rewritten question only."),
         ] + chat_history + [
             HumanMessage(content=f"New question :{query}")
         ]
 
         result=model.invoke(messages)
         user_question=result.content.strip()
-        print(f"User question:{user_question}")
 
     else:
         user_question=query
@@ -34,7 +31,9 @@ def ask_questions(query):
     combined_input=f"""Based on the following documents, please answer this question:{user_question}
     Documents:"""
 
-    for i, (doc, score) in enumerate(fused_results, 1):
+    top_n=3
+
+    for i, (doc, score) in enumerate(fused_results[:top_n], 1):
         combined_input += f"\nDocument {i}:\n{doc.page_content}\n"
 
     combined_input+=f"""Please provide a clear, helpful answer using only the information from these documents. If you can't find the answer in the documents, say "I don't have enough information to answer that question based on the provided documents."""

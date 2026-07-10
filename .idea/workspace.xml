@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a44f1839-87b1-437f-a134-19d990b3961b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/multi_query_retrieval.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Retrieval_Pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/Retrieval_Pipeline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi_query_retrieval.py" beforeDir="false" afterPath="$PROJECT_DIR$/multi_query_retrieval.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "dev"
+    "git-widget-placeholder": "dev",
+    "last_opened_file_path": "C:/Users/Nidula Nuran/Desktop/Campus/Personal Projects/RAG-System-for-text-files"
   }
 }]]></component>
   <component name="SharedIndexes">

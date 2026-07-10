@@ -9,7 +9,9 @@ from typing import List
 
 load_dotenv()
 
-# Pydantic model for structured output
+# This defines the expected shape of the LLM's output: a JSON object with one key, queries,
+# containing a list of strings. Example valid instance:
+# {"queries": ["What is RAG?", "Explain retrieval augmented generation", "How does RAG work in LLMs?"]}
 class QueryVariations(BaseModel):
     queries: List[str]
 
@@ -45,12 +47,20 @@ def multi_query_generation(query):
     response = llm_with_tools.invoke(prompt)
     query_variations = response.queries
 
-    retriever = db.as_retriever(search_kwargs={"k": 5})  # Get more docs for better RRF
+    retriever = db.as_retriever(
+        search_type="similarity_score_threshold",
+        search_kwargs={"k": 3,
+                       "score_threshold":0.3})
+
     all_retrieval_results = []  # Store all results for RRF
 
     for i, query in enumerate(query_variations, 1):
 
         docs = retriever.invoke(query)
+        # When you call retriever.invoke(query) for a single query, Chroma doesn't return documents in random or arbitrary order.
+        # It returns them ordered by similarity score, from most similar to least similar.
+        # That ordering is what becomes "position" in the RRF code.
+
         all_retrieval_results.append(docs)  # Store for RRF calculation
 
 
@@ -60,18 +70,17 @@ def multi_query_generation(query):
         # Data structures for RRF calculation
         rrf_scores = defaultdict(float)  # Will store: {chunk_content: rrf_score}
         all_unique_chunks = {}  # Will store: {chunk_content: actual_chunk_object}
-
-        # For verbose output - track chunk IDs
         chunk_id_map = {}
         chunk_counter = 1
 
         # Go through each retrieval result
         for query_idx, chunks in enumerate(chunk_lists, 1):
 
-
             # Go through each chunk in this query's results
             for position, chunk in enumerate(chunks, 1):  # position is 1-indexed
-                # Use chunk content as unique identifier
+                #  just pulls out that text string — used here as a unique key to identify the chunk
+                #  (since two different documents are unlikely to have the exact same text).
+
                 chunk_content = chunk.page_content
 
                 # Assign a simple ID if we haven't seen this chunk before
@@ -79,16 +88,15 @@ def multi_query_generation(query):
                     chunk_id_map[chunk_content] = f"Chunk_{chunk_counter}"
                     chunk_counter += 1
 
-                chunk_id = chunk_id_map[chunk_content]
+                all_unique_chunks[chunk_content] = chunk # Store the chunk object (in case we haven't seen it before)
 
-                # Store the chunk object (in case we haven't seen it before)
-                all_unique_chunks[chunk_content] = chunk
+                position_score = 1 / (k + position) # Calculate position score: 1/(k + position)
 
-                # Calculate position score: 1/(k + position)
-                position_score = 1 / (k + position)
-
-                # Add to RRF score
                 rrf_scores[chunk_content] += position_score
+                # Add position score accrding to page content
+                # rrf_scores[doc 2] += 0.016129 <-example value
+                # if doc 2 appears again += 0.015873 <-example value
+                # then doc 2s total score is 0.032002
 
         # Sort chunks by RRF score (highest first)
         sorted_chunks = sorted(
