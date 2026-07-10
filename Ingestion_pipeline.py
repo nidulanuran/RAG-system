@@ -4,6 +4,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_huggingface import  HuggingFaceEmbeddings
 from langchain_chroma import Chroma
 from dotenv import load_dotenv
+from langchain_core.documents import Document
 
 load_dotenv()
 
@@ -64,10 +65,10 @@ def split_documents(documents, chunk_size=1000, chunk_overlap=0):
 
     return chunks
 
-def create_vector_store(chunks,persist_directory):
+def create_vector_store(chunks,persist_directory_vectors):
     print("Creating embeddings and storing in ChromaDB")
 
-    if not os.path.exists(persist_directory):
+    if not os.path.exists(persist_directory_vectors):
         print("Initializing vector store...\n")
 
     embedding_model=HuggingFaceEmbeddings(model="all-MiniLM-L6-v2")
@@ -76,12 +77,32 @@ def create_vector_store(chunks,persist_directory):
 
     vector_store=Chroma.from_documents(
         documents=chunks,
-        persist_directory=persist_directory,
+        persist_directory=persist_directory_vectors,
         embedding=embedding_model,
         collection_metadata={"hnsw:space": "cosine"}
     )
 
+
     return vector_store
+
+def create_langchain_db(chunks,persist_directory_langchain_docs):
+
+    langchain_docs=[]
+
+    for i,chunk in enumerate(chunks,1):
+        doc=Document(
+            page_content=chunk.page_content,
+            metadata={"source":f"chunk_{i}"}
+        )
+
+        langchain_docs.append(doc)
+
+    langchain_docs_store=Chroma.from_documents(
+        documents=langchain_docs,
+        persist_directory=persist_directory_langchain_docs
+    )
+
+    return langchain_docs_store
 
 
 
@@ -89,7 +110,9 @@ def main():
 
     docs_path="docs"
 
-    persist_directory="db/chroma_db"
+    persist_directory_vectors="db/chroma_db_vectors"
+
+    persist_directory_langchain_docs="db/chroma_db_langchain_docs"
 
     # Load documents
     documents = load_documents(docs_path)
@@ -98,7 +121,9 @@ def main():
     chunks = split_documents(documents)
 
     # Store embeddings in chromaDB
-    vector_store=create_vector_store(chunks,persist_directory)
+    create_vector_store(chunks,persist_directory_vectors)
+
+    create_langchain_db(chunks,persist_directory_langchain_docs)
 
 
 

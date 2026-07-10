@@ -8,6 +8,7 @@ load_dotenv()
 model = ChatGroq(model="openai/gpt-oss-20b")
 
 chat_history=[]
+MAX_HISTORY_MESSAGES = 10
 
 def ask_questions(query):
 
@@ -19,21 +20,30 @@ def ask_questions(query):
             HumanMessage(content=f"New question :{query}")
         ]
 
-        result=model.invoke(messages)
-        user_question=result.content.strip()
+        try:
+            result = model.invoke(messages)
+            user_question = result.content.strip()
+        except Exception as e:
+            print(f"[warn] question rewriting failed, using original question: {e}")
+            user_question=query
 
     else:
         user_question=query
 
-    fused_results=multi_query_retrieval.multi_query_generation(user_question)
+    results=multi_query_retrieval.multi_query_generation(user_question)
+
+    if not results:
+        answer = "I don't have enough information to answer that question based on the provided documents."
+        print("\n--- Generated Response ---")
+        print("Content only:")
+        print(answer)
+        return answer
 
 
     combined_input=f"""Based on the following documents, please answer this question:{user_question}
     Documents:"""
 
-    top_n=3
-
-    for i, (doc, score) in enumerate(fused_results[:top_n], 1):
+    for i, doc in enumerate(results, 1):
         combined_input += f"\nDocument {i}:\n{doc.page_content}\n"
 
     combined_input+=f"""Please provide a clear, helpful answer using only the information from these documents. If you can't find the answer in the documents, say "I don't have enough information to answer that question based on the provided documents."""
@@ -42,11 +52,17 @@ def ask_questions(query):
         HumanMessage(content=combined_input)
     ]
 
-    result=model.invoke(messages)
-    answer=result.content
+    try:
+        result = model.invoke(messages)
+        answer = result.content
+    except Exception as e:
+        print(f"[warn] final answer generation failed: {e}")
+        answer = "Sorry, something went wrong while generating the answer. Please try again."
 
     chat_history.append(HumanMessage(content=user_question))
     chat_history.append(AIMessage(content=answer))
+
+    del chat_history[:-MAX_HISTORY_MESSAGES]
 
     # Display the  result
     print("\n--- Generated Response ---")
