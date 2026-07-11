@@ -7,6 +7,8 @@ from typing import List
 from langchain_community.retrievers import BM25Retriever
 from langchain_classic.retrievers import EnsembleRetriever
 from langchain_core.documents import Document
+from langchain_classic.retrievers.document_compressors import CrossEncoderReranker
+from langchain_community.cross_encoders import HuggingFaceCrossEncoder
 
 load_dotenv()
 
@@ -59,6 +61,9 @@ hybrid_retriever = EnsembleRetriever(
     weights=[0.7, 0.3]
 )
 
+cross_encoder=HuggingFaceCrossEncoder(model_name="BAAI/bge-reranker-base")
+reranker=CrossEncoderReranker(model=cross_encoder,top_n=3)
+
 
 def generate_query_variations(query:str)->List[str]:
 
@@ -82,9 +87,7 @@ def generate_query_variations(query:str)->List[str]:
 
     return [query]
 
-def multi_query_generation(query:str)->List[Document]:
-
-    query_variations=generate_query_variations(query)
+def hybrid_search(query_variations:List[str])->List[Document]:
 
     filtered_chunks:List[Document]=[]
     seen_content=set()
@@ -101,4 +104,27 @@ def multi_query_generation(query:str)->List[Document]:
                 seen_content.add(doc.page_content)
                 filtered_chunks.append(doc)
 
+
+    if not filtered_chunks:
+        return []
+
     return filtered_chunks
+
+def chunks_reranker(query:str)->List[Document]:
+
+    query_variations=generate_query_variations(query)
+    filtered_chunks=hybrid_search(query_variations)
+
+    try:
+        reranked_chunks=reranker.compress_documents(
+            documents=filtered_chunks,
+            query=query
+        )
+
+    except Exception as e:
+        print(f"[warn] reranking failed, falling back to unranked candidates: {e}")
+        reranked_chunks = filtered_chunks[:3]
+
+
+
+    return list(reranked_chunks)

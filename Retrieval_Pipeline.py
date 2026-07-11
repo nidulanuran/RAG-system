@@ -1,7 +1,7 @@
 from dotenv import load_dotenv
 from langchain_groq import ChatGroq
 from langchain_core.messages import SystemMessage, HumanMessage, AIMessage
-import multi_query_retrieval
+import Process_pipeline
 
 load_dotenv()
 
@@ -30,7 +30,7 @@ def ask_questions(query):
     else:
         user_question=query
 
-    results=multi_query_retrieval.multi_query_generation(user_question)
+    results=Process_pipeline.chunks_reranker(user_question)
 
     if not results:
         answer = "I don't have enough information to answer that question based on the provided documents."
@@ -64,7 +64,6 @@ def ask_questions(query):
 
     del chat_history[:-MAX_HISTORY_MESSAGES]
 
-    # Display the  result
     print("\n--- Generated Response ---")
 
     print("Content only:")
